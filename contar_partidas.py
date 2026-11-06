@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-PASTAS = {"csv premier ligue": "Premier League", "csv ligue 1": "Ligue 1"}
+PASTAS = {"data/raw/premier-league": "Premier League", "data/raw/ligue-1": "Ligue 1"}
 linhas = []
 
 for pasta, liga in PASTAS.items():
@@ -17,5 +17,5 @@ for pasta, liga in PASTAS.items():
                            "clube": clube, "partidas": partidas})
 
 res = pd.DataFrame(linhas).sort_values(["liga", "temporada", "clube"])
-res.to_csv("partidas_por_clube.csv", index=False)
+res.to_csv("data/processed/partidas_por_clube.csv", index=False)
 print(res.groupby(["liga", "temporada"])["partidas"].agg(clubes="count", min="min", max="max"))
