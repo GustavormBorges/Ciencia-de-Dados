@@ -1,4 +1,4 @@
-# Projero de Introdução à Ciência de Dados
+# Projeto de Introdução à Ciência de Dados
 
 Nome dos integrantes:
 Gustavo Ramos de Melo Borges
