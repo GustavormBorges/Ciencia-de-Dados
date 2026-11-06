@@ -1,7 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-PASTAS = {"csv pemier ligue": "Premier League", "csv ligue 1": "Ligue 1"}
+PASTAS = {"csv premier ligue": "Premier League", "csv ligue 1": "Ligue 1"}
 linhas = []
 
 for pasta, liga in PASTAS.items():
