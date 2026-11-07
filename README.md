@@ -16,8 +16,6 @@ O projeto investiga se clubes que disputam mais partidas por temporada têm joga
 ## Abordagem de coleta dos dados
 
 - Datasets públicos
-- APIs esportivas
-- Web scraping
 
 ## Dados no Google Drive
 
