@@ -13,3 +13,5 @@ Abordagem de coleta dos dados:
 APIs Esportivas
 Web Scraping
 Datasets Públicos
+
+https://drive.google.com/drive/folders/1appc788RuEs2cBCcn6SrUFIHQNCBNhw2?usp=sharing
