@@ -1,0 +1,262 @@
+﻿player_id,season_name,injury_reason,from_date,end_date,days_missed,games_missed,clube_identificado,metodo_identificacao,status_clube,competicoes_identificadas
+8806,18/19,Calf problems,2019-04-14,2019-05-15,32.0,4,,Revisar,Revisar,Ligue 1; Premier League
+8806,18/19,Thigh problems,2019-03-09,2019-04-01,24.0,2,,Revisar,Revisar,Ligue 1; Premier League
+8806,18/19,Knee problems,2018-08-10,2018-09-15,37.0,4,,Revisar,Revisar,Ligue 1; Premier League
+14221,17/18,muscular problems,2017-09-21,2017-10-24,34.0,6,,Revisar,Revisar,Premier League
+15921,15/16,Inner ligament stretch of the knee,2015-10-31,2016-01-10,72.0,10,,Revisar,Revisar,Premier League
+22614,20/21,Knee problems,2021-01-28,2021-01-29,2.0,0,,Revisar,Revisar,Premier League
+27306,17/18,Hamstring injury,2017-08-03,2017-11-16,106.0,16,,Revisar,Revisar,Ligue 1; Premier League
+27306,15/16,Hamstring injury,2016-05-12,2016-07-15,65.0,1,,Revisar,Revisar,Ligue 1; Premier League
+27306,15/16,Muscle tear,2016-02-18,2016-03-17,29.0,3,,Revisar,Revisar,Ligue 1; Premier League
+28356,15/16,Knock,2015-11-12,2015-12-01,20.0,2,,Revisar,Revisar,Ligue 1
+28356,15/16,Dead leg,2015-08-06,2015-08-13,8.0,1,,Revisar,Revisar,Ligue 1
+30456,16/17,Hamstring injury,2017-01-08,2017-02-03,27.0,3,,Revisar,Revisar,Premier League
+33713,20/21,Hamstring injury,2021-02-01,2021-03-25,53.0,11,,Revisar,Revisar,Premier League
+33713,20/21,Hamstring injury,2020-11-07,2020-11-22,16.0,0,,Revisar,Revisar,Premier League
+37011,15/16,Knee injury,2015-09-18,2015-10-17,30.0,4,,Revisar,Revisar,Premier League
+37647,16/17,Knock,2016-08-16,2016-08-30,15.0,4,,Revisar,Revisar,Ligue 1; Premier League
+37920,16/17,Back problems,2016-12-12,2016-12-15,4.0,1,,Revisar,Revisar,Ligue 1; Premier League
+37920,16/17,cold,2016-11-21,2016-11-28,8.0,1,,Revisar,Revisar,Ligue 1; Premier League
+37920,16/17,muscular problems,2016-08-21,2016-09-19,30.0,4,,Revisar,Revisar,Ligue 1; Premier League
+39883,16/17,Hamstring injury,2017-04-04,2017-05-31,58.0,7,,Revisar,Revisar,Ligue 1
+39883,16/17,Hamstring injury,2017-02-20,2017-03-07,16.0,2,,Revisar,Revisar,Ligue 1
+40433,17/18,Abdominal muscle strain,2017-08-06,2017-08-20,15.0,3,,Revisar,Revisar,Premier League
+40433,17/18,influenza,2017-07-27,2017-08-01,6.0,0,,Revisar,Revisar,Premier League
+45146,18/19,muscular problems,2019-05-17,2019-05-23,7.0,1,,Revisar,Revisar,Ligue 1
+45403,17/18,Hamstring injury,2018-01-16,2018-02-10,26.0,5,,Revisar,Revisar,Premier League
+45403,17/18,Ill,2017-11-16,2017-11-24,9.0,1,,Revisar,Revisar,Premier League
+45671,19/20,Groin injury,2019-10-18,2019-10-27,10.0,2,,Revisar,Revisar,Premier League
+46405,19/20,Thigh problems,2020-02-08,2020-09-30,236.0,15,,Revisar,Revisar,Ligue 1; Premier League
+47082,17/18,unknown injury,2018-02-12,2018-04-08,56.0,7,,Revisar,Revisar,Premier League
+47082,17/18,unknown injury,2017-12-08,2018-01-28,52.0,11,,Revisar,Revisar,Premier League
+47082,17/18,Hamstring injury,2017-08-02,2017-08-18,17.0,2,,Revisar,Revisar,Premier League
+49755,20/21,Knock,2021-02-14,2021-02-18,5.0,1,,Revisar,Revisar,Premier League
+49755,20/21,Hamstring injury,2020-11-19,2020-12-13,25.0,3,,Revisar,Revisar,Premier League
+49755,20/21,Knock,2020-09-18,2020-09-25,8.0,2,,Revisar,Revisar,Premier League
+55735,17/18,Knee injury,2018-04-05,2018-04-28,24.0,5,,Revisar,Revisar,Premier League
+56818,16/17,Knock,2016-10-15,2016-10-19,5.0,1,,Revisar,Revisar,Premier League
+57631,21/22,Knee surgery,2021-12-01,2022-01-31,62.0,3,,Revisar,Revisar,Premier League
+59866,15/16,Muscle injury,2016-02-27,2016-03-10,13.0,2,,Revisar,Revisar,Premier League
+59866,15/16,Hamstring injury,2015-12-05,2016-01-16,43.0,7,,Revisar,Revisar,Premier League
+67252,19/20,Knock,2019-11-11,2019-12-04,24.0,3,,Revisar,Revisar,Premier League
+67252,19/20,Groin strain,2019-10-20,2019-11-09,21.0,3,,Revisar,Revisar,Premier League
+71292,22/23,Hamstring injury,2022-07-26,2022-10-10,77.0,10,,Revisar,Revisar,Premier League
+73491,19/20,Ankle injury,2019-09-05,2019-11-29,86.0,9,,Revisar,Revisar,Premier League
+74223,16/17,Hairline fracture in the fibula,2017-04-16,2017-08-06,113.0,5,,Revisar,Revisar,Premier League
+74223,16/17,Knee injury,2016-07-31,2016-08-11,12.0,0,,Revisar,Revisar,Premier League
+74230,22/23,Injury to the ankle,2022-08-30,2022-09-01,3.0,1,,Revisar,Revisar,Ligue 1; Premier League
+74683,23/24,Muscle injury,2023-12-19,2024-01-12,25.0,2,,Revisar,Revisar,Ligue 1
+75471,16/17,Cruciate ligament tear,2016-12-05,2017-12-10,371.0,62,,Revisar,Revisar,Premier League
+77100,17/18,Ankle injury,2017-08-21,2017-09-07,18.0,3,,Revisar,Revisar,Ligue 1; Premier League
+79422,22/23,Groin injury,2023-05-20,2023-07-17,59.0,7,,Revisar,Revisar,Ligue 1; Premier League
+79422,22/23,Rest,2022-11-10,2022-11-14,5.0,2,,Revisar,Revisar,Ligue 1; Premier League
+79422,22/23,Back injury,2022-10-31,2022-11-10,11.0,3,,Revisar,Revisar,Ligue 1; Premier League
+79422,22/23,minor knock,2022-09-12,2022-09-15,4.0,1,,Revisar,Revisar,Ligue 1; Premier League
+79422,22/23,Lumbar vertebra problems,2022-08-20,2022-08-22,3.0,1,,Revisar,Revisar,Ligue 1; Premier League
+81386,16/17,Knee injury,2017-04-21,2017-06-26,67.0,5,,Revisar,Revisar,Ligue 1
+82442,17/18,Hamstring injury,2017-12-19,2018-01-29,42.0,9,,Revisar,Revisar,Premier League
+82442,17/18,Adductor pain,2017-11-12,2017-11-20,9.0,2,,Revisar,Revisar,Premier League
+85177,18/19,Hamstring injury,2019-04-14,2019-04-26,13.0,1,,Revisar,Revisar,Premier League
+85177,18/19,Knock,2018-11-27,2018-12-15,19.0,5,,Revisar,Revisar,Premier League
+90681,17/18,Knee injury,2018-02-10,2018-10-30,263.0,26,,Revisar,Revisar,Premier League
+94005,21/22,Ankle injury,2021-11-13,2022-01-08,57.0,12,,Revisar,Revisar,Ligue 1; Premier League
+108725,22/23,Hamstring injury,2023-03-30,2023-07-03,96.0,13,,Revisar,Revisar,Premier League
+108725,21/22,Hip injury,2022-05-09,2022-05-20,12.0,1,,Revisar,Revisar,Premier League
+110864,24/25,unknown injury,2025-04-11,2025-06-30,81.0,7,,Revisar,Revisar,Premier League
+112988,19/20,Broken nose bone,2020-06-17,2020-06-26,10.0,3,,Revisar,Revisar,Premier League
+112988,19/20,Knee injury,2020-01-21,2020-03-02,42.0,6,,Revisar,Revisar,Premier League
+112988,19/20,Calf injury,2019-09-26,2019-11-08,44.0,8,,Revisar,Revisar,Premier League
+113707,17/18,Broken toe,2017-10-24,2017-12-01,39.0,6,,Revisar,Revisar,Ligue 1
+121477,22/23,Hamstring injury,2022-08-01,2022-09-04,35.0,8,,Revisar,Revisar,Premier League
+124891,22/23,unknown injury,2022-07-31,2022-08-26,27.0,6,,Revisar,Revisar,Premier League
+124983,16/17,Hamstring injury,2017-04-09,2017-05-13,35.0,4,,Revisar,Revisar,Premier League
+126710,15/16,Knock,2016-01-28,2016-02-01,5.0,1,,Revisar,Revisar,Ligue 1
+126710,15/16,Calf problems,2015-08-27,2015-09-10,15.0,3,,Revisar,Revisar,Ligue 1
+127142,19/20,Thigh problems,2019-12-19,2020-04-01,105.0,16,,Revisar,Revisar,Ligue 1
+127142,19/20,Thigh problems,2019-10-15,2019-12-15,62.0,11,,Revisar,Revisar,Ligue 1
+128897,16/17,Fitness,2016-10-12,2017-01-20,101.0,15,,Revisar,Revisar,Premier League
+128969,20/21,Groin injury,2021-01-28,2021-02-05,9.0,2,,Revisar,Revisar,Premier League
+131978,20/21,Ill,2020-07-15,2020-07-23,9.0,2,,Revisar,Revisar,Premier League
+134270,21/22,Shoulder injury,2021-12-26,2021-12-28,3.0,0,,Revisar,Revisar,Premier League
+134270,21/22,Knee injury,2021-10-27,2021-11-19,24.0,2,,Revisar,Revisar,Premier League
+134270,21/22,Torn knee ligaments,2021-07-31,2021-09-18,50.0,5,,Revisar,Revisar,Premier League
+134294,22/23,Knee injury,2023-01-21,2023-01-21,1.0,0,,Revisar,Revisar,Premier League
+137745,20/21,Groin injury,2020-12-28,2021-02-13,48.0,11,,Revisar,Revisar,Ligue 1; Premier League
+137745,20/21,Knock,2020-10-26,2020-11-07,13.0,1,,Revisar,Revisar,Ligue 1; Premier League
+137745,20/21,Calf injury,2020-09-23,2020-10-18,26.0,2,,Revisar,Revisar,Ligue 1; Premier League
+139208,17/18,Thigh problems,2017-12-21,2018-01-15,26.0,5,,Revisar,Revisar,Premier League
+141660,20/21,bruise,2020-10-17,2020-12-01,46.0,13,,Revisar,Revisar,Premier League
+142310,22/23,Hamstring injury,2023-02-11,2023-05-07,86.0,14,,Revisar,Revisar,Premier League
+143424,17/18,Cruciate ligament tear,2018-04-25,2019-03-07,317.0,58,,Revisar,Revisar,Premier League
+157506,16/17,Muscle strain,2016-08-18,2016-09-17,31.0,6,,Revisar,Revisar,Premier League
+157509,21/22,Ankle sprain,2022-04-18,2022-04-25,8.0,1,,Revisar,Revisar,Premier League
+157509,21/22,Hamstring injury,2021-12-06,2022-01-17,43.0,10,,Revisar,Revisar,Premier League
+163568,20/21,Hip injury,2020-12-03,2020-12-31,29.0,6,,Revisar,Revisar,Ligue 1
+170929,24/25,Achilles tendon contusion,2025-05-04,2025-05-09,6.0,0,,Revisar,Revisar,Ligue 1
+170929,24/25,Calf injury,2025-01-11,2025-01-30,20.0,5,,Revisar,Revisar,Ligue 1
+170929,24/25,Muscle injury,2024-11-10,2024-11-25,16.0,2,,Revisar,Revisar,Ligue 1
+170929,24/25,Head injury,2024-10-26,2024-11-01,7.0,0,,Revisar,Revisar,Ligue 1
+174094,22/23,Hamstring injury,2023-03-01,2023-03-10,10.0,1,,Revisar,Revisar,Ligue 1; Premier League
+174094,20/21,Muscle injury,2020-12-13,2021-01-12,31.0,5,,Revisar,Revisar,Ligue 1; Premier League
+174094,20/21,Contracture,2020-09-12,2020-09-16,5.0,1,,Revisar,Revisar,Ligue 1; Premier League
+174915,17/18,Hamstring strain,2018-01-30,2018-03-10,40.0,5,,Revisar,Revisar,Premier League
+182877,15/16,Hamstring injury,2016-02-22,2016-02-29,8.0,2,,Revisar,Revisar,Ligue 1; Premier League
+184672,17/18,unknown injury,2018-01-14,2018-01-25,12.0,3,,Revisar,Revisar,Ligue 1; Premier League
+184672,17/18,Foot injury,2017-10-16,2017-10-30,15.0,3,,Revisar,Revisar,Ligue 1; Premier League
+191056,24/25,Injury to the ankle,2024-12-20,2024-12-30,11.0,1,,Revisar,Revisar,Ligue 1
+200777,15/16,Ankle injury,2015-09-06,2016-02-06,154.0,29,,Revisar,Revisar,Premier League
+202886,20/21,Knock,2020-07-31,2020-09-13,45.0,4,,Revisar,Revisar,Premier League
+203504,21/22,Dead leg,2022-04-01,2022-05-15,45.0,6,,Revisar,Revisar,Ligue 1
+203504,21/22,Pubalgia,2021-12-02,2021-12-31,30.0,3,,Revisar,Revisar,Ligue 1
+203746,23/24,Knock,2024-01-11,2024-01-15,5.0,1,,Revisar,Revisar,Ligue 1
+203746,23/24,Broken nose bone,2023-11-07,2023-11-10,4.0,1,,Revisar,Revisar,Ligue 1
+206746,20/21,Corona virus,2021-04-17,2021-04-27,11.0,1,,Revisar,Revisar,Ligue 1; Premier League
+206746,20/21,Fitness,2020-11-21,2020-12-27,37.0,7,,Revisar,Revisar,Ligue 1; Premier League
+206746,20/21,Calf injury,2020-09-20,2020-11-21,63.0,13,,Revisar,Revisar,Ligue 1; Premier League
+208244,16/17,bruise,2017-01-17,2017-02-04,19.0,5,,Revisar,Revisar,Premier League
+215118,16/17,Foot injury,2017-02-20,2017-04-17,57.0,9,,Revisar,Revisar,Premier League
+215118,16/17,Foot injury,2017-01-26,2017-02-02,8.0,2,,Revisar,Revisar,Premier League
+215679,18/19,Hamstring injury,2019-02-20,2019-05-09,79.0,10,,Revisar,Revisar,Ligue 1; Premier League
+215679,17/18,Foot injury,2017-08-01,2017-09-16,47.0,5,,Revisar,Revisar,Premier League
+215977,22/23,Muscle injury,2022-09-13,2022-10-03,21.0,2,,Revisar,Revisar,Ligue 1
+220878,22/23,Groin injury,2023-05-29,2023-06-30,33.0,1,,Revisar,Revisar,Ligue 1
+220878,22/23,Groin injury,2022-08-15,2022-08-30,16.0,2,,Revisar,Revisar,Ligue 1
+234781,21/22,Knee problems,2022-04-22,2022-05-05,14.0,2,,Revisar,Revisar,Ligue 1; Premier League
+234781,21/22,Calf injury,2022-02-20,2022-02-25,6.0,1,,Revisar,Revisar,Ligue 1; Premier League
+234781,21/22,Dead leg,2022-02-09,2022-02-12,4.0,0,,Revisar,Revisar,Ligue 1; Premier League
+234781,21/22,Knock,2022-01-27,2022-02-04,9.0,0,,Revisar,Revisar,Ligue 1; Premier League
+234781,21/22,Hamstring injury,2021-12-04,2021-12-31,28.0,2,,Revisar,Revisar,Ligue 1; Premier League
+241229,21/22,muscular problems,2021-09-04,2021-09-15,12.0,1,,Revisar,Revisar,Ligue 1
+242631,23/24,Hamstring injury,2023-08-20,2023-09-15,27.0,4,,Revisar,Revisar,Premier League
+258923,24/25,Ill,2025-01-04,2025-01-15,12.0,2,,Revisar,Revisar,Premier League
+260827,24/25,Achilles tendon problems,2024-11-24,2024-12-19,26.0,4,,Revisar,Revisar,Premier League
+260827,20/21,Ankle ligament tear,2020-10-15,2020-11-01,18.0,2,,Revisar,Revisar,Ligue 1; Premier League
+263236,24/25,Thigh problems,2025-06-09,2025-07-19,41.0,1,,Revisar,Revisar,Ligue 1; Premier League
+263236,24/25,Thigh problems,2025-03-12,2025-04-14,34.0,8,,Revisar,Revisar,Ligue 1; Premier League
+263236,24/25,heart problems,2024-08-31,2024-10-15,46.0,9,,Revisar,Revisar,Ligue 1; Premier League
+265569,18/19,Hip injury,2019-01-24,2019-01-31,8.0,2,,Revisar,Revisar,Ligue 1
+281404,16/17,Knee injury,2016-10-10,2017-01-27,110.0,16,,Revisar,Revisar,Premier League
+285845,20/21,Knock,2021-05-04,2021-05-15,12.0,1,,Revisar,Revisar,Premier League
+288255,21/22,Thigh problems,2022-04-21,2022-05-16,26.0,5,,Revisar,Revisar,Premier League
+288255,21/22,Thigh problems,2022-03-31,2022-04-11,12.0,3,,Revisar,Revisar,Premier League
+288255,21/22,Groin injury,2021-06-07,2021-07-12,36.0,0,,Revisar,Revisar,Premier League
+289592,24/25,Cruciate ligament tear,2025-01-26,2025-11-29,308.0,35,,Revisar,Revisar,Ligue 1; Premier League
+289592,23/24,Knock,2023-08-19,2023-08-27,9.0,1,,Revisar,Revisar,Ligue 1; Premier League
+290951,20/21,Ill,2021-02-02,2021-02-12,11.0,2,,Revisar,Revisar,Ligue 1; Premier League
+312017,18/19,Knee injury,2018-08-24,2018-10-26,64.0,12,,Revisar,Revisar,Premier League
+319301,22/23,Hamstring injury,2023-05-07,2023-05-21,15.0,3,,Revisar,Revisar,Premier League
+324690,16/17,Ankle injury,2017-02-08,2017-03-05,26.0,5,,Revisar,Revisar,Ligue 1
+325223,24/25,Hamstring injury,2025-05-09,2025-05-12,4.0,1,,Revisar,Revisar,Ligue 1
+325223,24/25,Calf injury,2025-02-28,2025-03-25,26.0,5,,Revisar,Revisar,Ligue 1
+325223,24/25,Leg injury,2025-01-27,2025-01-28,2.0,0,,Revisar,Revisar,Ligue 1
+326300,22/23,Knock,2023-05-01,2023-05-20,20.0,2,,Revisar,Revisar,Ligue 1
+326300,22/23,Back injury,2023-03-20,2023-04-12,24.0,2,,Revisar,Revisar,Ligue 1
+326300,22/23,Knock,2023-02-20,2023-03-01,10.0,1,,Revisar,Revisar,Ligue 1
+340324,24/25,Ankle injury,2021-08-03,2021-11-25,115.0,12,,Revisar,Revisar,Premier League
+340325,24/25,Hamstring injury,2024-12-06,2025-06-01,178.0,28,,Revisar,Revisar,Premier League
+340950,20/21,Foot injury,2021-05-13,2021-05-24,12.0,2,,Revisar,Revisar,Premier League
+340950,20/21,Knee bruise,2020-12-07,2021-03-01,85.0,18,,Revisar,Revisar,Premier League
+341051,19/20,Calf injury,2020-02-16,2020-02-28,13.0,1,,Revisar,Revisar,Premier League
+341051,19/20,Hamstring strain,2019-08-26,2019-09-17,23.0,2,,Revisar,Revisar,Premier League
+342229,17/18,Ankle problems,2018-03-01,2018-03-05,5.0,1,,Revisar,Revisar,Ligue 1
+342229,17/18,Head injury,2018-01-22,2018-01-29,8.0,2,,Revisar,Revisar,Ligue 1
+342229,17/18,Knee problems,2017-08-07,2017-08-10,4.0,0,,Revisar,Revisar,Ligue 1
+346314,24/25,unknown injury,2025-02-23,2025-03-04,10.0,1,,Revisar,Revisar,Premier League
+346314,24/25,Back injury,2025-02-22,2025-03-06,13.0,1,,Revisar,Revisar,Premier League
+346314,24/25,Abdominal muscle strain,2024-08-10,2024-09-27,49.0,8,,Revisar,Revisar,Premier League
+353399,21/22,unknown injury,2022-05-02,2022-05-20,19.0,2,,Revisar,Revisar,Ligue 1
+353399,21/22,Groin injury,2021-12-05,2022-01-31,58.0,8,,Revisar,Revisar,Ligue 1
+353399,21/22,Groin injury,2021-09-20,2021-10-30,41.0,4,,Revisar,Revisar,Ligue 1
+354352,16/17,Broken nose bone,2016-09-07,2016-09-23,17.0,3,,Revisar,Revisar,Ligue 1
+364135,20/21,Muscle fatigue,2021-03-24,2021-03-31,8.0,2,,Revisar,Revisar,Ligue 1; Premier League
+364135,20/21,Corona virus,2021-03-02,2021-03-16,15.0,4,,Revisar,Revisar,Ligue 1; Premier League
+364135,20/21,muscular problems,2020-11-08,2020-11-19,12.0,3,,Revisar,Revisar,Ligue 1; Premier League
+364135,20/21,Knock,2020-09-27,2020-10-14,18.0,2,,Revisar,Revisar,Ligue 1; Premier League
+372240,22/23,Forearm fracture,2023-02-05,2023-03-16,40.0,5,,Revisar,Revisar,Ligue 1; Premier League
+384593,22/23,Meniscus injury,2023-02-03,2023-03-06,32.0,7,,Revisar,Revisar,Ligue 1
+386047,24/25,Groin surgery,2024-06-07,2024-08-07,62.0,0,,Revisar,Revisar,Premier League
+411295,20/21,Hamstring injury,2021-04-12,2021-05-03,22.0,3,,Revisar,Revisar,Ligue 1; Premier League
+411295,20/21,Ankle injury,2020-10-26,2020-11-06,12.0,1,,Revisar,Revisar,Ligue 1; Premier League
+413032,20/21,Knock,2021-02-01,2021-03-02,30.0,7,,Revisar,Revisar,Ligue 1; Premier League
+413032,20/21,Knock,2020-11-02,2020-11-05,4.0,0,,Revisar,Revisar,Ligue 1; Premier League
+418659,24/25,Rest,2025-04-04,2025-04-07,4.0,1,,Revisar,Revisar,Ligue 1
+418659,24/25,Knee injury,2024-12-16,2025-01-02,18.0,1,,Revisar,Revisar,Ligue 1
+424051,21/22,Quarantine,2021-09-10,2021-09-17,8.0,1,,Revisar,Revisar,Ligue 1; Premier League
+427161,21/22,Knee injury,2021-08-05,2022-01-20,169.0,26,,Revisar,Revisar,Ligue 1
+427161,18/19,unknown injury,2018-09-03,2018-09-14,12.0,1,,Revisar,Revisar,Ligue 1
+427568,24/25,Muscle injury,2025-01-24,2025-01-30,7.0,1,,Revisar,Revisar,Premier League
+427568,24/25,Finger injury,2024-11-11,2024-12-20,40.0,8,,Revisar,Revisar,Premier League
+432772,18/19,Hamstring strain,2018-11-30,2018-12-17,18.0,4,,Revisar,Revisar,Ligue 1
+442531,20/21,Muscle strain,2020-10-16,2020-10-19,4.0,1,,Revisar,Revisar,Ligue 1; Premier League
+444523,22/23,Foot injury,2023-04-07,2023-04-13,7.0,1,,Revisar,Revisar,Ligue 1; Premier League
+444523,22/23,Shoulder injury,2023-02-11,2023-02-21,11.0,1,,Revisar,Revisar,Ligue 1; Premier League
+444523,22/23,Shoulder injury,2022-10-17,2022-11-05,20.0,5,,Revisar,Revisar,Ligue 1; Premier League
+450050,23/24,Knee injury,2024-03-10,2024-05-01,53.0,8,,Revisar,Revisar,Ligue 1; Premier League
+450050,23/24,Calf injury,2023-10-22,2023-11-02,12.0,1,,Revisar,Revisar,Ligue 1; Premier League
+450936,21/22,Knock,2021-08-08,2021-08-28,21.0,4,,Revisar,Revisar,Ligue 1; Premier League
+463603,22/23,Hamstring injury,2023-05-19,2023-08-31,105.0,7,,Revisar,Revisar,Ligue 1; Premier League
+463603,22/23,Adductor injury,2022-10-13,2022-10-20,8.0,2,,Revisar,Revisar,Ligue 1; Premier League
+463603,22/23,Muscle injury,2022-07-15,2022-08-10,27.0,3,,Revisar,Revisar,Ligue 1; Premier League
+470607,23/24,Head injury,2023-12-15,2023-12-18,4.0,0,,Revisar,Revisar,Premier League
+470607,23/24,Hamstring injury,2023-09-28,2023-10-21,24.0,4,,Revisar,Revisar,Premier League
+475411,22/23,Knee injury,2022-12-20,2023-02-13,56.0,9,,Revisar,Revisar,Premier League
+475411,22/23,Knee injury,2022-10-06,2022-12-16,72.0,11,,Revisar,Revisar,Premier League
+475411,20/21,Hamstring strain,2021-02-03,2021-03-01,27.0,8,,Revisar,Revisar,Ligue 1; Premier League
+475411,20/21,Knee injury,2020-12-27,2021-01-02,7.0,1,,Revisar,Revisar,Ligue 1; Premier League
+475411,20/21,Knee injury,2020-11-09,2020-11-21,13.0,2,,Revisar,Revisar,Ligue 1; Premier League
+483348,22/23,Knee injury,2023-05-12,2023-06-15,35.0,4,,Revisar,Revisar,Ligue 1; Premier League
+485960,24/25,Hamstring injury,2025-03-15,2025-03-20,6.0,1,,Revisar,Revisar,Ligue 1
+485960,20/21,Knee problems,2021-02-04,2021-02-08,5.0,1,,Revisar,Revisar,Ligue 1
+486049,23/24,minor knock,2024-03-04,2024-03-08,5.0,1,,Revisar,Revisar,Ligue 1; Premier League
+486049,23/24,Muscle injury,2023-12-04,2024-01-05,33.0,8,,Revisar,Revisar,Ligue 1; Premier League
+495667,21/22,Virus,2022-04-01,2022-04-05,5.0,1,,Revisar,Revisar,Ligue 1
+503733,22/23,Ankle injury,2023-03-10,2023-04-01,23.0,4,,Revisar,Revisar,Premier League
+503733,22/23,Ill,2022-12-29,2023-01-04,7.0,2,,Revisar,Revisar,Premier League
+503866,24/25,Tendon irritation,2025-04-01,2025-05-05,35.0,6,,Revisar,Revisar,Ligue 1; Premier League
+505219,22/23,Back injury,2022-11-12,2023-02-09,90.0,8,,Revisar,Revisar,Premier League
+551505,24/25,Ankle sprain,2024-09-05,2024-10-24,50.0,8,,Revisar,Revisar,Ligue 1
+555076,23/24,Injury to the ankle,2024-05-11,2024-05-20,10.0,1,,Revisar,Revisar,Ligue 1; Premier League
+555076,23/24,Dead leg,2024-04-20,2024-06-03,45.0,4,,Revisar,Revisar,Ligue 1; Premier League
+555076,23/24,Ill,2024-02-16,2024-02-23,8.0,1,,Revisar,Revisar,Ligue 1; Premier League
+555076,21/22,Groin injury,2022-01-23,2022-02-07,16.0,2,,Revisar,Revisar,Ligue 1
+557613,23/24,Ankle sprain,2024-04-12,2024-05-02,21.0,4,,Revisar,Revisar,Ligue 1
+559130,22/23,Hamstring injury,2023-02-15,2023-03-17,31.0,2,,Revisar,Revisar,Premier League
+566025,21/22,Nose injury,2022-03-25,2022-04-07,14.0,2,,Revisar,Revisar,Premier League
+566823,24/25,Hamstring injury,2025-01-07,2025-02-14,39.0,8,,Revisar,Revisar,Ligue 1; Premier League
+566823,24/25,Ankle injury,2024-10-29,2024-12-01,34.0,4,,Revisar,Revisar,Ligue 1; Premier League
+566823,24/25,Ankle sprain,2024-09-09,2024-09-18,10.0,1,,Revisar,Revisar,Ligue 1; Premier League
+568177,23/24,cold,2024-04-22,2024-04-25,4.0,1,,Revisar,Revisar,Premier League
+569598,19/20,Ankle sprain,2019-08-11,2019-10-02,53.0,14,,Revisar,Revisar,Ligue 1
+571743,23/24,cold,2024-02-16,2024-02-19,4.0,1,,Revisar,Revisar,Premier League
+571743,23/24,Knee problems,2023-10-09,2023-11-08,31.0,6,,Revisar,Revisar,Premier League
+572326,22/23,Collateral ligament injury,2023-05-18,2023-06-18,32.0,4,,Revisar,Revisar,Ligue 1
+572326,22/23,Injury to the ankle,2023-02-03,2023-02-15,13.0,2,,Revisar,Revisar,Ligue 1
+572326,22/23,Ill,2022-12-28,2022-12-30,3.0,1,,Revisar,Revisar,Ligue 1
+578391,20/21,Groin injury,2021-01-28,2021-02-10,14.0,3,,Revisar,Revisar,Ligue 1; Premier League
+578391,20/21,bruise,2020-11-09,2020-11-22,14.0,0,,Revisar,Revisar,Ligue 1; Premier League
+585959,22/23,Dead leg,2023-01-16,2023-02-03,19.0,3,,Revisar,Revisar,Ligue 1
+585959,22/23,Muscle tear,2022-08-22,2022-09-16,26.0,6,,Revisar,Revisar,Ligue 1
+585959,21/22,angina,2022-01-20,2022-01-24,5.0,1,,Revisar,Revisar,Ligue 1
+585959,20/21,Knee injury,2021-03-18,2021-03-29,12.0,3,,Revisar,Revisar,Ligue 1
+593482,22/23,Broken toe,2023-03-26,2023-06-15,82.0,12,,Revisar,Revisar,Ligue 1
+601883,23/24,Muscle injury,2023-11-14,2023-12-04,21.0,5,,Revisar,Revisar,Premier League
+621993,24/25,Achilles tendon contusion,2025-02-17,2025-04-04,47.0,7,,Revisar,Revisar,Ligue 1; Premier League
+621993,24/25,unknown injury,2024-10-24,2024-12-31,69.0,13,,Revisar,Revisar,Ligue 1; Premier League
+648046,24/25,Ankle problems,2024-12-25,2025-01-31,38.0,7,,Revisar,Revisar,Premier League
+659542,23/24,Ill,2023-12-15,2023-12-18,4.0,1,,Revisar,Revisar,Ligue 1
+660867,24/25,Knee injury,2025-02-16,2025-03-06,19.0,3,,Revisar,Revisar,Premier League
+665390,24/25,Knee injury,2025-04-14,2025-06-16,64.0,6,,Revisar,Revisar,Premier League
+683895,24/25,Muscle fatigue,2025-02-17,2025-03-03,15.0,3,,Revisar,Revisar,Ligue 1; Premier League
+708265,23/24,Muscle injury,2024-04-23,2024-04-25,3.0,1,,Revisar,Revisar,Ligue 1
+708265,23/24,Hamstring muscle injury,2024-03-23,2024-04-07,16.0,3,,Revisar,Revisar,Ligue 1
+730581,22/23,Torn thigh muscle,2023-02-17,2023-03-08,20.0,4,,Revisar,Revisar,Ligue 1; Premier League
+746695,22/23,Injury to the ankle,2022-11-02,2022-11-07,6.0,2,,Revisar,Revisar,Ligue 1; Premier League
+746695,22/23,Knee problems,2022-09-29,2022-10-10,12.0,2,,Revisar,Revisar,Ligue 1; Premier League
+807165,24/25,Dead leg,2024-09-27,2024-10-18,22.0,2,,Revisar,Revisar,Ligue 1
+807165,23/24,Ankle sprain,2024-03-22,2024-05-09,49.0,8,,Revisar,Revisar,Ligue 1
+849410,24/25,Hamstring injury,2025-01-22,2025-02-10,20.0,3,,Revisar,Revisar,Ligue 1; Premier League
+849410,24/25,Groin injury,2025-01-10,2025-01-19,10.0,2,,Revisar,Revisar,Ligue 1; Premier League
+921655,24/25,Ankle injury,2024-10-02,2024-10-20,19.0,2,,Revisar,Revisar,Ligue 1
+921655,24/25,Injury to the ankle,2024-08-08,2024-09-02,26.0,3,,Revisar,Revisar,Ligue 1
+1010854,24/25,Calf injury,2024-12-15,2025-01-11,28.0,2,,Revisar,Revisar,Ligue 1; Premier League
+1078163,24/25,Foot injury,2025-03-16,2025-05-16,62.0,10,,Revisar,Revisar,Premier League
