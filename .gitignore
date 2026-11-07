@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# bases de origem grandes, usadas pelos scripts de lesões
+datalake/
+football-datasets-main/
