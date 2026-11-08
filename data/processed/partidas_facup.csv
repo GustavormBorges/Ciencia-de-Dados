@@ -1,0 +1,1437 @@
+﻿temporada,data,mandante,visitante,gols_mandante,gols_visitante,fonte,status_competicao,contar_como_partida
+2015/2016,2016-04-23,Everton,Man United,1,2,RDA,normal,sim
+2015/2016,2016-04-24,Crystal Palace,Watford,2,1,RDA,normal,sim
+2015/2016,2016-03-11,Reading,Crystal Palace,0,2,RDA,normal,sim
+2015/2016,2016-03-12,Everton,Chelsea,2,0,RDA,normal,sim
+2015/2016,2016-03-13,Arsenal,Watford,1,2,RDA,normal,sim
+2015/2016,2016-03-13,Man United,West Ham,1,1,RDA,normal,sim
+2015/2016,2016-04-13,West Ham,Man United,1,2,RDA,normal,sim
+2015/2016,2016-02-20,Arsenal,Hull,0,0,RDA,normal,sim
+2015/2016,2016-02-20,Reading,West Brom,3,1,RDA,normal,sim
+2015/2016,2016-02-20,Watford,Leeds,1,0,RDA,normal,sim
+2015/2016,2016-02-20,Bournemouth,Everton,0,2,RDA,normal,sim
+2015/2016,2016-02-21,Blackburn Rovers,West Ham,1,5,RDA,normal,sim
+2015/2016,2016-02-21,Tottenham,Crystal Palace,0,1,RDA,normal,sim
+2015/2016,2016-02-21,Chelsea,Man City,5,1,RDA,normal,sim
+2015/2016,2016-02-22,Shrewsbury Town,Man United,0,3,RDA,normal,sim
+2015/2016,2016-03-08,Hull,Arsenal,0,4,RDA,normal,sim
+2015/2016,2016-01-29,Derby County,Man United,1,3,RDA,normal,sim
+2015/2016,2016-01-30,Colchester United,Tottenham,1,4,RDA,normal,sim
+2015/2016,2016-01-30,West Brom,Peterborough United,2,2,RDA,normal,sim
+2015/2016,2016-01-30,Bolton Wanderers,Leeds,1,2,RDA,normal,sim
+2015/2016,2016-01-30,Arsenal,Burnley,2,1,RDA,normal,sim
+2015/2016,2016-01-30,Reading,Walsall,4,0,RDA,normal,sim
+2015/2016,2016-01-30,Shrewsbury Town,Sheffield Wednesday,3,2,RDA,normal,sim
+2015/2016,2016-01-30,Nott'm Forest,Watford,0,1,RDA,normal,sim
+2015/2016,2016-01-30,Crystal Palace,Stoke,1,0,RDA,normal,sim
+2015/2016,2016-01-30,Oxford United,Blackburn Rovers,0,3,RDA,normal,sim
+2015/2016,2016-01-30,Portsmouth,Bournemouth,1,2,RDA,normal,sim
+2015/2016,2016-01-30,Bury,Hull,1,3,RDA,normal,sim
+2015/2016,2016-01-30,Aston Villa,Man City,0,4,RDA,normal,sim
+2015/2016,2016-01-30,Liverpool,West Ham,0,0,RDA,normal,sim
+2015/2016,2016-01-31,Carlisle United,Everton,0,3,RDA,normal,sim
+2015/2016,2016-01-31,Milton Keynes Dons,Chelsea,1,5,RDA,normal,sim
+2015/2016,2016-02-09,West Ham,Liverpool,2,1,RDA,normal,sim
+2015/2016,2016-02-10,Peterborough United,West Brom,1,1,RDA,normal,sim
+2015/2016,2016-01-08,Exeter City,Liverpool,2,2,RDA,normal,sim
+2015/2016,2016-01-09,Wycombe Wanderers,Aston Villa,1,1,RDA,normal,sim
+2015/2016,2016-01-09,Watford,Newcastle,1,0,RDA,normal,sim
+2015/2016,2016-01-09,West Brom,Bristol City,2,2,RDA,normal,sim
+2015/2016,2016-01-09,West Ham,Wolves,1,0,RDA,normal,sim
+2015/2016,2016-01-09,Hartlepool United,Derby County,1,2,RDA,normal,sim
+2015/2016,2016-01-09,Colchester United,Charlton Athletic,2,1,RDA,normal,sim
+2015/2016,2016-01-09,Peterborough United,Preston North End,2,0,RDA,normal,sim
+2015/2016,2016-01-09,Northampton Town,Milton Keynes Dons,2,2,RDA,normal,sim
+2015/2016,2016-01-09,Arsenal,Sunderland,3,1,RDA,normal,sim
+2015/2016,2016-01-09,Ipswich,Portsmouth,2,2,RDA,normal,sim
+2015/2016,2016-01-09,Birmingham City,Bournemouth,1,2,RDA,normal,sim
+2015/2016,2016-01-09,Sheffield Wednesday,Fulham,2,1,RDA,normal,sim
+2015/2016,2016-01-09,Brentford,Walsall,0,1,RDA,normal,sim
+2015/2016,2016-01-09,Bury,Bradford City,0,0,RDA,normal,sim
+2015/2016,2016-01-09,Everton,Dagenham And Redbridge,2,0,RDA,normal,sim
+2015/2016,2016-01-09,Southampton,Crystal Palace,1,2,RDA,normal,sim
+2015/2016,2016-01-09,Eastleigh,Bolton Wanderers,1,1,RDA,normal,sim
+2015/2016,2016-01-09,Nott'm Forest,Queens Park Rangers,1,0,RDA,normal,sim
+2015/2016,2016-01-09,Doncaster Rovers,Stoke,1,2,RDA,normal,sim
+2015/2016,2016-01-09,Leeds,Rotherham United,2,0,RDA,normal,sim
+2015/2016,2016-01-09,Huddersfield,Reading,2,2,RDA,normal,sim
+2015/2016,2016-01-09,Middlesbrough,Burnley,1,2,RDA,normal,sim
+2015/2016,2016-01-09,Norwich,Man City,0,3,RDA,normal,sim
+2015/2016,2016-01-09,Hull,Brighton,1,0,RDA,normal,sim
+2015/2016,2016-01-09,Man United,Sheffield United,1,0,RDA,normal,sim
+2015/2016,2016-01-10,Oxford United,Swansea,3,2,RDA,normal,sim
+2015/2016,2016-01-10,Carlisle United,Yeovil Town,2,2,RDA,normal,sim
+2015/2016,2016-01-10,Chelsea,Scunthorpe United,2,0,RDA,normal,sim
+2015/2016,2016-01-10,Tottenham,Leicester,2,2,RDA,normal,sim
+2015/2016,2016-01-10,Cardiff,Shrewsbury Town,0,1,RDA,normal,sim
+2015/2016,2016-01-18,Newport County,Blackburn Rovers,1,2,RDA,normal,sim
+2015/2016,2016-01-19,Aston Villa,Wycombe Wanderers,2,0,RDA,normal,sim
+2015/2016,2016-01-19,Bristol City,West Brom,0,1,RDA,normal,sim
+2015/2016,2016-01-19,Milton Keynes Dons,Northampton Town,3,0,RDA,normal,sim
+2015/2016,2016-01-19,Portsmouth,Ipswich,2,1,RDA,normal,sim
+2015/2016,2016-01-19,Bradford City,Bury,0,0,RDA,normal,sim
+2015/2016,2016-01-19,Yeovil Town,Carlisle United,1,1,RDA,normal,sim
+2015/2016,2016-01-19,Bolton Wanderers,Eastleigh,3,2,RDA,normal,sim
+2015/2016,2016-01-19,Reading,Huddersfield,5,2,RDA,normal,sim
+2015/2016,2016-01-20,Leicester,Tottenham,0,2,RDA,normal,sim
+2015/2016,2016-01-20,Liverpool,Exeter City,3,0,RDA,normal,sim
+2015/2016,2015-12-04,Salford City,Hartlepool United,1,1,RDA,normal,sim
+2015/2016,2015-12-05,Barnet,Newport County,0,1,RDA,normal,sim
+2015/2016,2015-12-05,Portsmouth,Accrington Stanley,1,0,RDA,normal,sim
+2015/2016,2015-12-05,Stourbridge,Eastleigh,0,2,RDA,normal,sim
+2015/2016,2015-12-05,Northampton Town,Northwich Victoria,3,2,RDA,normal,sim
+2015/2016,2015-12-05,Yeovil Town,Stevenage Borough,1,0,RDA,normal,sim
+2015/2016,2015-12-05,Millwall,Wycombe Wanderers,1,2,RDA,normal,sim
+2015/2016,2015-12-05,Chesterfield,Walsall,1,1,RDA,normal,sim
+2015/2016,2015-12-05,Sheffield United,Oldham Athletic,1,0,RDA,normal,sim
+2015/2016,2015-12-05,Leyton Orient,Scunthorpe United,0,0,RDA,normal,sim
+2015/2016,2015-12-06,Rochdale,Bury,0,1,RDA,normal,sim
+2015/2016,2015-12-06,Bradford City,Chesham United,4,0,RDA,normal,sim
+2015/2016,2015-12-06,Peterborough United,Luton,2,0,RDA,normal,sim
+2015/2016,2015-12-06,Exeter City,Port Vale,2,0,RDA,normal,sim
+2015/2016,2015-12-06,Cambridge United,Doncaster Rovers,1,3,RDA,normal,sim
+2015/2016,2015-12-06,Welling United,Carlisle United,0,5,RDA,normal,sim
+2015/2016,2015-12-06,Colchester United,Altrincham,3,2,RDA,normal,sim
+2015/2016,2015-12-06,Dagenham And Redbridge,Whitehawk,1,1,RDA,normal,sim
+2015/2016,2015-12-06,Oxford United,Forest Green Rovers,1,0,RDA,normal,sim
+2015/2016,2015-12-07,Grimsby Town,Shrewsbury Town,0,0,RDA,normal,sim
+2015/2016,2015-12-15,Scunthorpe United,Leyton Orient,3,0,RDA,normal,sim
+2015/2016,2015-12-15,Walsall,Chesterfield,0,0,RDA,normal,sim
+2015/2016,2015-12-15,Hartlepool United,Salford City,2,0,RDA,normal,sim
+2015/2016,2015-12-15,Shrewsbury Town,Grimsby Town,1,0,RDA,normal,sim
+2015/2016,2015-12-16,Whitehawk,Dagenham And Redbridge,2,3,RDA,normal,sim
+2015/2016,2015-11-06,Salford City,Notts County,2,0,RDA,normal,sim
+2015/2016,2015-11-07,Burton Albion,Peterborough United,0,3,RDA,normal,sim
+2015/2016,2015-11-07,Barnet,Blackpool,2,0,RDA,normal,sim
+2015/2016,2015-11-07,Mansfield Town,Oldham Athletic,0,0,RDA,normal,sim
+2015/2016,2015-11-07,Cambridge United,Basingstoke Town,1,0,RDA,normal,sim
+2015/2016,2015-11-07,Altrincham,Barnsley,1,0,RDA,normal,sim
+2015/2016,2015-11-07,Crewe Alexandra,Eastleigh,0,1,RDA,normal,sim
+2015/2016,2015-11-07,Northwich Victoria,Boreham Wood,1,1,RDA,normal,sim
+2015/2016,2015-11-07,Coventry City,Northampton Town,1,2,RDA,normal,sim
+2015/2016,2015-11-07,Grimsby Town,St Albans,5,1,RDA,normal,sim
+2015/2016,2015-11-07,Hartlepool United,Cheltenham,1,0,RDA,normal,sim
+2015/2016,2015-11-07,Dover Athletic,Stourbridge,1,2,RDA,normal,sim
+2015/2016,2015-11-07,Stevenage Borough,Gillingham,3,0,RDA,normal,sim
+2015/2016,2015-11-07,Millwall,Fylde,3,1,RDA,normal,sim
+2015/2016,2015-11-07,Walsall,Fleetwood Town,2,0,RDA,normal,sim
+2015/2016,2015-11-07,Bury,Wigan Athletic,4,0,RDA,normal,sim
+2015/2016,2015-11-07,Portsmouth,Macclesfield,2,1,RDA,normal,sim
+2015/2016,2015-11-07,Sheffield United,Worcester City,3,0,RDA,normal,sim
+2015/2016,2015-11-07,Barwell,Welling United,0,2,RDA,normal,sim
+2015/2016,2015-11-07,Crawley Town,Luton,1,2,RDA,normal,sim
+2015/2016,2015-11-07,Doncaster Rovers,Stalybridge Celtic,2,0,RDA,normal,sim
+2015/2016,2015-11-07,Dagenham And Redbridge,Morecambe,0,0,RDA,normal,sim
+2015/2016,2015-11-07,Leyton Orient,Staines Town,6,1,RDA,normal,sim
+2015/2016,2015-11-07,Accrington Stanley,York City,3,2,RDA,normal,sim
+2015/2016,2015-11-07,Scunthorpe United,Southend United,2,1,RDA,normal,sim
+2015/2016,2015-11-07,Wimbledon,Forest Green Rovers,1,2,RDA,normal,sim
+2015/2016,2015-11-07,Plymouth Argyle,Carlisle United,0,2,RDA,normal,sim
+2015/2016,2015-11-07,Rochdale,Swindon Town,3,1,RDA,normal,sim
+2015/2016,2015-11-07,Wealdstone,Colchester United,2,6,RDA,normal,sim
+2015/2016,2015-11-08,Didcot Town,Exeter City,0,3,RDA,normal,sim
+2015/2016,2015-11-08,Bristol Rovers,Chesham United,0,1,RDA,normal,sim
+2015/2016,2015-11-08,Brackley Town,Newport County,2,2,RDA,normal,sim
+2015/2016,2015-11-08,Aldershot Town,Bradford City,0,0,RDA,normal,sim
+2015/2016,2015-11-08,Halifax Town,Wycombe Wanderers,0,4,RDA,normal,sim
+2015/2016,2015-11-08,Gainsborough Trinity,Shrewsbury Town,0,1,RDA,normal,sim
+2015/2016,2015-11-08,Maidstone United,Yeovil Town,0,1,RDA,normal,sim
+2015/2016,2015-11-08,Braintree Town,Oxford United,1,1,RDA,normal,sim
+2015/2016,2015-11-08,Whitehawk,Lincoln City,5,3,RDA,normal,sim
+2015/2016,2015-11-08,Port Vale,Maidenhead United,1,1,RDA,normal,sim
+2015/2016,2015-11-09,United Of Manchester,Chesterfield,1,4,RDA,normal,sim
+2015/2016,2015-11-16,Boreham Wood,Northwich Victoria,1,2,RDA,normal,sim
+2015/2016,2015-11-17,Oldham Athletic,Mansfield Town,2,0,RDA,normal,sim
+2015/2016,2015-11-17,Newport County,Brackley Town,4,1,RDA,normal,sim
+2015/2016,2015-11-17,Morecambe,Dagenham And Redbridge,2,4,RDA,normal,sim
+2015/2016,2015-11-17,Oxford United,Braintree Town,3,1,RDA,normal,sim
+2015/2016,2015-11-18,Bradford City,Aldershot Town,2,0,RDA,normal,sim
+2015/2016,2015-11-19,Maidenhead United,Port Vale,1,3,RDA,normal,sim
+2015/2016,2016-05-21,Man United,Crystal Palace,2,1,RDA,normal,sim
+2016/2017,2017-04-22,Chelsea,Tottenham,4,2,RDA,normal,sim
+2016/2017,2017-04-23,Arsenal,Man City,2,1,RDA,normal,sim
+2016/2017,2017-03-11,Middlesbrough,Man City,0,2,RDA,normal,sim
+2016/2017,2017-03-11,Arsenal,Lincoln City,5,0,RDA,normal,sim
+2016/2017,2017-03-12,Tottenham,Millwall,6,0,RDA,normal,sim
+2016/2017,2017-03-13,Chelsea,Man United,1,0,RDA,normal,sim
+2016/2017,2017-02-18,Burnley,Lincoln City,0,1,RDA,normal,sim
+2016/2017,2017-02-18,Middlesbrough,Oxford United,3,2,RDA,normal,sim
+2016/2017,2017-02-18,Huddersfield,Man City,0,0,RDA,normal,sim
+2016/2017,2017-02-18,Millwall,Leicester,1,0,RDA,normal,sim
+2016/2017,2017-02-18,Wolves,Chelsea,0,2,RDA,normal,sim
+2016/2017,2017-02-19,Fulham,Tottenham,0,3,RDA,normal,sim
+2016/2017,2017-02-19,Blackburn Rovers,Man United,1,2,RDA,normal,sim
+2016/2017,2017-02-20,Sutton United,Arsenal,0,2,RDA,normal,sim
+2016/2017,2017-03-01,Man City,Huddersfield,5,1,RDA,normal,sim
+2016/2017,2017-01-27,Derby County,Leicester,2,2,RDA,normal,sim
+2016/2017,2017-01-28,Liverpool,Wolves,1,2,RDA,normal,sim
+2016/2017,2017-01-28,Tottenham,Wycombe Wanderers,4,3,RDA,normal,sim
+2016/2017,2017-01-28,Oxford United,Newcastle,3,0,RDA,normal,sim
+2016/2017,2017-01-28,Lincoln City,Brighton,3,1,RDA,normal,sim
+2016/2017,2017-01-28,Chelsea,Brentford,4,0,RDA,normal,sim
+2016/2017,2017-01-28,Rochdale,Huddersfield,0,4,RDA,normal,sim
+2016/2017,2017-01-28,Burnley,Bristol City,2,0,RDA,normal,sim
+2016/2017,2017-01-28,Blackburn Rovers,Blackpool,2,0,RDA,normal,sim
+2016/2017,2017-01-28,Crystal Palace,Man City,0,3,RDA,normal,sim
+2016/2017,2017-01-28,Middlesbrough,Accrington Stanley,1,0,RDA,normal,sim
+2016/2017,2017-01-28,Southampton,Arsenal,0,5,RDA,normal,sim
+2016/2017,2017-01-29,Millwall,Watford,1,0,RDA,normal,sim
+2016/2017,2017-01-29,Fulham,Hull,4,1,RDA,normal,sim
+2016/2017,2017-01-29,Sutton United,Leeds,1,0,RDA,normal,sim
+2016/2017,2017-01-29,Man United,Wigan Athletic,4,0,RDA,normal,sim
+2016/2017,2017-02-08,Leicester,Derby County,3,1,RDA,normal,sim
+2016/2017,2017-01-06,West Ham,Man City,0,5,RDA,normal,sim
+2016/2017,2017-01-07,Man United,Reading,4,0,RDA,normal,sim
+2016/2017,2017-01-07,Ipswich,Lincoln City,2,2,RDA,normal,sim
+2016/2017,2017-01-07,Hull,Swansea,2,0,RDA,normal,sim
+2016/2017,2017-01-07,Sunderland,Burnley,0,0,RDA,normal,sim
+2016/2017,2017-01-07,Queens Park Rangers,Blackburn Rovers,1,2,RDA,normal,sim
+2016/2017,2017-01-07,Brighton,Milton Keynes Dons,2,0,RDA,normal,sim
+2016/2017,2017-01-07,Millwall,Bournemouth,3,0,RDA,normal,sim
+2016/2017,2017-01-07,Blackpool,Barnsley,0,0,RDA,normal,sim
+2016/2017,2017-01-07,Wigan Athletic,Nott'm Forest,2,0,RDA,normal,sim
+2016/2017,2017-01-07,Rotherham United,Oxford United,2,3,RDA,normal,sim
+2016/2017,2017-01-07,Norwich,Southampton,2,2,RDA,normal,sim
+2016/2017,2017-01-07,Barrow,Rochdale,0,2,RDA,normal,sim
+2016/2017,2017-01-07,West Brom,Derby County,1,2,RDA,normal,sim
+2016/2017,2017-01-07,Everton,Leicester,1,2,RDA,normal,sim
+2016/2017,2017-01-07,Wycombe Wanderers,Stourbridge,2,1,RDA,normal,sim
+2016/2017,2017-01-07,Watford,Burton Albion,2,0,RDA,normal,sim
+2016/2017,2017-01-07,Stoke,Wolves,0,2,RDA,normal,sim
+2016/2017,2017-01-07,Bristol City,Fleetwood Town,0,0,RDA,normal,sim
+2016/2017,2017-01-07,Huddersfield,Port Vale,4,0,RDA,normal,sim
+2016/2017,2017-01-07,Brentford,Eastleigh,5,1,RDA,normal,sim
+2016/2017,2017-01-07,Birmingham City,Newcastle,1,1,RDA,normal,sim
+2016/2017,2017-01-07,Bolton Wanderers,Crystal Palace,0,0,RDA,normal,sim
+2016/2017,2017-01-07,Sutton United,Wimbledon,0,0,RDA,normal,sim
+2016/2017,2017-01-07,Accrington Stanley,Luton,2,1,RDA,normal,sim
+2016/2017,2017-01-07,Preston North End,Arsenal,1,2,RDA,normal,sim
+2016/2017,2017-01-08,Cardiff,Fulham,1,2,RDA,normal,sim
+2016/2017,2017-01-08,Liverpool,Plymouth Argyle,0,0,RDA,normal,sim
+2016/2017,2017-01-08,Chelsea,Peterborough United,4,1,RDA,normal,sim
+2016/2017,2017-01-08,Middlesbrough,Sheffield Wednesday,3,0,RDA,normal,sim
+2016/2017,2017-01-08,Tottenham,Aston Villa,2,0,RDA,normal,sim
+2016/2017,2017-01-09,Cambridge United,Leeds,1,2,RDA,normal,sim
+2016/2017,2017-01-17,Burnley,Sunderland,2,0,RDA,normal,sim
+2016/2017,2017-01-17,Barnsley,Blackpool,1,2,RDA,normal,sim
+2016/2017,2017-01-17,Fleetwood Town,Bristol City,0,1,RDA,normal,sim
+2016/2017,2017-01-17,Wimbledon,Sutton United,1,3,RDA,normal,sim
+2016/2017,2017-01-17,Crystal Palace,Bolton Wanderers,2,1,RDA,normal,sim
+2016/2017,2017-01-17,Lincoln City,Ipswich,1,0,RDA,normal,sim
+2016/2017,2017-01-18,Southampton,Norwich,1,0,RDA,normal,sim
+2016/2017,2017-01-18,Newcastle,Birmingham City,3,1,RDA,normal,sim
+2016/2017,2017-01-18,Plymouth Argyle,Liverpool,0,1,RDA,normal,sim
+2016/2017,2016-12-02,Macclesfield,Oxford United,0,0,RDA,normal,sim
+2016/2017,2016-12-03,Chesterfield,Wycombe Wanderers,0,5,RDA,normal,sim
+2016/2017,2016-12-03,Blackpool,Brackley Town,1,0,RDA,normal,sim
+2016/2017,2016-12-03,Luton,Solihull,6,2,RDA,normal,sim
+2016/2017,2016-12-03,Sutton United,Cheltenham,2,1,RDA,normal,sim
+2016/2017,2016-12-03,Shrewsbury Town,Fleetwood Town,0,0,RDA,normal,sim
+2016/2017,2016-12-03,Charlton Athletic,Milton Keynes Dons,0,0,RDA,normal,sim
+2016/2017,2016-12-03,Plymouth Argyle,Newport County,0,0,RDA,normal,sim
+2016/2017,2016-12-03,Carlisle United,Rochdale,0,2,RDA,normal,sim
+2016/2017,2016-12-04,Curzon Ashton,Wimbledon,3,4,RDA,normal,sim
+2016/2017,2016-12-04,Millwall,Braintree Town,5,2,RDA,normal,sim
+2016/2017,2016-12-04,Bolton Wanderers,Sheffield United,3,2,RDA,normal,sim
+2016/2017,2016-12-04,Notts County,Peterborough United,2,2,RDA,normal,sim
+2016/2017,2016-12-04,Cambridge United,Coventry City,4,0,RDA,normal,sim
+2016/2017,2016-12-04,Bristol Rovers,Barrow,1,2,RDA,normal,sim
+2016/2017,2016-12-04,Woking,Accrington Stanley,0,3,RDA,normal,sim
+2016/2017,2016-12-04,Eastleigh,Halifax Town,3,3,RDA,normal,sim
+2016/2017,2016-12-04,Port Vale,Hartlepool United,4,0,RDA,normal,sim
+2016/2017,2016-12-05,Lincoln City,Oldham Athletic,3,2,RDA,normal,sim
+2016/2017,2016-12-13,Stourbridge,Northampton Town,1,0,RDA,normal,sim
+2016/2017,2016-12-13,Oxford United,Macclesfield,3,0,RDA,normal,sim
+2016/2017,2016-12-13,Fleetwood Town,Shrewsbury Town,3,2,RDA,normal,sim
+2016/2017,2016-12-13,Milton Keynes Dons,Charlton Athletic,3,1,RDA,normal,sim
+2016/2017,2016-12-13,Halifax Town,Eastleigh,0,2,RDA,normal,sim
+2016/2017,2016-12-20,Peterborough United,Notts County,2,0,RDA,normal,sim
+2016/2017,2016-12-21,Newport County,Plymouth Argyle,0,1,RDA,normal,sim
+2016/2017,2016-11-04,Millwall,Southend United,1,0,RDA,normal,sim
+2016/2017,2016-11-04,Eastleigh,Swindon Town,1,1,RDA,normal,sim
+2016/2017,2016-11-05,Crawley Town,Bristol Rovers,1,1,RDA,normal,sim
+2016/2017,2016-11-05,Merstham,Oxford United,0,5,RDA,normal,sim
+2016/2017,2016-11-05,Dagenham And Redbridge,Halifax Town,0,0,RDA,normal,sim
+2016/2017,2016-11-05,Yeovil Town,Solihull,2,2,RDA,normal,sim
+2016/2017,2016-11-05,Stockport County,Woking,2,4,RDA,normal,sim
+2016/2017,2016-11-05,Dartford,Sutton United,3,6,RDA,normal,sim
+2016/2017,2016-11-05,Walsall,Macclesfield,0,1,RDA,normal,sim
+2016/2017,2016-11-05,Port Vale,Stevenage Borough,1,0,RDA,normal,sim
+2016/2017,2016-11-05,Northampton Town,Harrow Borough,6,0,RDA,normal,sim
+2016/2017,2016-11-05,Cambridge United,Dover Athletic,1,1,RDA,normal,sim
+2016/2017,2016-11-05,Westfields,Curzon Ashton,1,1,RDA,normal,sim
+2016/2017,2016-11-05,Milton Keynes Dons,Spennymoor,3,2,RDA,normal,sim
+2016/2017,2016-11-05,Gillingham,Brackley Town,2,2,RDA,normal,sim
+2016/2017,2016-11-05,Portsmouth,Wycombe Wanderers,1,2,RDA,normal,sim
+2016/2017,2016-11-05,Bury,Wimbledon,2,2,RDA,normal,sim
+2016/2017,2016-11-05,Mansfield Town,Plymouth Argyle,1,2,RDA,normal,sim
+2016/2017,2016-11-05,Braintree Town,Eastbourne Borough,7,0,RDA,normal,sim
+2016/2017,2016-11-05,Bolton Wanderers,Grimsby Town,1,0,RDA,normal,sim
+2016/2017,2016-11-05,Bradford City,Accrington Stanley,1,2,RDA,normal,sim
+2016/2017,2016-11-05,Oldham Athletic,Doncaster Rovers,2,1,RDA,normal,sim
+2016/2017,2016-11-05,Shrewsbury Town,Barnet,3,0,RDA,normal,sim
+2016/2017,2016-11-05,Whitehawk,Stourbridge,1,1,RDA,normal,sim
+2016/2017,2016-11-05,Colchester United,Chesterfield,1,2,RDA,normal,sim
+2016/2017,2016-11-05,Lincoln City,Altrincham,2,1,RDA,normal,sim
+2016/2017,2016-11-05,Exeter City,Luton,1,3,RDA,normal,sim
+2016/2017,2016-11-05,Charlton Athletic,Scunthorpe United,3,1,RDA,normal,sim
+2016/2017,2016-11-05,Cheltenham,Crewe Alexandra,1,1,RDA,normal,sim
+2016/2017,2016-11-05,Peterborough United,Chesham United,2,1,RDA,normal,sim
+2016/2017,2016-11-06,Sheffield United,Leyton Orient,6,0,RDA,normal,sim
+2016/2017,2016-11-06,Taunton Town,Barrow,2,2,RDA,normal,sim
+2016/2017,2016-11-06,Alfreton Town,Newport County,1,1,RDA,normal,sim
+2016/2017,2016-11-06,Maidstone United,Rochdale,1,1,RDA,normal,sim
+2016/2017,2016-11-06,St Albans,Carlisle United,3,5,RDA,normal,sim
+2016/2017,2016-11-06,Boreham Wood,Notts County,2,2,RDA,normal,sim
+2016/2017,2016-11-06,Hartlepool United,Stamford,3,0,RDA,normal,sim
+2016/2017,2016-11-06,Morecambe,Coventry City,1,1,RDA,normal,sim
+2016/2017,2016-11-06,Blackpool,Kidderminster Harriers,2,0,RDA,normal,sim
+2016/2017,2016-11-07,Southport,Fleetwood Town,0,0,RDA,normal,sim
+2016/2017,2016-11-14,Curzon Ashton,Westfields,3,1,RDA,normal,sim
+2016/2017,2016-11-14,Stourbridge,Whitehawk,3,0,RDA,normal,sim
+2016/2017,2016-11-15,Halifax Town,Dagenham And Redbridge,2,1,RDA,normal,sim
+2016/2017,2016-11-15,Solihull,Yeovil Town,1,1,RDA,normal,sim
+2016/2017,2016-11-15,Wimbledon,Bury,5,0,RDA,normal,sim
+2016/2017,2016-11-15,Swindon Town,Eastleigh,1,3,RDA,normal,sim
+2016/2017,2016-11-15,Bristol Rovers,Crawley Town,4,2,RDA,normal,sim
+2016/2017,2016-11-15,Crewe Alexandra,Cheltenham,1,4,RDA,normal,sim
+2016/2017,2016-11-15,Barrow,Taunton Town,2,1,RDA,normal,sim
+2016/2017,2016-11-15,Newport County,Alfreton Town,4,1,RDA,normal,sim
+2016/2017,2016-11-15,Rochdale,Maidstone United,2,0,RDA,normal,sim
+2016/2017,2016-11-15,Notts County,Boreham Wood,2,0,RDA,normal,sim
+2016/2017,2016-11-15,Coventry City,Morecambe,2,1,RDA,normal,sim
+2016/2017,2016-11-15,Fleetwood Town,Southport,4,1,RDA,normal,sim
+2016/2017,2016-11-16,Brackley Town,Gillingham,4,3,RDA,normal,sim
+2016/2017,2016-11-17,Dover Athletic,Cambridge United,2,4,RDA,normal,sim
+2016/2017,2017-05-27,Arsenal,Chelsea,2,1,RDA,normal,sim
+2017/2018,2017-11-03,Hyde United,Milton Keynes Dons,0,4,RDA,normal,sim
+2017/2018,2017-11-03,Notts County,Bristol Rovers,4,2,RDA,normal,sim
+2017/2018,2017-11-03,Port Vale,Oxford United,2,0,RDA,normal,sim
+2017/2018,2017-11-04,Fylde,Kidderminster Harriers,4,2,RDA,normal,sim
+2017/2018,2017-11-04,Wimbledon,Lincoln City,1,0,RDA,normal,sim
+2017/2018,2017-11-04,Blackburn Rovers,Barnet,3,1,RDA,normal,sim
+2017/2018,2017-11-04,Boreham Wood,Blackpool,2,1,RDA,normal,sim
+2017/2018,2017-11-04,Bradford City,Chesterfield,2,0,RDA,normal,sim
+2017/2018,2017-11-04,Carlisle United,Oldham Athletic,3,2,RDA,normal,sim
+2017/2018,2017-11-04,Cheltenham,Maidstone United,2,4,RDA,normal,sim
+2017/2018,2017-11-04,Colchester United,Oxford City,0,1,RDA,normal,sim
+2017/2018,2017-11-04,Crewe Alexandra,Rotherham United,2,1,RDA,normal,sim
+2017/2018,2017-11-04,Ebbsfleet United,Doncaster Rovers,2,6,RDA,normal,sim
+2017/2018,2017-11-04,Forest Green Rovers,Macclesfield,1,0,RDA,normal,sim
+2017/2018,2017-11-04,Gainsborough Trinity,Slough Town,0,6,RDA,normal,sim
+2017/2018,2017-11-04,Gateshead,Chelmsford City,2,0,RDA,normal,sim
+2017/2018,2017-11-04,Gillingham,Leyton Orient,2,1,RDA,normal,sim
+2017/2018,2017-11-04,Hereford,Telford United,1,0,RDA,normal,sim
+2017/2018,2017-11-04,Luton,Portsmouth,1,0,RDA,normal,sim
+2017/2018,2017-11-04,Morecambe,Hartlepool United,3,0,RDA,normal,sim
+2017/2018,2017-11-04,Newport County,Walsall,2,1,RDA,normal,sim
+2017/2018,2017-11-04,Northampton Town,Scunthorpe United,0,0,RDA,normal,sim
+2017/2018,2017-11-04,Peterborough United,Tranmere Rovers,1,1,RDA,normal,sim
+2017/2018,2017-11-04,Plymouth Argyle,Grimsby Town,1,0,RDA,normal,sim
+2017/2018,2017-11-04,Rochdale,Bromley,4,0,RDA,normal,sim
+2017/2018,2017-11-04,Shaw Lane,Mansfield Town,1,3,RDA,normal,sim
+2017/2018,2017-11-04,Shrewsbury Town,Aldershot Town,5,0,RDA,normal,sim
+2017/2018,2017-11-04,Stevenage Borough,Nantwich Town,5,0,RDA,normal,sim
+2017/2018,2017-11-04,Wigan Athletic,Crawley Town,2,1,RDA,normal,sim
+2017/2018,2017-11-04,Yeovil Town,Southend United,1,0,RDA,normal,sim
+2017/2018,2017-11-05,Cambridge United,Sutton United,1,0,RDA,normal,sim
+2017/2018,2017-11-05,Charlton Athletic,Truro City,3,1,RDA,normal,sim
+2017/2018,2017-11-05,Coventry City,Maidenhead United,2,0,RDA,normal,sim
+2017/2018,2017-11-05,Dartford,Swindon Town,1,5,RDA,normal,sim
+2017/2018,2017-11-05,Exeter City,Heybridge Swifts,3,1,RDA,normal,sim
+2017/2018,2017-11-05,Guiseley,Accrington Stanley,0,0,RDA,normal,sim
+2017/2018,2017-11-05,Leatherhead,Billericay Town,1,1,RDA,normal,sim
+2017/2018,2017-11-05,Solihull,Wycombe Wanderers,0,2,RDA,normal,sim
+2017/2018,2017-11-05,Woking,Bury,1,1,RDA,normal,sim
+2017/2018,2017-11-06,Chorley,Fleetwood Town,1,2,RDA,normal,sim
+2017/2018,2017-11-14,Accrington Stanley,Guiseley,1,1,RDA,normal,sim
+2017/2018,2017-11-14,Bury,Woking,0,3,RDA,normal,sim
+2017/2018,2017-11-14,Scunthorpe United,Northampton Town,1,0,RDA,normal,sim
+2017/2018,2017-11-15,Tranmere Rovers,Peterborough United,0,5,RDA,normal,sim
+2017/2018,2017-11-16,Billericay Town,Leatherhead,1,3,RDA,normal,sim
+2017/2018,2017-12-01,Fylde,Wigan Athletic,1,1,RDA,normal,sim
+2017/2018,2017-12-02,Bradford City,Plymouth Argyle,3,1,RDA,normal,sim
+2017/2018,2017-12-02,Fleetwood Town,Hereford,1,1,RDA,normal,sim
+2017/2018,2017-12-02,Forest Green Rovers,Exeter City,3,3,RDA,normal,sim
+2017/2018,2017-12-02,Gillingham,Carlisle United,1,1,RDA,normal,sim
+2017/2018,2017-12-02,Milton Keynes Dons,Maidstone United,4,1,RDA,normal,sim
+2017/2018,2017-12-02,Notts County,Oxford City,3,2,RDA,normal,sim
+2017/2018,2017-12-02,Port Vale,Yeovil Town,1,1,RDA,normal,sim
+2017/2018,2017-12-02,Shrewsbury Town,Morecambe,2,0,RDA,normal,sim
+2017/2018,2017-12-02,Stevenage Borough,Swindon Town,5,2,RDA,normal,sim
+2017/2018,2017-12-03,Wimbledon,Charlton Athletic,3,1,RDA,normal,sim
+2017/2018,2017-12-03,Blackburn Rovers,Crewe Alexandra,3,3,RDA,normal,sim
+2017/2018,2017-12-03,Coventry City,Boreham Wood,3,0,RDA,normal,sim
+2017/2018,2017-12-03,Doncaster Rovers,Scunthorpe United,3,0,RDA,normal,sim
+2017/2018,2017-12-03,Gateshead,Luton,0,5,RDA,normal,sim
+2017/2018,2017-12-03,Mansfield Town,Guiseley,3,0,RDA,normal,sim
+2017/2018,2017-12-03,Newport County,Cambridge United,2,0,RDA,normal,sim
+2017/2018,2017-12-03,Woking,Peterborough United,1,1,RDA,normal,sim
+2017/2018,2017-12-03,Wycombe Wanderers,Leatherhead,3,1,RDA,normal,sim
+2017/2018,2017-12-04,Slough Town,Rochdale,0,4,RDA,normal,sim
+2017/2018,2017-12-12,Exeter City,Forest Green Rovers,2,1,RDA,normal,sim
+2017/2018,2017-12-12,Peterborough United,Woking,5,2,RDA,normal,sim
+2017/2018,2017-12-12,Wigan Athletic,Fylde,3,2,RDA,normal,sim
+2017/2018,2017-12-12,Yeovil Town,Port Vale,3,2,RDA,normal,sim
+2017/2018,2017-12-13,Crewe Alexandra,Blackburn Rovers,0,1,RDA,normal,sim
+2017/2018,2017-12-14,Hereford,Fleetwood Town,0,2,RDA,normal,sim
+2017/2018,2017-12-19,Carlisle United,Gillingham,3,1,RDA,normal,sim
+2017/2018,2018-01-05,Liverpool,Everton,2,1,RDA,normal,sim
+2017/2018,2018-01-05,Man United,Derby County,2,0,RDA,normal,sim
+2017/2018,2018-01-06,Bournemouth,Wigan Athletic,2,2,RDA,normal,sim
+2017/2018,2018-01-06,Aston Villa,Peterborough United,1,3,RDA,normal,sim
+2017/2018,2018-01-06,Birmingham City,Burton Albion,1,0,RDA,normal,sim
+2017/2018,2018-01-06,Blackburn Rovers,Hull,0,1,RDA,normal,sim
+2017/2018,2018-01-06,Bolton Wanderers,Huddersfield,1,2,RDA,normal,sim
+2017/2018,2018-01-06,Brentford,Notts County,0,1,RDA,normal,sim
+2017/2018,2018-01-06,Cardiff,Mansfield Town,0,0,RDA,normal,sim
+2017/2018,2018-01-06,Carlisle United,Sheffield Wednesday,0,0,RDA,normal,sim
+2017/2018,2018-01-06,Coventry City,Stoke,2,1,RDA,normal,sim
+2017/2018,2018-01-06,Doncaster Rovers,Rochdale,0,1,RDA,normal,sim
+2017/2018,2018-01-06,Exeter City,West Brom,0,2,RDA,normal,sim
+2017/2018,2018-01-06,Fleetwood Town,Leicester,0,0,RDA,normal,sim
+2017/2018,2018-01-06,Fulham,Southampton,0,1,RDA,normal,sim
+2017/2018,2018-01-06,Ipswich,Sheffield United,0,1,RDA,normal,sim
+2017/2018,2018-01-06,Man City,Burnley,4,1,RDA,normal,sim
+2017/2018,2018-01-06,Middlesbrough,Sunderland,2,0,RDA,normal,sim
+2017/2018,2018-01-06,Millwall,Barnsley,4,1,RDA,normal,sim
+2017/2018,2018-01-06,Newcastle,Luton,3,1,RDA,normal,sim
+2017/2018,2018-01-06,Norwich,Chelsea,0,0,RDA,normal,sim
+2017/2018,2018-01-06,Queens Park Rangers,Milton Keynes Dons,0,1,RDA,normal,sim
+2017/2018,2018-01-06,Stevenage Borough,Reading,0,0,RDA,normal,sim
+2017/2018,2018-01-06,Watford,Bristol City,3,0,RDA,normal,sim
+2017/2018,2018-01-06,Wolves,Swansea,0,0,RDA,normal,sim
+2017/2018,2018-01-06,Wycombe Wanderers,Preston North End,1,5,RDA,normal,sim
+2017/2018,2018-01-06,Yeovil Town,Bradford City,2,0,RDA,normal,sim
+2017/2018,2018-01-07,Newport County,Leeds,2,1,RDA,normal,sim
+2017/2018,2018-01-07,Nott'm Forest,Arsenal,4,2,RDA,normal,sim
+2017/2018,2018-01-07,Shrewsbury Town,West Ham,0,0,RDA,normal,sim
+2017/2018,2018-01-07,Tottenham,Wimbledon,3,0,RDA,normal,sim
+2017/2018,2018-01-08,Brighton,Crystal Palace,2,1,RDA,normal,sim
+2017/2018,2018-01-16,Leicester,Fleetwood Town,2,0,RDA,normal,sim
+2017/2018,2018-01-16,Mansfield Town,Cardiff,1,4,RDA,normal,sim
+2017/2018,2018-01-16,Reading,Stevenage Borough,3,0,RDA,normal,sim
+2017/2018,2018-01-16,Sheffield Wednesday,Carlisle United,2,0,RDA,normal,sim
+2017/2018,2018-01-16,West Ham,Shrewsbury Town,1,0,RDA,normal,sim
+2017/2018,2018-01-17,Chelsea,Norwich,1,1,RDA,normal,sim
+2017/2018,2018-01-17,Swansea,Wolves,2,1,RDA,normal,sim
+2017/2018,2018-01-17,Wigan Athletic,Bournemouth,3,0,RDA,normal,sim
+2017/2018,2018-01-26,Sheffield Wednesday,Reading,3,1,RDA,normal,sim
+2017/2018,2018-01-26,Yeovil Town,Man United,0,4,RDA,normal,sim
+2017/2018,2018-01-27,Huddersfield,Birmingham City,1,1,RDA,normal,sim
+2017/2018,2018-01-27,Hull,Nott'm Forest,2,1,RDA,normal,sim
+2017/2018,2018-01-27,Liverpool,West Brom,2,3,RDA,normal,sim
+2017/2018,2018-01-27,Middlesbrough,Brighton,0,1,RDA,normal,sim
+2017/2018,2018-01-27,Millwall,Rochdale,2,2,RDA,normal,sim
+2017/2018,2018-01-27,Milton Keynes Dons,Coventry City,0,1,RDA,normal,sim
+2017/2018,2018-01-27,Newport County,Tottenham,1,1,RDA,normal,sim
+2017/2018,2018-01-27,Notts County,Swansea,1,1,RDA,normal,sim
+2017/2018,2018-01-27,Peterborough United,Leicester,1,5,RDA,normal,sim
+2017/2018,2018-01-27,Sheffield United,Preston North End,1,0,RDA,normal,sim
+2017/2018,2018-01-27,Southampton,Watford,1,0,RDA,normal,sim
+2017/2018,2018-01-27,Wigan Athletic,West Ham,2,0,RDA,normal,sim
+2017/2018,2018-01-28,Cardiff,Man City,0,2,RDA,normal,sim
+2017/2018,2018-01-28,Chelsea,Newcastle,3,0,RDA,normal,sim
+2017/2018,2018-02-06,Birmingham City,Huddersfield,1,4,RDA,normal,sim
+2017/2018,2018-02-06,Rochdale,Millwall,1,0,RDA,normal,sim
+2017/2018,2018-02-06,Swansea,Notts County,8,1,RDA,normal,sim
+2017/2018,2018-02-07,Tottenham,Newport County,2,0,RDA,normal,sim
+2017/2018,2018-02-16,Chelsea,Hull,4,0,RDA,normal,sim
+2017/2018,2018-02-16,Leicester,Sheffield United,1,0,RDA,normal,sim
+2017/2018,2018-02-17,Brighton,Coventry City,3,1,RDA,normal,sim
+2017/2018,2018-02-17,Huddersfield,Man United,0,2,RDA,normal,sim
+2017/2018,2018-02-17,Sheffield Wednesday,Swansea,0,0,RDA,normal,sim
+2017/2018,2018-02-17,West Brom,Southampton,1,2,RDA,normal,sim
+2017/2018,2018-02-18,Rochdale,Tottenham,2,2,RDA,normal,sim
+2017/2018,2018-02-19,Wigan Athletic,Man City,1,0,RDA,normal,sim
+2017/2018,2018-02-27,Swansea,Sheffield Wednesday,2,0,RDA,normal,sim
+2017/2018,2018-02-28,Tottenham,Rochdale,6,1,RDA,normal,sim
+2017/2018,2018-03-17,Man United,Brighton,2,0,RDA,normal,sim
+2017/2018,2018-03-17,Swansea,Tottenham,0,3,RDA,normal,sim
+2017/2018,2018-03-18,Leicester,Chelsea,1,2,RDA,normal,sim
+2017/2018,2018-03-18,Wigan Athletic,Southampton,0,2,RDA,normal,sim
+2017/2018,2018-04-21,Man United,Tottenham,2,1,RDA,normal,sim
+2017/2018,2018-04-22,Chelsea,Southampton,2,0,RDA,normal,sim
+2017/2018,2018-05-19,Chelsea,Man United,1,0,RDA,normal,sim
+2018/2019,2018-11-09,Haringey Borough,Wimbledon,0,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Maidenhead United,Portsmouth,0,4,OpenFootball,normal,sim
+2018/2019,2018-11-10,Maidstone United,Macclesfield,2,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Ebbsfleet United,Cheltenham,0,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Swindon Town,York City,2,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Torquay United,Woking,0,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Scunthorpe United,Burton Albion,2,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Aldershot Town,Bradford City,1,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Grimsby Town,Milton Keynes Dons,3,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Bromley,Peterborough United,1,3,OpenFootball,normal,sim
+2018/2019,2018-11-10,Southport,Boreham Wood,2,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Plymouth Argyle,Stevenage Borough,1,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Chesterfield,Billericay Town,1,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Lincoln City,Northampton Town,3,2,OpenFootball,normal,sim
+2018/2019,2018-11-10,Yeovil Town,Stockport County,1,3,OpenFootball,normal,sim
+2018/2019,2018-11-10,Bury,Dover Athletic,5,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Gillingham,Hartlepool United,0,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Oxford United,Forest Green Rovers,0,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Tranmere Rovers,Oxford City,3,3,OpenFootball,normal,sim
+2018/2019,2018-11-10,Accrington Stanley,Colchester United,1,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Barnsley,Notts County,4,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Metropolitan Police,Newport County,0,2,OpenFootball,normal,sim
+2018/2019,2018-11-10,Walsall,Coventry City,3,2,OpenFootball,normal,sim
+2018/2019,2018-11-10,Rochdale,Gateshead,2,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Sutton United,Slough Town,0,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Exeter City,Blackpool,2,3,OpenFootball,normal,sim
+2018/2019,2018-11-10,Luton,Wycombe Wanderers,2,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Morecambe,Halifax Town,0,0,OpenFootball,normal,sim
+2018/2019,2018-11-10,Crewe Alexandra,Carlisle United,0,1,OpenFootball,normal,sim
+2018/2019,2018-11-10,Southend United,Crawley Town,1,1,OpenFootball,normal,sim
+2018/2019,2018-11-11,Mansfield Town,Charlton Athletic,1,1,OpenFootball,normal,sim
+2018/2019,2018-11-11,Chorley,Doncaster Rovers,2,2,OpenFootball,normal,sim
+2018/2019,2018-11-11,Alfreton Town,Fleetwood Town,1,4,OpenFootball,normal,sim
+2018/2019,2018-11-11,Barnet,Bristol Rovers,1,1,OpenFootball,normal,sim
+2018/2019,2018-11-11,Shrewsbury Town,Salford City,1,1,OpenFootball,normal,sim
+2018/2019,2018-11-11,Hitchin Town,Solihull,0,2,OpenFootball,normal,sim
+2018/2019,2018-11-11,Guiseley,Cambridge United,4,3,OpenFootball,normal,sim
+2018/2019,2018-11-11,Weston-Super-Mare,Wrexham,0,2,OpenFootball,normal,sim
+2018/2019,2018-11-11,Port Vale,Sunderland,1,2,OpenFootball,normal,sim
+2018/2019,2018-11-12,Hampton And Richmond Borough,Oldham Athletic,1,2,OpenFootball,normal,sim
+2018/2019,2018-11-20,Cheltenham,Ebbsfleet United,2,0,OpenFootball,normal,sim
+2018/2019,2018-11-20,Bradford City,Aldershot Town,1,1,OpenFootball,normal,sim
+2018/2019,2018-11-20,Billericay Town,Chesterfield,1,3,OpenFootball,normal,sim
+2018/2019,2018-11-20,Forest Green Rovers,Oxford United,0,3,OpenFootball,normal,sim
+2018/2019,2018-11-20,Oxford City,Tranmere Rovers,0,2,OpenFootball,normal,sim
+2018/2019,2018-11-20,Slough Town,Sutton United,1,1,OpenFootball,normal,sim
+2018/2019,2018-11-20,Halifax Town,Morecambe,1,0,OpenFootball,normal,sim
+2018/2019,2018-11-20,Crawley Town,Southend United,2,6,OpenFootball,normal,sim
+2018/2019,2018-11-20,Charlton Athletic,Mansfield Town,5,0,OpenFootball,normal,sim
+2018/2019,2018-11-20,Doncaster Rovers,Chorley,7,0,OpenFootball,normal,sim
+2018/2019,2018-11-21,Hartlepool United,Gillingham,3,4,OpenFootball,normal,sim
+2018/2019,2018-11-21,Salford City,Shrewsbury Town,1,3,OpenFootball,normal,sim
+2018/2019,2018-11-21,Bristol Rovers,Barnet,1,2,OpenFootball,normal,sim
+2018/2019,2018-11-30,Solihull,Blackpool,0,0,OpenFootball,normal,sim
+2018/2019,2018-12-01,Halifax Town,Wimbledon,1,3,OpenFootball,normal,sim
+2018/2019,2018-12-01,Southend United,Barnsley,2,4,OpenFootball,normal,sim
+2018/2019,2018-12-01,Peterborough United,Bradford City,2,2,OpenFootball,normal,sim
+2018/2019,2018-12-01,Maidstone United,Oldham Athletic,0,2,OpenFootball,normal,sim
+2018/2019,2018-12-01,Lincoln City,Carlisle United,2,0,OpenFootball,normal,sim
+2018/2019,2018-12-01,Plymouth Argyle,Oxford United,1,2,OpenFootball,normal,sim
+2018/2019,2018-12-01,Walsall,Sunderland,1,1,OpenFootball,normal,sim
+2018/2019,2018-12-01,Accrington Stanley,Cheltenham,3,1,OpenFootball,normal,sim
+2018/2019,2018-12-01,Charlton Athletic,Doncaster Rovers,0,2,OpenFootball,normal,sim
+2018/2019,2018-12-01,Wrexham,Newport County,0,0,OpenFootball,normal,sim
+2018/2019,2018-12-02,Bury,Luton,0,1,OpenFootball,normal,sim
+2018/2019,2018-12-02,Tranmere Rovers,Southport,1,1,OpenFootball,normal,sim
+2018/2019,2018-12-02,Shrewsbury Town,Scunthorpe United,1,0,OpenFootball,normal,sim
+2018/2019,2018-12-02,Chesterfield,Grimsby Town,0,2,OpenFootball,normal,sim
+2018/2019,2018-12-02,Swindon Town,Woking,0,1,OpenFootball,normal,sim
+2018/2019,2018-12-02,Barnet,Stockport County,1,0,OpenFootball,normal,sim
+2018/2019,2018-12-02,Rochdale,Portsmouth,0,1,OpenFootball,normal,sim
+2018/2019,2018-12-02,Slough Town,Gillingham,0,1,OpenFootball,normal,sim
+2018/2019,2018-12-03,Guiseley,Fleetwood Town,1,2,OpenFootball,normal,sim
+2018/2019,2018-12-11,Bradford City,Peterborough United,4,4,OpenFootball,normal,sim
+2018/2019,2018-12-11,Sunderland,Walsall,0,1,OpenFootball,normal,sim
+2018/2019,2018-12-11,Newport County,Wrexham,4,0,OpenFootball,normal,sim
+2018/2019,2018-12-17,Southport,Tranmere Rovers,0,2,OpenFootball,normal,sim
+2018/2019,2018-12-18,Blackpool,Solihull,3,2,OpenFootball,normal,sim
+2018/2019,2019-01-04,Tranmere Rovers,Tottenham,0,7,OpenFootball,normal,sim
+2018/2019,2019-01-05,Sheffield Wednesday,Luton,0,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Man United,Reading,2,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,West Brom,Wigan Athletic,1,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Shrewsbury Town,Stoke,1,1,OpenFootball,normal,sim
+2018/2019,2019-01-05,Bournemouth,Brighton,1,3,OpenFootball,normal,sim
+2018/2019,2019-01-05,West Ham,Birmingham City,2,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Burnley,Barnsley,1,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Bolton Wanderers,Walsall,5,2,OpenFootball,normal,sim
+2018/2019,2019-01-05,Brentford,Oxford United,1,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Chelsea,Nott'm Forest,2,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Fleetwood Town,Wimbledon,2,3,OpenFootball,normal,sim
+2018/2019,2019-01-05,Middlesbrough,Peterborough United,5,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Aston Villa,Swansea,0,3,OpenFootball,normal,sim
+2018/2019,2019-01-05,Gillingham,Cardiff,1,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Everton,Lincoln City,2,1,OpenFootball,normal,sim
+2018/2019,2019-01-05,Derby County,Southampton,2,2,OpenFootball,normal,sim
+2018/2019,2019-01-05,Accrington Stanley,Ipswich,1,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Newcastle,Blackburn Rovers,1,1,OpenFootball,normal,sim
+2018/2019,2019-01-05,Crystal Palace,Grimsby Town,1,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Bristol City,Huddersfield,1,0,OpenFootball,normal,sim
+2018/2019,2019-01-05,Blackpool,Arsenal,0,3,OpenFootball,normal,sim
+2018/2019,2019-01-05,Norwich,Portsmouth,0,1,OpenFootball,normal,sim
+2018/2019,2019-01-06,Millwall,Hull,2,1,OpenFootball,normal,sim
+2018/2019,2019-01-06,Preston North End,Doncaster Rovers,1,3,OpenFootball,normal,sim
+2018/2019,2019-01-06,Fulham,Oldham Athletic,1,2,OpenFootball,normal,sim
+2018/2019,2019-01-06,Man City,Rotherham United,7,0,OpenFootball,normal,sim
+2018/2019,2019-01-06,Woking,Watford,0,2,OpenFootball,normal,sim
+2018/2019,2019-01-06,Queens Park Rangers,Leeds,2,1,OpenFootball,normal,sim
+2018/2019,2019-01-06,Sheffield United,Barnet,0,1,OpenFootball,normal,sim
+2018/2019,2019-01-06,Newport County,Leicester,2,1,OpenFootball,normal,sim
+2018/2019,2019-01-07,Wolves,Liverpool,2,1,OpenFootball,normal,sim
+2018/2019,2019-01-15,Luton,Sheffield Wednesday,0,1,OpenFootball,normal,sim
+2018/2019,2019-01-15,Blackburn Rovers,Newcastle,2,4,OpenFootball,normal,sim
+2018/2019,2019-01-15,Stoke,Shrewsbury Town,2,3,OpenFootball,normal,sim
+2018/2019,2019-01-16,Southampton,Derby County,2,2,OpenFootball,normal,sim
+2018/2019,2019-01-25,Bristol City,Bolton Wanderers,2,1,OpenFootball,normal,sim
+2018/2019,2019-01-25,Arsenal,Man United,1,3,OpenFootball,normal,sim
+2018/2019,2019-01-26,Accrington Stanley,Derby County,0,1,OpenFootball,normal,sim
+2018/2019,2019-01-26,Swansea,Gillingham,4,1,OpenFootball,normal,sim
+2018/2019,2019-01-26,Shrewsbury Town,Wolves,2,2,OpenFootball,normal,sim
+2018/2019,2019-01-26,Brighton,West Brom,0,0,OpenFootball,normal,sim
+2018/2019,2019-01-26,Doncaster Rovers,Oldham Athletic,2,1,OpenFootball,normal,sim
+2018/2019,2019-01-26,Newcastle,Watford,0,2,OpenFootball,normal,sim
+2018/2019,2019-01-26,Middlesbrough,Newport County,1,1,OpenFootball,normal,sim
+2018/2019,2019-01-26,Man City,Burnley,5,0,OpenFootball,normal,sim
+2018/2019,2019-01-26,Portsmouth,Queens Park Rangers,1,1,OpenFootball,normal,sim
+2018/2019,2019-01-26,Millwall,Everton,3,2,OpenFootball,normal,sim
+2018/2019,2019-01-26,Wimbledon,West Ham,4,2,OpenFootball,normal,sim
+2018/2019,2019-01-27,Crystal Palace,Tottenham,2,0,OpenFootball,normal,sim
+2018/2019,2019-01-27,Chelsea,Sheffield Wednesday,3,0,OpenFootball,normal,sim
+2018/2019,2019-01-28,Barnet,Brentford,3,3,OpenFootball,normal,sim
+2018/2019,2019-02-05,Wolves,Shrewsbury Town,3,2,OpenFootball,normal,sim
+2018/2019,2019-02-05,Newport County,Middlesbrough,2,0,OpenFootball,normal,sim
+2018/2019,2019-02-05,Queens Park Rangers,Portsmouth,2,0,OpenFootball,normal,sim
+2018/2019,2019-02-05,Brentford,Barnet,3,1,OpenFootball,normal,sim
+2018/2019,2019-02-06,West Brom,Brighton,1,3,OpenFootball,normal,sim
+2018/2019,2019-02-15,Queens Park Rangers,Watford,0,1,OpenFootball,normal,sim
+2018/2019,2019-02-16,Brighton,Derby County,2,1,OpenFootball,normal,sim
+2018/2019,2019-02-16,Wimbledon,Millwall,0,1,OpenFootball,normal,sim
+2018/2019,2019-02-16,Newport County,Man City,1,4,OpenFootball,normal,sim
+2018/2019,2019-02-17,Bristol City,Wolves,0,1,OpenFootball,normal,sim
+2018/2019,2019-02-17,Doncaster Rovers,Crystal Palace,0,2,OpenFootball,normal,sim
+2018/2019,2019-02-17,Swansea,Brentford,4,1,OpenFootball,normal,sim
+2018/2019,2019-02-18,Chelsea,Man United,0,2,OpenFootball,normal,sim
+2018/2019,2019-03-16,Watford,Crystal Palace,2,1,OpenFootball,normal,sim
+2018/2019,2019-03-16,Swansea,Man City,2,3,OpenFootball,normal,sim
+2018/2019,2019-03-16,Wolves,Man United,2,1,OpenFootball,normal,sim
+2018/2019,2019-03-17,Millwall,Brighton,2,2,OpenFootball,normal,sim
+2018/2019,2019-04-06,Man City,Brighton,1,0,OpenFootball,normal,sim
+2018/2019,2019-04-07,Watford,Wolves,3,2,OpenFootball,normal,sim
+2018/2019,2019-05-18,Man City,Watford,6,0,OpenFootball,normal,sim
+2019/2020,2019-11-08,Dulwich Hamlet,Carlisle United,1,4,RSSSF,normal,sim
+2019/2020,2019-11-09,Sunderland,Gillingham,1,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Accrington Stanley,Crewe Alexandra,0,2,RSSSF,normal,sim
+2019/2020,2019-11-09,Wimbledon,Doncaster Rovers,1,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Blackpool,Morecambe,4,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Bolton Wanderers,Plymouth Argyle,0,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Cambridge United,Exeter City,1,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Carshalton Athletic,Boston United,1,4,RSSSF,normal,sim
+2019/2020,2019-11-09,Cheltenham,Swindon Town,1,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Colchester United,Coventry City,0,2,RSSSF,normal,sim
+2019/2020,2019-11-09,Crawley Town,Scunthorpe United,4,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Ebbsfleet United,Notts County,2,3,RSSSF,normal,sim
+2019/2020,2019-11-09,Forest Green Rovers,Billericay Town,4,0,RSSSF,normal,sim
+2019/2020,2019-11-09,Grimsby Town,Newport County,1,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Ipswich,Lincoln City,1,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Maidenhead United,Rotherham United,1,3,RSSSF,normal,sim
+2019/2020,2019-11-09,Maidstone United,Torquay United,1,0,RSSSF,normal,sim
+2019/2020,2019-11-09,Mansfield Town,Chorley,1,0,RSSSF,normal,sim
+2019/2020,2019-11-09,Milton Keynes Dons,Port Vale,0,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Nantwich Town,Fylde,0,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Oxford City,Solihull,1,5,RSSSF,normal,sim
+2019/2020,2019-11-09,Salford City,Burton Albion,1,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Shrewsbury Town,Bradford City,1,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Stevenage Borough,Peterborough United,1,1,RSSSF,normal,sim
+2019/2020,2019-11-09,Stourbridge,Eastleigh,2,2,RSSSF,normal,sim
+2019/2020,2019-11-09,Tranmere Rovers,Wycombe Wanderers,2,2,RSSSF,normal,sim
+2019/2020,2019-11-09,Walsall,Darlington,2,2,RSSSF,normal,sim
+2019/2020,2019-11-10,Dover Athletic,Southend United,1,0,RSSSF,normal,sim
+2019/2020,2019-11-10,Barnet,Fleetwood Town,0,2,RSSSF,normal,sim
+2019/2020,2019-11-10,Bristol Rovers,Bromley,1,1,RSSSF,normal,sim
+2019/2020,2019-11-10,Chippenham Town,Northampton Town,0,3,RSSSF,normal,sim
+2019/2020,2019-11-10,Gateshead,Oldham Athletic,1,2,RSSSF,normal,sim
+2019/2020,2019-11-10,Leyton Orient,Maldon And Tiptree,1,2,RSSSF,normal,sim
+2019/2020,2019-11-10,Macclesfield,Kingstonian,0,4,RSSSF,normal,sim
+2019/2020,2019-11-10,Wrexham,Rochdale,0,0,RSSSF,normal,sim
+2019/2020,2019-11-10,York City,Altrincham,0,1,RSSSF,normal,sim
+2019/2020,2019-11-10,Hayes And Yeading United,Oxford United,0,2,RSSSF,normal,sim
+2019/2020,2019-11-11,Harrogate Town,Portsmouth,1,2,RSSSF,normal,sim
+2019/2020,2019-11-12,Yeovil Town,Hartlepool United,1,4,RSSSF,normal,sim
+2019/2020,2019-11-19,Bradford City,Shrewsbury Town,0,1,RSSSF,normal,sim
+2019/2020,2019-11-19,Bromley,Bristol Rovers,0,1,RSSSF,normal,sim
+2019/2020,2019-11-19,Burton Albion,Salford City,4,1,RSSSF,normal,sim
+2019/2020,2019-11-19,Doncaster Rovers,Wimbledon,2,0,RSSSF,normal,sim
+2019/2020,2019-11-19,Eastleigh,Stourbridge,3,0,RSSSF,normal,sim
+2019/2020,2019-11-19,Exeter City,Cambridge United,1,0,RSSSF,normal,sim
+2019/2020,2019-11-19,Gillingham,Sunderland,1,0,RSSSF,normal,sim
+2019/2020,2019-11-19,Peterborough United,Stevenage Borough,2,0,RSSSF,normal,sim
+2019/2020,2019-11-19,Rochdale,Wrexham,1,0,RSSSF,normal,sim
+2019/2020,2019-11-19,Swindon Town,Cheltenham,0,1,RSSSF,normal,sim
+2019/2020,2019-11-20,Darlington,Walsall,0,1,RSSSF,normal,sim
+2019/2020,2019-11-20,Lincoln City,Ipswich,0,1,RSSSF,normal,sim
+2019/2020,2019-11-20,Newport County,Grimsby Town,2,0,RSSSF,normal,sim
+2019/2020,2019-11-20,Wycombe Wanderers,Tranmere Rovers,1,2,RSSSF,normal,sim
+2019/2020,2019-11-29,Maldon And Tiptree,Newport County,0,1,RSSSF,normal,sim
+2019/2020,2019-11-30,Cheltenham,Port Vale,1,3,RSSSF,normal,sim
+2019/2020,2019-11-30,Forest Green Rovers,Carlisle United,2,2,RSSSF,normal,sim
+2019/2020,2019-11-30,Kingstonian,Fylde,0,2,RSSSF,normal,sim
+2019/2020,2019-11-30,Oldham Athletic,Burton Albion,0,1,RSSSF,normal,sim
+2019/2020,2019-11-30,Portsmouth,Altrincham,2,1,RSSSF,normal,sim
+2019/2020,2019-11-30,Shrewsbury Town,Mansfield Town,2,0,RSSSF,normal,sim
+2019/2020,2019-11-30,Walsall,Oxford United,0,1,RSSSF,normal,sim
+2019/2020,2019-11-30,Eastleigh,Crewe Alexandra,1,1,RSSSF,normal,sim
+2019/2020,2019-12-01,Blackpool,Maidstone United,3,1,RSSSF,normal,sim
+2019/2020,2019-12-01,Bristol Rovers,Plymouth Argyle,1,1,RSSSF,normal,sim
+2019/2020,2019-12-01,Coventry City,Ipswich,1,1,RSSSF,normal,sim
+2019/2020,2019-12-01,Crawley Town,Fleetwood Town,1,2,RSSSF,normal,sim
+2019/2020,2019-12-01,Exeter City,Hartlepool United,2,2,RSSSF,normal,sim
+2019/2020,2019-12-01,Gillingham,Doncaster Rovers,3,0,RSSSF,normal,sim
+2019/2020,2019-12-01,Northampton Town,Notts County,3,1,RSSSF,normal,sim
+2019/2020,2019-12-01,Peterborough United,Dover Athletic,3,0,RSSSF,normal,sim
+2019/2020,2019-12-01,Rochdale,Boston United,0,0,RSSSF,normal,sim
+2019/2020,2019-12-01,Tranmere Rovers,Chichester City,5,1,RSSSF,normal,sim
+2019/2020,2019-12-02,Solihull,Rotherham United,3,4,RSSSF,normal,sim
+2019/2020,2019-12-10,Carlisle United,Forest Green Rovers,1,0,RSSSF,normal,sim
+2019/2020,2019-12-10,Crewe Alexandra,Eastleigh,3,1,RSSSF,normal,sim
+2019/2020,2019-12-10,Hartlepool United,Exeter City,1,0,RSSSF,normal,sim
+2019/2020,2019-12-10,Ipswich,Coventry City,1,2,RSSSF,normal,sim
+2019/2020,2019-12-16,Boston United,Rochdale,1,2,RSSSF,normal,sim
+2019/2020,2019-12-17,Plymouth Argyle,Bristol Rovers,0,1,RSSSF,normal,sim
+2019/2020,2020-01-04,Birmingham City,Blackburn Rovers,2,1,RSSSF,normal,sim
+2019/2020,2020-01-04,Bristol City,Shrewsbury Town,1,1,RSSSF,normal,sim
+2019/2020,2020-01-04,Burnley,Peterborough United,4,2,RSSSF,normal,sim
+2019/2020,2020-01-04,Millwall,Newport County,3,0,RSSSF,normal,sim
+2019/2020,2020-01-04,Rochdale,Newcastle,1,1,RSSSF,normal,sim
+2019/2020,2020-01-04,Rotherham United,Hull,2,3,RSSSF,normal,sim
+2019/2020,2020-01-04,Brentford,Stoke,1,0,RSSSF,normal,sim
+2019/2020,2020-01-04,Brighton,Sheffield Wednesday,0,1,RSSSF,normal,sim
+2019/2020,2020-01-04,Cardiff,Carlisle United,2,2,RSSSF,normal,sim
+2019/2020,2020-01-04,Fulham,Aston Villa,2,1,RSSSF,normal,sim
+2019/2020,2020-01-04,Oxford United,Hartlepool United,4,1,RSSSF,normal,sim
+2019/2020,2020-01-04,Preston North End,Norwich,2,4,RSSSF,normal,sim
+2019/2020,2020-01-04,Reading,Blackpool,2,2,RSSSF,normal,sim
+2019/2020,2020-01-04,Southampton,Huddersfield,2,0,RSSSF,normal,sim
+2019/2020,2020-01-04,Watford,Tranmere Rovers,3,3,RSSSF,normal,sim
+2019/2020,2020-01-04,Bournemouth,Luton,4,0,RSSSF,normal,sim
+2019/2020,2020-01-04,Fleetwood Town,Portsmouth,1,2,RSSSF,normal,sim
+2019/2020,2020-01-04,Leicester,Wigan Athletic,2,0,RSSSF,normal,sim
+2019/2020,2020-01-04,Man City,Port Vale,4,1,RSSSF,normal,sim
+2019/2020,2020-01-04,Wolves,Man United,0,0,RSSSF,normal,sim
+2019/2020,2020-01-05,Bristol Rovers,Coventry City,2,2,RSSSF,normal,sim
+2019/2020,2020-01-05,Burton Albion,Northampton Town,2,4,RSSSF,normal,sim
+2019/2020,2020-01-05,Charlton Athletic,West Brom,0,1,RSSSF,normal,sim
+2019/2020,2020-01-05,Chelsea,Nott'm Forest,2,0,RSSSF,normal,sim
+2019/2020,2020-01-05,Crewe Alexandra,Barnsley,1,3,RSSSF,normal,sim
+2019/2020,2020-01-05,Crystal Palace,Derby County,0,1,RSSSF,normal,sim
+2019/2020,2020-01-05,Middlesbrough,Tottenham,1,1,RSSSF,normal,sim
+2019/2020,2020-01-05,Queens Park Rangers,Swansea,5,1,RSSSF,normal,sim
+2019/2020,2020-01-05,Sheffield United,Fylde,2,1,RSSSF,normal,sim
+2019/2020,2020-01-05,Liverpool,Everton,1,0,RSSSF,normal,sim
+2019/2020,2020-01-05,Gillingham,West Ham,0,2,RSSSF,normal,sim
+2019/2020,2020-01-06,Arsenal,Leeds,1,0,RSSSF,normal,sim
+2019/2020,2020-01-14,Blackpool,Reading,0,2,RSSSF,normal,sim
+2019/2020,2020-01-14,Coventry City,Bristol Rovers,3,0,RSSSF,normal,sim
+2019/2020,2020-01-14,Newcastle,Rochdale,4,1,RSSSF,normal,sim
+2019/2020,2020-01-14,Shrewsbury Town,Bristol City,1,0,RSSSF,normal,sim
+2019/2020,2020-01-14,Tottenham,Middlesbrough,2,1,RSSSF,normal,sim
+2019/2020,2020-01-15,Carlisle United,Cardiff,3,4,RSSSF,normal,sim
+2019/2020,2020-01-15,Man United,Wolves,1,0,RSSSF,normal,sim
+2019/2020,2020-01-23,Tranmere Rovers,Watford,2,1,RSSSF,normal,sim
+2019/2020,2020-01-24,Northampton Town,Derby County,0,0,RSSSF,normal,sim
+2019/2020,2020-01-24,Queens Park Rangers,Sheffield Wednesday,1,2,RSSSF,normal,sim
+2019/2020,2020-01-25,Brentford,Leicester,0,1,RSSSF,normal,sim
+2019/2020,2020-01-25,Burnley,Norwich,1,2,RSSSF,normal,sim
+2019/2020,2020-01-25,Coventry City,Birmingham City,0,0,RSSSF,normal,sim
+2019/2020,2020-01-25,Millwall,Sheffield United,0,2,RSSSF,normal,sim
+2019/2020,2020-01-25,Newcastle,Oxford United,0,0,RSSSF,normal,sim
+2019/2020,2020-01-25,Portsmouth,Barnsley,4,2,RSSSF,normal,sim
+2019/2020,2020-01-25,Reading,Cardiff,1,1,RSSSF,normal,sim
+2019/2020,2020-01-25,Southampton,Tottenham,1,1,RSSSF,normal,sim
+2019/2020,2020-01-25,West Ham,West Brom,0,1,RSSSF,normal,sim
+2019/2020,2020-01-25,Hull,Chelsea,1,2,RSSSF,normal,sim
+2019/2020,2020-01-26,Man City,Fulham,4,0,RSSSF,normal,sim
+2019/2020,2020-01-26,Tranmere Rovers,Man United,0,6,RSSSF,normal,sim
+2019/2020,2020-01-26,Shrewsbury Town,Liverpool,2,2,RSSSF,normal,sim
+2019/2020,2020-01-27,Bournemouth,Arsenal,1,2,RSSSF,normal,sim
+2019/2020,2020-02-04,Birmingham City,Coventry City,2,2,RSSSF,normal,sim
+2019/2020,2020-02-04,Cardiff,Reading,3,3,RSSSF,normal,sim
+2019/2020,2020-02-04,Derby County,Northampton Town,4,2,RSSSF,normal,sim
+2019/2020,2020-02-04,Liverpool,Shrewsbury Town,1,0,RSSSF,normal,sim
+2019/2020,2020-02-04,Oxford United,Newcastle,2,3,RSSSF,normal,sim
+2019/2020,2020-02-05,Tottenham,Southampton,3,2,RSSSF,normal,sim
+2019/2020,2020-03-02,Portsmouth,Arsenal,0,2,RSSSF,normal,sim
+2019/2020,2020-03-03,Chelsea,Liverpool,2,0,RSSSF,normal,sim
+2019/2020,2020-03-03,Reading,Sheffield United,1,2,RSSSF,normal,sim
+2019/2020,2020-03-03,West Brom,Newcastle,2,3,RSSSF,normal,sim
+2019/2020,2020-03-04,Leicester,Birmingham City,1,0,RSSSF,normal,sim
+2019/2020,2020-03-04,Sheffield Wednesday,Man City,0,1,RSSSF,normal,sim
+2019/2020,2020-03-04,Tottenham,Norwich,1,1,RSSSF,normal,sim
+2019/2020,2020-03-05,Derby County,Man United,0,3,RSSSF,normal,sim
+2019/2020,2020-06-27,Norwich,Man United,1,2,RSSSF,normal,sim
+2019/2020,2020-06-28,Sheffield United,Arsenal,1,2,RSSSF,normal,sim
+2019/2020,2020-06-28,Leicester,Chelsea,0,1,RSSSF,normal,sim
+2019/2020,2020-06-28,Newcastle,Man City,0,2,RSSSF,normal,sim
+2019/2020,2020-07-18,Arsenal,Man City,2,0,RSSSF,normal,sim
+2019/2020,2020-07-19,Man United,Chelsea,1,3,RSSSF,normal,sim
+2019/2020,2020-08-01,Arsenal,Chelsea,2,1,RSSSF,normal,sim
+2020/2021,2020-11-06,Harrogate Town,Skelmersdale United,4,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Tonbridge Angels,Bradford City,0,7,OpenFootball,normal,sim
+2020/2021,2020-11-07,Exeter City,Fylde,2,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Leyton Orient,Newport County,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Sunderland,Mansfield Town,0,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Bolton Wanderers,Crewe Alexandra,2,3,OpenFootball,normal,sim
+2020/2021,2020-11-07,Oxford United,Peterborough United,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Walsall,Bristol Rovers,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Rochdale,Stockport County,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Swindon Town,Darlington,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Tranmere Rovers,Accrington Stanley,2,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Bromley,Yeovil Town,0,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Cheltenham,South Shields,3,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Stevenage Borough,Concord Rangers,2,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Gillingham,Woking,3,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Charlton Athletic,Plymouth Argyle,0,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Salford City,Hartlepool United,2,0,OpenFootball,normal,sim
+2020/2021,2020-11-07,Hull,Fleetwood Town,2,0,OpenFootball,normal,sim
+2020/2021,2020-11-07,Colchester United,Marine,1,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Dagenham And Redbridge,Grimsby Town,3,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Cambridge United,Shrewsbury Town,0,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Boreham Wood,Southend United,3,3,OpenFootball,normal,sim
+2020/2021,2020-11-07,Ipswich,Portsmouth,2,3,OpenFootball,normal,sim
+2020/2021,2020-11-07,Lincoln City,Forest Green Rovers,6,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Banbury United,Canvey Island,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-07,Port Vale,King's Lynn Town,0,1,OpenFootball,normal,sim
+2020/2021,2020-11-07,Brackley Town,Bishop's Stortford,3,3,OpenFootball,normal,sim
+2020/2021,2020-11-07,United Of Manchester,Doncaster Rovers,1,5,OpenFootball,normal,sim
+2020/2021,2020-11-08,Scunthorpe United,Solihull,2,3,OpenFootball,normal,sim
+2020/2021,2020-11-08,Havant And Waterlooville,Cray Valley Paper Mills,1,0,OpenFootball,normal,sim
+2020/2021,2020-11-08,Barnet,Burton Albion,1,0,OpenFootball,normal,sim
+2020/2021,2020-11-08,Wigan Athletic,Chorley,2,3,OpenFootball,normal,sim
+2020/2021,2020-11-08,Maldon And Tiptree,Morecambe,0,1,OpenFootball,normal,sim
+2020/2021,2020-11-08,Torquay United,Crawley Town,5,6,OpenFootball,normal,sim
+2020/2021,2020-11-08,Hayes And Yeading United,Carlisle United,2,2,OpenFootball,normal,sim
+2020/2021,2020-11-08,Eastleigh,Milton Keynes Dons,0,0,OpenFootball,normal,sim
+2020/2021,2020-11-08,Hampton And Richmond Borough,Oldham Athletic,2,3,OpenFootball,normal,sim
+2020/2021,2020-11-08,Eastbourne Borough,Blackpool,0,3,OpenFootball,normal,sim
+2020/2021,2020-11-09,Oxford City,Northampton Town,2,1,OpenFootball,normal,sim
+2020/2021,2020-11-26,Barrow,Wimbledon,0,0,OpenFootball,normal,sim
+2020/2021,2020-11-27,Tranmere Rovers,Brackley Town,1,0,OpenFootball,normal,sim
+2020/2021,2020-11-28,Morecambe,Solihull,4,2,OpenFootball,normal,sim
+2020/2021,2020-11-28,Newport County,Salford City,3,0,OpenFootball,normal,sim
+2020/2021,2020-11-28,Gillingham,Exeter City,2,3,OpenFootball,normal,sim
+2020/2021,2020-11-28,Harrogate Town,Blackpool,0,4,OpenFootball,normal,sim
+2020/2021,2020-11-28,Plymouth Argyle,Lincoln City,2,0,OpenFootball,normal,sim
+2020/2021,2020-11-28,Portsmouth,King's Lynn Town,6,1,OpenFootball,normal,sim
+2020/2021,2020-11-28,Cheltenham,Crewe Alexandra,2,1,OpenFootball,normal,sim
+2020/2021,2020-11-28,Bradford City,Oldham Athletic,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-28,Peterborough United,Chorley,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-29,Stevenage Borough,Hull,1,1,OpenFootball,normal,sim
+2020/2021,2020-11-29,Wimbledon,Crawley Town,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-29,Stockport County,Yeovil Town,3,2,OpenFootball,normal,sim
+2020/2021,2020-11-29,Shrewsbury Town,Oxford City,1,0,OpenFootball,normal,sim
+2020/2021,2020-11-29,Mansfield Town,Dagenham And Redbridge,2,1,OpenFootball,normal,sim
+2020/2021,2020-11-29,Carlisle United,Doncaster Rovers,1,2,OpenFootball,normal,sim
+2020/2021,2020-11-29,Barnet,Milton Keynes Dons,0,1,OpenFootball,normal,sim
+2020/2021,2020-11-29,Bristol Rovers,Darlington,6,0,OpenFootball,normal,sim
+2020/2021,2020-11-29,Marine,Havant And Waterlooville,1,0,OpenFootball,normal,sim
+2020/2021,2020-11-30,Canvey Island,Boreham Wood,0,3,OpenFootball,normal,sim
+2020/2021,2021-01-08,Wolves,Crystal Palace,1,0,OpenFootball,normal,sim
+2020/2021,2021-01-08,Aston Villa,Liverpool,1,4,OpenFootball,normal,sim
+2020/2021,2021-01-09,Everton,Rotherham United,2,1,OpenFootball,normal,sim
+2020/2021,2021-01-09,Nott'm Forest,Cardiff,1,0,OpenFootball,normal,sim
+2020/2021,2021-01-09,Boreham Wood,Millwall,0,2,OpenFootball,normal,sim
+2020/2021,2021-01-09,Luton,Reading,1,0,OpenFootball,normal,sim
+2020/2021,2021-01-09,Norwich,Coventry City,2,0,OpenFootball,normal,sim
+2020/2021,2021-01-09,Chorley,Derby County,2,0,OpenFootball,normal,sim
+2020/2021,2021-01-09,Bournemouth,Oldham Athletic,4,1,OpenFootball,normal,sim
+2020/2021,2021-01-09,Stevenage Borough,Swansea,0,2,OpenFootball,normal,sim
+2020/2021,2021-01-09,Bristol Rovers,Sheffield United,2,3,OpenFootball,normal,sim
+2020/2021,2021-01-09,Blackburn Rovers,Doncaster Rovers,0,1,OpenFootball,normal,sim
+2020/2021,2021-01-09,Stoke,Leicester,0,4,OpenFootball,normal,sim
+2020/2021,2021-01-09,Wycombe Wanderers,Preston North End,4,1,OpenFootball,normal,sim
+2020/2021,2021-01-09,Burnley,Milton Keynes Dons,1,1,OpenFootball,normal,sim
+2020/2021,2021-01-09,Queens Park Rangers,Fulham,0,2,OpenFootball,normal,sim
+2020/2021,2021-01-09,Exeter City,Sheffield Wednesday,0,2,OpenFootball,normal,sim
+2020/2021,2021-01-09,Blackpool,West Brom,2,2,OpenFootball,normal,sim
+2020/2021,2021-01-09,Arsenal,Newcastle,2,0,OpenFootball,normal,sim
+2020/2021,2021-01-09,Huddersfield,Plymouth Argyle,2,3,OpenFootball,normal,sim
+2020/2021,2021-01-09,Brentford,Middlesbrough,2,1,OpenFootball,normal,sim
+2020/2021,2021-01-09,Man United,Watford,1,0,OpenFootball,normal,sim
+2020/2021,2021-01-10,Barnsley,Tranmere Rovers,2,0,OpenFootball,normal,sim
+2020/2021,2021-01-10,Crawley Town,Leeds,3,0,OpenFootball,normal,sim
+2020/2021,2021-01-10,Bristol City,Portsmouth,2,1,OpenFootball,normal,sim
+2020/2021,2021-01-10,Man City,Birmingham City,3,0,OpenFootball,normal,sim
+2020/2021,2021-01-10,Chelsea,Morecambe,4,0,OpenFootball,normal,sim
+2020/2021,2021-01-10,Cheltenham,Mansfield Town,2,1,OpenFootball,normal,sim
+2020/2021,2021-01-10,Marine,Tottenham,0,5,OpenFootball,normal,sim
+2020/2021,2021-01-10,Newport County,Brighton,1,1,OpenFootball,normal,sim
+2020/2021,2021-01-11,Stockport County,West Ham,0,1,OpenFootball,normal,sim
+2020/2021,2021-01-19,Southampton,Shrewsbury Town,2,0,OpenFootball,normal,sim
+2020/2021,2021-01-22,Chorley,Wolves,0,1,OpenFootball,normal,sim
+2020/2021,2021-01-23,Southampton,Arsenal,1,0,OpenFootball,normal,sim
+2020/2021,2021-01-23,Swansea,Nott'm Forest,5,1,OpenFootball,normal,sim
+2020/2021,2021-01-23,Barnsley,Norwich,1,0,OpenFootball,normal,sim
+2020/2021,2021-01-23,Millwall,Bristol City,0,3,OpenFootball,normal,sim
+2020/2021,2021-01-23,Brighton,Blackpool,2,1,OpenFootball,normal,sim
+2020/2021,2021-01-23,Sheffield United,Plymouth Argyle,2,1,OpenFootball,normal,sim
+2020/2021,2021-01-23,West Ham,Doncaster Rovers,4,0,OpenFootball,normal,sim
+2020/2021,2021-01-23,Cheltenham,Man City,1,3,OpenFootball,normal,sim
+2020/2021,2021-01-24,Chelsea,Luton,3,1,OpenFootball,normal,sim
+2020/2021,2021-01-24,Fulham,Burnley,0,3,OpenFootball,normal,sim
+2020/2021,2021-01-24,Brentford,Leicester,1,3,OpenFootball,normal,sim
+2020/2021,2021-01-24,Man United,Liverpool,3,2,OpenFootball,normal,sim
+2020/2021,2021-01-24,Everton,Sheffield Wednesday,3,0,OpenFootball,normal,sim
+2020/2021,2021-01-25,Wycombe Wanderers,Tottenham,1,4,OpenFootball,normal,sim
+2020/2021,2021-01-26,Bournemouth,Crawley Town,2,1,OpenFootball,normal,sim
+2020/2021,2021-02-09,Burnley,Bournemouth,0,2,OpenFootball,normal,sim
+2020/2021,2021-02-09,Man United,West Ham,1,0,OpenFootball,normal,sim
+2020/2021,2021-02-10,Swansea,Man City,1,3,OpenFootball,normal,sim
+2020/2021,2021-02-10,Sheffield United,Bristol City,1,0,OpenFootball,normal,sim
+2020/2021,2021-02-10,Leicester,Brighton,1,0,OpenFootball,normal,sim
+2020/2021,2021-02-10,Everton,Tottenham,5,4,OpenFootball,normal,sim
+2020/2021,2021-02-11,Wolves,Southampton,0,2,OpenFootball,normal,sim
+2020/2021,2021-02-11,Barnsley,Chelsea,0,1,OpenFootball,normal,sim
+2020/2021,2021-03-20,Bournemouth,Southampton,0,3,OpenFootball,normal,sim
+2020/2021,2021-03-20,Everton,Man City,0,2,OpenFootball,normal,sim
+2020/2021,2021-03-21,Chelsea,Sheffield United,2,0,OpenFootball,normal,sim
+2020/2021,2021-03-21,Leicester,Man United,3,1,OpenFootball,normal,sim
+2020/2021,2021-04-17,Chelsea,Man City,1,0,OpenFootball,normal,sim
+2020/2021,2021-04-18,Leicester,Southampton,1,0,OpenFootball,normal,sim
+2020/2021,2021-05-15,Chelsea,Leicester,0,1,OpenFootball,normal,sim
+2021/2022,2021-11-05,Sudbury,Colchester United,0,4,OpenFootball,normal,sim
+2021/2022,2021-11-06,Scunthorpe United,Doncaster Rovers,0,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Gillingham,Cheltenham,1,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Bradford City,Exeter City,1,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Sunderland,Mansfield Town,0,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Hayes And Yeading United,Sutton United,0,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Carlisle United,Horsham,2,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Yate Town,Yeovil Town,0,5,OpenFootball,normal,sim
+2021/2022,2021-11-06,Rotherham United,Bromley,3,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Portsmouth,Harrow Borough,1,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Morecambe,Newport County,1,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Fleetwood Town,Burton Albion,1,2,OpenFootball,normal,sim
+2021/2022,2021-11-06,Northampton Town,Cambridge United,2,2,OpenFootball,normal,sim
+2021/2022,2021-11-06,Halifax Town,Maidenhead United,7,4,OpenFootball,normal,sim
+2021/2022,2021-11-06,Chesterfield,Southend United,3,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Kidderminster Harriers,Grimsby Town,1,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Wigan Athletic,Solihull,0,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Boreham Wood,Eastleigh,2,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,York City,Buxton,0,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Ipswich,Oldham Athletic,1,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Wimbledon,Guiseley,1,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Harrogate Town,Wrexham,2,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Hartlepool United,Wycombe Wanderers,2,2,OpenFootball,normal,sim
+2021/2022,2021-11-06,King's Lynn Town,Walsall,0,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Crewe Alexandra,Swindon Town,0,3,OpenFootball,normal,sim
+2021/2022,2021-11-06,Charlton Athletic,Havant And Waterlooville,4,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Crawley Town,Tranmere Rovers,0,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Leyton Orient,Ebbsfleet United,1,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Milton Keynes Dons,Stevenage Borough,2,2,OpenFootball,normal,sim
+2021/2022,2021-11-06,Lincoln City,Bowers And Pitsea,1,0,OpenFootball,normal,sim
+2021/2022,2021-11-06,Port Vale,Accrington Stanley,5,1,OpenFootball,normal,sim
+2021/2022,2021-11-06,Gateshead,Altrincham,2,2,OpenFootball,normal,sim
+2021/2022,2021-11-06,Banbury United,Barrow,0,4,OpenFootball,normal,sim
+2021/2022,2021-11-07,Sheffield Wednesday,Plymouth Argyle,0,0,OpenFootball,normal,sim
+2021/2022,2021-11-07,Oxford United,Bristol Rovers,2,2,OpenFootball,normal,sim
+2021/2022,2021-11-07,Stratford Town,Shrewsbury Town,1,5,OpenFootball,normal,sim
+2021/2022,2021-11-07,Rochdale,Notts County,1,1,OpenFootball,normal,sim
+2021/2022,2021-11-07,Bolton Wanderers,Stockport County,2,2,OpenFootball,normal,sim
+2021/2022,2021-11-07,St Albans,Forest Green Rovers,3,2,OpenFootball,normal,sim
+2021/2022,2021-11-08,Dagenham And Redbridge,Salford City,0,1,OpenFootball,normal,sim
+2021/2022,2021-11-16,Bristol Rovers,Oxford United,4,3,OpenFootball,normal,sim
+2021/2022,2021-11-16,Cheltenham,Gillingham,1,0,OpenFootball,normal,sim
+2021/2022,2021-11-16,Solihull,Wigan Athletic,1,2,OpenFootball,normal,sim
+2021/2022,2021-11-16,Oldham Athletic,Ipswich,1,2,OpenFootball,normal,sim
+2021/2022,2021-11-16,Cambridge United,Northampton Town,3,1,OpenFootball,normal,sim
+2021/2022,2021-11-16,Stevenage Borough,Milton Keynes Dons,2,1,OpenFootball,normal,sim
+2021/2022,2021-11-16,Wycombe Wanderers,Hartlepool United,0,1,OpenFootball,normal,sim
+2021/2022,2021-11-16,Altrincham,Gateshead,2,3,OpenFootball,normal,sim
+2021/2022,2021-11-16,Plymouth Argyle,Sheffield Wednesday,3,0,OpenFootball,normal,sim
+2021/2022,2021-11-16,Notts County,Rochdale,1,2,OpenFootball,normal,sim
+2021/2022,2021-11-17,Stockport County,Bolton Wanderers,5,3,OpenFootball,normal,sim
+2021/2022,2021-11-30,Exeter City,Bradford City,2,1,OpenFootball,normal,sim
+2021/2022,2021-12-03,Rotherham United,Stockport County,1,0,OpenFootball,normal,sim
+2021/2022,2021-12-03,Gateshead,Charlton Athletic,0,2,OpenFootball,normal,sim
+2021/2022,2021-12-04,Buxton,Morecambe,0,1,OpenFootball,normal,sim
+2021/2022,2021-12-04,Bristol Rovers,Sutton United,2,1,OpenFootball,normal,sim
+2021/2022,2021-12-04,Lincoln City,Hartlepool United,0,1,OpenFootball,normal,sim
+2021/2022,2021-12-04,Wimbledon,Cheltenham,4,3,OpenFootball,normal,sim
+2021/2022,2021-12-04,Leyton Orient,Tranmere Rovers,4,0,OpenFootball,normal,sim
+2021/2022,2021-12-04,Cambridge United,Exeter City,2,1,OpenFootball,normal,sim
+2021/2022,2021-12-04,Doncaster Rovers,Mansfield Town,2,3,OpenFootball,normal,sim
+2021/2022,2021-12-04,Walsall,Swindon Town,1,2,OpenFootball,normal,sim
+2021/2022,2021-12-04,Carlisle United,Shrewsbury Town,1,2,OpenFootball,normal,sim
+2021/2022,2021-12-04,Ipswich,Barrow,0,0,OpenFootball,normal,sim
+2021/2022,2021-12-04,Portsmouth,Harrogate Town,1,2,OpenFootball,normal,sim
+2021/2022,2021-12-04,Burton Albion,Port Vale,1,2,OpenFootball,normal,sim
+2021/2022,2021-12-04,Yeovil Town,Stevenage Borough,1,0,OpenFootball,normal,sim
+2021/2022,2021-12-05,Rochdale,Plymouth Argyle,1,2,OpenFootball,normal,sim
+2021/2022,2021-12-05,Colchester United,Wigan Athletic,1,2,OpenFootball,normal,sim
+2021/2022,2021-12-05,Kidderminster Harriers,Halifax Town,2,0,OpenFootball,normal,sim
+2021/2022,2021-12-05,Salford City,Chesterfield,0,2,OpenFootball,normal,sim
+2021/2022,2021-12-06,Boreham Wood,St Albans,4,0,OpenFootball,normal,sim
+2021/2022,2021-12-15,Barrow,Ipswich,2,0,OpenFootball,normal,sim
+2021/2022,2022-01-07,Swindon Town,Man City,1,4,OpenFootball,normal,sim
+2021/2022,2022-01-08,Mansfield Town,Middlesbrough,2,3,OpenFootball,normal,sim
+2021/2022,2022-01-08,Coventry City,Derby County,1,0,OpenFootball,normal,sim
+2021/2022,2022-01-08,Burnley,Huddersfield,1,2,OpenFootball,normal,sim
+2021/2022,2022-01-08,Hartlepool United,Blackpool,2,1,OpenFootball,normal,sim
+2021/2022,2022-01-08,Bristol City,Fulham,0,1,OpenFootball,normal,sim
+2021/2022,2022-01-08,Millwall,Crystal Palace,1,2,OpenFootball,normal,sim
+2021/2022,2022-01-08,Boreham Wood,Wimbledon,2,0,OpenFootball,normal,sim
+2021/2022,2022-01-08,West Brom,Brighton,1,2,OpenFootball,normal,sim
+2021/2022,2022-01-08,Kidderminster Harriers,Reading,2,1,OpenFootball,normal,sim
+2021/2022,2022-01-08,Leicester,Watford,4,1,OpenFootball,normal,sim
+2021/2022,2022-01-08,Port Vale,Brentford,1,4,OpenFootball,normal,sim
+2021/2022,2022-01-08,Wigan Athletic,Blackburn Rovers,3,2,OpenFootball,normal,sim
+2021/2022,2022-01-08,Newcastle,Cambridge United,0,1,OpenFootball,normal,sim
+2021/2022,2022-01-08,Barnsley,Barrow,5,4,OpenFootball,normal,sim
+2021/2022,2022-01-08,Peterborough United,Bristol Rovers,2,1,OpenFootball,normal,sim
+2021/2022,2022-01-08,Queens Park Rangers,Rotherham United,1,1,OpenFootball,normal,sim
+2021/2022,2022-01-08,Swansea,Southampton,2,3,OpenFootball,normal,sim
+2021/2022,2022-01-08,Chelsea,Chesterfield,5,1,OpenFootball,normal,sim
+2021/2022,2022-01-08,Hull,Everton,2,3,OpenFootball,normal,sim
+2021/2022,2022-01-08,Birmingham City,Plymouth Argyle,0,1,OpenFootball,normal,sim
+2021/2022,2022-01-08,Yeovil Town,Bournemouth,1,3,OpenFootball,normal,sim
+2021/2022,2022-01-09,Luton,Harrogate Town,4,0,OpenFootball,normal,sim
+2021/2022,2022-01-09,Stoke,Leyton Orient,2,0,OpenFootball,normal,sim
+2021/2022,2022-01-09,Liverpool,Shrewsbury Town,4,1,OpenFootball,normal,sim
+2021/2022,2022-01-09,Cardiff,Preston North End,2,1,OpenFootball,normal,sim
+2021/2022,2022-01-09,Tottenham,Morecambe,3,1,OpenFootball,normal,sim
+2021/2022,2022-01-09,Wolves,Sheffield United,3,0,OpenFootball,normal,sim
+2021/2022,2022-01-09,West Ham,Leeds,2,0,OpenFootball,normal,sim
+2021/2022,2022-01-09,Charlton Athletic,Norwich,0,1,OpenFootball,normal,sim
+2021/2022,2022-01-09,Nott'm Forest,Arsenal,1,0,OpenFootball,normal,sim
+2021/2022,2022-01-10,Man United,Aston Villa,1,0,OpenFootball,normal,sim
+2021/2022,2022-02-04,Man United,Middlesbrough,1,1,OpenFootball,normal,sim
+2021/2022,2022-02-05,Chelsea,Plymouth Argyle,2,1,OpenFootball,normal,sim
+2021/2022,2022-02-05,Kidderminster Harriers,West Ham,1,2,OpenFootball,normal,sim
+2021/2022,2022-02-05,Crystal Palace,Hartlepool United,2,0,OpenFootball,normal,sim
+2021/2022,2022-02-05,Huddersfield,Barnsley,1,0,OpenFootball,normal,sim
+2021/2022,2022-02-05,Peterborough United,Queens Park Rangers,2,0,OpenFootball,normal,sim
+2021/2022,2022-02-05,Southampton,Coventry City,2,1,OpenFootball,normal,sim
+2021/2022,2022-02-05,Everton,Brentford,4,1,OpenFootball,normal,sim
+2021/2022,2022-02-05,Stoke,Wigan Athletic,2,0,OpenFootball,normal,sim
+2021/2022,2022-02-05,Man City,Fulham,4,1,OpenFootball,normal,sim
+2021/2022,2022-02-05,Wolves,Norwich,0,1,OpenFootball,normal,sim
+2021/2022,2022-02-05,Cambridge United,Luton,0,3,OpenFootball,normal,sim
+2021/2022,2022-02-05,Tottenham,Brighton,3,1,OpenFootball,normal,sim
+2021/2022,2022-02-06,Liverpool,Cardiff,3,1,OpenFootball,normal,sim
+2021/2022,2022-02-06,Nott'm Forest,Leicester,4,1,OpenFootball,normal,sim
+2021/2022,2022-02-06,Bournemouth,Boreham Wood,0,1,OpenFootball,normal,sim
+2021/2022,2022-03-01,Peterborough United,Man City,0,2,OpenFootball,normal,sim
+2021/2022,2022-03-01,Crystal Palace,Stoke,2,1,OpenFootball,normal,sim
+2021/2022,2022-03-01,Middlesbrough,Tottenham,1,0,OpenFootball,normal,sim
+2021/2022,2022-03-02,Luton,Chelsea,2,3,OpenFootball,normal,sim
+2021/2022,2022-03-02,Southampton,West Ham,3,1,OpenFootball,normal,sim
+2021/2022,2022-03-02,Liverpool,Norwich,2,1,OpenFootball,normal,sim
+2021/2022,2022-03-03,Everton,Boreham Wood,2,0,OpenFootball,normal,sim
+2021/2022,2022-03-07,Nott'm Forest,Huddersfield,2,1,OpenFootball,normal,sim
+2021/2022,2022-03-19,Middlesbrough,Chelsea,0,2,OpenFootball,normal,sim
+2021/2022,2022-03-20,Crystal Palace,Everton,4,0,OpenFootball,normal,sim
+2021/2022,2022-03-20,Southampton,Man City,1,4,OpenFootball,normal,sim
+2021/2022,2022-03-20,Nott'm Forest,Liverpool,0,1,OpenFootball,normal,sim
+2021/2022,2022-04-16,Man City,Liverpool,2,3,OpenFootball,normal,sim
+2021/2022,2022-04-17,Chelsea,Crystal Palace,2,0,OpenFootball,normal,sim
+2021/2022,2022-05-14,Chelsea,Liverpool,0,0,OpenFootball,normal,sim
+2022/2023,2022-11-04,Sheffield Wednesday,Morecambe,2,0,RSSSF,normal,sim
+2022/2023,2022-11-04,Hereford,Portsmouth,1,3,RSSSF,normal,sim
+2022/2023,2022-11-05,South Shields,Forest Green Rovers,0,2,RSSSF,normal,sim
+2022/2023,2022-11-05,Bradford City,Harrogate Town,0,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Bolton Wanderers,Barnsley,1,2,RSSSF,normal,sim
+2022/2023,2022-11-05,Fylde,Gillingham,1,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Barnet,Chelmsford City,1,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Barrow,Mansfield Town,0,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Boreham Wood,Eastleigh,3,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Bristol Rovers,Rochdale,1,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Burton Albion,Needham Market,2,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Buxton,Merthyr Town,2,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Carlisle United,Tranmere Rovers,2,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Charlton Athletic,Coalville Town,4,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Cheltenham,Alvechurch,1,2,RSSSF,normal,sim
+2022/2023,2022-11-05,Chesterfield,Northampton Town,1,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Chippenham Town,Lincoln City,1,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Crawley Town,Accrington Stanley,1,4,RSSSF,normal,sim
+2022/2023,2022-11-05,Crewe Alexandra,Leyton Orient,1,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Doncaster Rovers,King's Lynn Town,0,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Ebbsfleet United,Halifax Town,2,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Fleetwood Town,Oxford City,3,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Gateshead,Stevenage Borough,2,3,RSSSF,normal,sim
+2022/2023,2022-11-05,Grimsby Town,Plymouth Argyle,5,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Maidenhead United,Dagenham And Redbridge,0,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Milton Keynes Dons,Taunton Town,6,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Newport County,Colchester United,2,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Peterborough United,Salford City,0,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Port Vale,Exeter City,2,3,RSSSF,normal,sim
+2022/2023,2022-11-05,Shrewsbury Town,York City,2,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Solihull,Hartlepool United,2,2,RSSSF,normal,sim
+2022/2023,2022-11-05,Stockport County,Swindon Town,4,0,RSSSF,normal,sim
+2022/2023,2022-11-05,Sutton United,Farnborough,0,2,RSSSF,normal,sim
+2022/2023,2022-11-05,Weymouth,Wimbledon,1,1,RSSSF,normal,sim
+2022/2023,2022-11-05,Wycombe Wanderers,Walsall,0,2,RSSSF,normal,sim
+2022/2023,2022-11-06,Wrexham,Oldham Athletic,3,0,RSSSF,normal,sim
+2022/2023,2022-11-06,Curzon Ashton,Cambridge United,0,0,RSSSF,normal,sim
+2022/2023,2022-11-06,Torquay United,Derby County,2,2,RSSSF,normal,sim
+2022/2023,2022-11-07,Bracknell Town,Ipswich,0,3,RSSSF,normal,sim
+2022/2023,2022-11-16,Woking,Oxford United,1,2,RSSSF,normal,sim
+2022/2023,2022-11-14,Chelmsford City,Barnet,0,1,RSSSF,normal,sim
+2022/2023,2022-11-15,Wimbledon,Weymouth,3,1,RSSSF,normal,sim
+2022/2023,2022-11-15,Cambridge United,Curzon Ashton,0,0,RSSSF,normal,sim
+2022/2023,2022-11-15,Derby County,Torquay United,5,0,RSSSF,normal,sim
+2022/2023,2022-11-15,Gillingham,Fylde,1,0,RSSSF,normal,sim
+2022/2023,2022-11-15,Hartlepool United,Solihull,1,1,RSSSF,normal,sim
+2022/2023,2022-11-16,Salford City,Peterborough United,0,3,RSSSF,normal,sim
+2022/2023,2022-11-26,King's Lynn Town,Stevenage Borough,0,3,RSSSF,normal,sim
+2022/2023,2022-11-26,Accrington Stanley,Barnet,1,0,RSSSF,normal,sim
+2022/2023,2022-11-26,Wimbledon,Chesterfield,0,2,RSSSF,normal,sim
+2022/2023,2022-11-26,Barnsley,Crewe Alexandra,3,0,RSSSF,normal,sim
+2022/2023,2022-11-26,Cambridge United,Grimsby Town,1,2,RSSSF,normal,sim
+2022/2023,2022-11-26,Charlton Athletic,Stockport County,2,2,RSSSF,normal,sim
+2022/2023,2022-11-26,Forest Green Rovers,Alvechurch,2,1,RSSSF,normal,sim
+2022/2023,2022-11-26,Hartlepool United,Harrogate Town,3,1,RSSSF,normal,sim
+2022/2023,2022-11-26,Oxford United,Exeter City,4,1,RSSSF,normal,sim
+2022/2023,2022-11-26,Portsmouth,Milton Keynes Dons,3,2,RSSSF,normal,sim
+2022/2023,2022-11-26,Sheffield Wednesday,Mansfield Town,2,1,RSSSF,normal,sim
+2022/2023,2022-11-26,Shrewsbury Town,Peterborough United,3,1,RSSSF,normal,sim
+2022/2023,2022-11-26,Walsall,Carlisle United,2,1,RSSSF,normal,sim
+2022/2023,2022-11-26,Wrexham,Farnborough,4,1,RSSSF,normal,sim
+2022/2023,2022-11-26,Dagenham And Redbridge,Gillingham,1,1,RSSSF,normal,sim
+2022/2023,2022-11-27,Ebbsfleet United,Fleetwood Town,0,1,RSSSF,normal,sim
+2022/2023,2022-11-27,Bristol Rovers,Boreham Wood,0,2,RSSSF,normal,sim
+2022/2023,2022-11-27,Burton Albion,Chippenham Town,6,1,RSSSF,normal,sim
+2022/2023,2022-11-27,Newport County,Derby County,1,2,RSSSF,normal,sim
+2022/2023,2022-11-27,Ipswich,Buxton,4,0,RSSSF,normal,sim
+2022/2023,2022-12-07,Stockport County,Charlton Athletic,3,1,RSSSF,normal,sim
+2022/2023,2022-12-08,Gillingham,Dagenham And Redbridge,3,2,RSSSF,normal,sim
+2022/2023,2023-01-06,Man United,Everton,3,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Crystal Palace,Southampton,1,2,RSSSF,normal,sim
+2022/2023,2023-01-07,Gillingham,Leicester,0,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Preston North End,Huddersfield,3,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Reading,Watford,2,0,RSSSF,normal,sim
+2022/2023,2023-01-07,Tottenham,Portsmouth,1,0,RSSSF,normal,sim
+2022/2023,2023-01-07,Blackpool,Nott'm Forest,4,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Boreham Wood,Accrington Stanley,1,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Bournemouth,Burnley,2,4,RSSSF,normal,sim
+2022/2023,2023-01-07,Chesterfield,West Brom,3,3,RSSSF,normal,sim
+2022/2023,2023-01-07,Fleetwood Town,Queens Park Rangers,2,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Hull,Fulham,0,2,RSSSF,normal,sim
+2022/2023,2023-01-07,Ipswich,Rotherham United,4,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Middlesbrough,Brighton,1,5,RSSSF,normal,sim
+2022/2023,2023-01-07,Millwall,Sheffield United,0,2,RSSSF,normal,sim
+2022/2023,2023-01-07,Shrewsbury Town,Sunderland,1,2,RSSSF,normal,sim
+2022/2023,2023-01-07,Brentford,West Ham,0,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Coventry City,Wrexham,3,4,RSSSF,normal,sim
+2022/2023,2023-01-07,Grimsby Town,Burton Albion,1,0,RSSSF,normal,sim
+2022/2023,2023-01-07,Luton,Wigan Athletic,1,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Sheffield Wednesday,Newcastle,2,1,RSSSF,normal,sim
+2022/2023,2023-01-07,Liverpool,Wolves,2,2,RSSSF,normal,sim
+2022/2023,2023-01-08,Bristol City,Swansea,1,1,RSSSF,normal,sim
+2022/2023,2023-01-08,Derby County,Barnsley,3,0,RSSSF,normal,sim
+2022/2023,2023-01-08,Cardiff,Leeds,2,2,RSSSF,normal,sim
+2022/2023,2023-01-08,Hartlepool United,Stoke,0,3,RSSSF,normal,sim
+2022/2023,2023-01-08,Norwich,Blackburn Rovers,0,1,RSSSF,normal,sim
+2022/2023,2023-01-08,Stockport County,Walsall,1,2,RSSSF,normal,sim
+2022/2023,2023-01-08,Aston Villa,Stevenage Borough,1,2,RSSSF,normal,sim
+2022/2023,2023-01-08,Man City,Chelsea,4,0,RSSSF,normal,sim
+2022/2023,2023-01-09,Oxford United,Arsenal,0,3,RSSSF,normal,sim
+2022/2023,2023-01-17,Forest Green Rovers,Birmingham City,1,2,RSSSF,normal,sim
+2022/2023,2023-01-17,Swansea,Bristol City,1,2,RSSSF,normal,sim
+2022/2023,2023-01-17,Wigan Athletic,Luton,1,2,RSSSF,normal,sim
+2022/2023,2023-01-17,Wolves,Liverpool,0,1,RSSSF,normal,sim
+2022/2023,2023-01-17,West Brom,Chesterfield,4,0,RSSSF,normal,sim
+2022/2023,2023-01-18,Leeds,Cardiff,5,2,RSSSF,normal,sim
+2022/2023,2023-01-24,Accrington Stanley,Boreham Wood,1,0,RSSSF,normal,sim
+2022/2023,2023-01-27,Man City,Arsenal,1,0,RSSSF,normal,sim
+2022/2023,2023-01-28,Accrington Stanley,Leeds,1,3,RSSSF,normal,sim
+2022/2023,2023-01-28,Walsall,Leicester,0,1,RSSSF,normal,sim
+2022/2023,2023-01-28,Blackburn Rovers,Birmingham City,2,2,RSSSF,normal,sim
+2022/2023,2023-01-28,Bristol City,West Brom,3,0,RSSSF,normal,sim
+2022/2023,2023-01-28,Fulham,Sunderland,1,1,RSSSF,normal,sim
+2022/2023,2023-01-28,Ipswich,Burnley,0,0,RSSSF,normal,sim
+2022/2023,2023-01-28,Luton,Grimsby Town,2,2,RSSSF,normal,sim
+2022/2023,2023-01-28,Sheffield Wednesday,Fleetwood Town,1,1,RSSSF,normal,sim
+2022/2023,2023-01-28,Southampton,Blackpool,2,1,RSSSF,normal,sim
+2022/2023,2023-01-28,Preston North End,Tottenham,0,3,RSSSF,normal,sim
+2022/2023,2023-01-28,Man United,Reading,3,1,RSSSF,normal,sim
+2022/2023,2023-01-29,Brighton,Liverpool,2,1,RSSSF,normal,sim
+2022/2023,2023-01-29,Stoke,Stevenage Borough,3,1,RSSSF,normal,sim
+2022/2023,2023-01-29,Wrexham,Sheffield United,3,3,RSSSF,normal,sim
+2022/2023,2023-01-30,Derby County,West Ham,0,2,RSSSF,normal,sim
+2022/2023,2023-01-31,Birmingham City,Blackburn Rovers,0,1,RSSSF,normal,sim
+2022/2023,2023-02-07,Burnley,Ipswich,2,1,RSSSF,normal,sim
+2022/2023,2023-02-07,Fleetwood Town,Sheffield Wednesday,1,0,RSSSF,normal,sim
+2022/2023,2023-02-07,Grimsby Town,Luton,3,0,RSSSF,normal,sim
+2022/2023,2023-02-07,Sheffield United,Wrexham,3,1,RSSSF,normal,sim
+2022/2023,2023-02-08,Sunderland,Fulham,2,3,RSSSF,normal,sim
+2022/2023,2023-02-28,Stoke,Brighton,0,1,RSSSF,normal,sim
+2022/2023,2023-02-28,Leicester,Blackburn Rovers,1,2,RSSSF,normal,sim
+2022/2023,2023-02-28,Fulham,Leeds,2,0,RSSSF,normal,sim
+2022/2023,2023-02-28,Bristol City,Man City,0,3,RSSSF,normal,sim
+2022/2023,2023-03-01,Southampton,Grimsby Town,1,2,RSSSF,normal,sim
+2022/2023,2023-03-01,Burnley,Fleetwood Town,1,0,RSSSF,normal,sim
+2022/2023,2023-03-01,Man United,West Ham,3,1,RSSSF,normal,sim
+2022/2023,2023-03-01,Sheffield United,Tottenham,1,0,RSSSF,normal,sim
+2022/2023,2023-03-18,Man City,Burnley,6,0,RSSSF,normal,sim
+2022/2023,2023-03-19,Sheffield United,Blackburn Rovers,3,2,RSSSF,normal,sim
+2022/2023,2023-03-19,Brighton,Grimsby Town,5,0,RSSSF,normal,sim
+2022/2023,2023-03-19,Man United,Fulham,3,1,RSSSF,normal,sim
+2022/2023,2023-04-22,Man City,Sheffield United,3,0,RSSSF,normal,sim
+2022/2023,2023-04-23,Brighton,Man United,0,0,RSSSF,normal,sim
+2022/2023,2023-06-03,Man City,Man United,2,1,RSSSF,normal,sim
+2023/2024,2023-11-03,Barnsley,Horsham,3,3,RSSSF,normal,sim
+2023/2024,2023-11-03,Sheppey United,Walsall,1,4,RSSSF,normal,sim
+2023/2024,2023-11-04,Northampton Town,Barrow,1,3,RSSSF,normal,sim
+2023/2024,2023-11-04,Wimbledon,Cheltenham,5,1,RSSSF,normal,sim
+2023/2024,2023-11-04,Alfreton Town,Worthing,2,0,RSSSF,normal,sim
+2023/2024,2023-11-04,Bolton Wanderers,Solihull,4,0,RSSSF,normal,sim
+2023/2024,2023-11-04,Bradford City,Wycombe Wanderers,1,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Bristol Rovers,Whitby Town,7,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Cambridge United,Bracknell Town,2,1,RSSSF,normal,sim
+2023/2024,2023-11-04,Chesham United,Maidstone United,0,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Chester,York City,0,0,RSSSF,normal,sim
+2023/2024,2023-11-04,Curzon Ashton,Barnet,0,1,RSSSF,normal,sim
+2023/2024,2023-11-04,Doncaster Rovers,Accrington Stanley,2,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Eastleigh,Boreham Wood,5,1,RSSSF,normal,sim
+2023/2024,2023-11-04,Exeter City,Wigan Athletic,0,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Hereford,Gillingham,0,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Leyton Orient,Carlisle United,3,1,RSSSF,normal,sim
+2023/2024,2023-11-04,Lincoln City,Morecambe,1,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Marine,Harrogate Town,1,5,RSSSF,normal,sim
+2023/2024,2023-11-04,Newport County,Oldham Athletic,2,0,RSSSF,normal,sim
+2023/2024,2023-11-04,Notts County,Crawley Town,3,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Oxford United,Maidenhead United,2,0,RSSSF,normal,sim
+2023/2024,2023-11-04,Peterborough United,Salford City,2,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Port Vale,Burton Albion,0,0,RSSSF,normal,sim
+2023/2024,2023-11-04,Ramsgate,Woking,2,1,RSSSF,normal,sim
+2023/2024,2023-11-04,Reading,Milton Keynes Dons,3,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Scarborough Athletic,Forest Green Rovers,1,1,RSSSF,normal,sim
+2023/2024,2023-11-04,Shrewsbury Town,Colchester United,3,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Stevenage Borough,Tranmere Rovers,4,3,RSSSF,normal,sim
+2023/2024,2023-11-04,Stockport County,Worksop Town,5,1,RSSSF,normal,sim
+2023/2024,2023-11-04,Sutton United,Fylde,2,1,RSSSF,normal,sim
+2023/2024,2023-11-04,Swindon Town,Aldershot Town,4,7,RSSSF,normal,sim
+2023/2024,2023-11-04,Yeovil Town,Gateshead,3,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Bromley,Blackpool,0,2,RSSSF,normal,sim
+2023/2024,2023-11-04,Mansfield Town,Wrexham,1,2,RSSSF,normal,sim
+2023/2024,2023-11-05,Chesterfield,Portsmouth,1,0,RSSSF,normal,sim
+2023/2024,2023-11-05,Kidderminster Harriers,Fleetwood Town,1,2,RSSSF,normal,sim
+2023/2024,2023-11-05,Slough Town,Grimsby Town,1,1,RSSSF,normal,sim
+2023/2024,2023-11-05,Crewe Alexandra,Derby County,2,2,RSSSF,normal,sim
+2023/2024,2023-11-05,Charlton Athletic,Cray Valley Paper Mills,1,1,RSSSF,normal,sim
+2023/2024,2023-11-14,Horsham,Barnsley,0,3,RSSSF,normal,sim
+2023/2024,2023-11-14,Accrington Stanley,Doncaster Rovers,1,2,RSSSF,normal,sim
+2023/2024,2023-11-14,Burton Albion,Port Vale,0,2,RSSSF,normal,sim
+2023/2024,2023-11-14,Derby County,Crewe Alexandra,1,3,RSSSF,normal,sim
+2023/2024,2023-11-14,Forest Green Rovers,Scarborough Athletic,5,2,RSSSF,anulada,sim
+2023/2024,2023-11-14,Grimsby Town,Slough Town,7,2,RSSSF,normal,sim
+2023/2024,2023-11-14,Salford City,Peterborough United,4,4,RSSSF,normal,sim
+2023/2024,2023-11-14,York City,Chester,2,1,RSSSF,normal,sim
+2023/2024,2023-11-15,Cray Valley Paper Mills,Charlton Athletic,1,6,RSSSF,normal,sim
+2023/2024,2023-12-12,Scarborough Athletic,Forest Green Rovers,2,4,RSSSF,normal,sim
+2023/2024,2023-12-01,Notts County,Shrewsbury Town,2,3,RSSSF,normal,sim
+2023/2024,2023-12-01,York City,Wigan Athletic,0,1,RSSSF,normal,sim
+2023/2024,2023-12-02,Bolton Wanderers,Harrogate Town,5,1,RSSSF,normal,sim
+2023/2024,2023-12-02,Cambridge United,Fleetwood Town,4,0,RSSSF,normal,sim
+2023/2024,2023-12-02,Gillingham,Charlton Athletic,2,0,RSSSF,normal,sim
+2023/2024,2023-12-02,Maidstone United,Barrow,2,1,RSSSF,normal,sim
+2023/2024,2023-12-02,Newport County,Barnet,1,1,RSSSF,normal,sim
+2023/2024,2023-12-02,Oxford United,Grimsby Town,2,0,RSSSF,normal,sim
+2023/2024,2023-12-02,Peterborough United,Doncaster Rovers,2,1,RSSSF,normal,sim
+2023/2024,2023-12-02,Stevenage Borough,Port Vale,1,1,RSSSF,normal,sim
+2023/2024,2023-12-02,Sutton United,Horsham,3,0,RSSSF,normal,sim
+2023/2024,2023-12-02,Wycombe Wanderers,Morecambe,0,2,RSSSF,normal,sim
+2023/2024,2023-12-03,Eastleigh,Reading,2,1,RSSSF,normal,sim
+2023/2024,2023-12-03,Aldershot Town,Stockport County,2,2,RSSSF,normal,sim
+2023/2024,2023-12-03,Chesterfield,Leyton Orient,1,0,RSSSF,normal,sim
+2023/2024,2023-12-03,Wrexham,Yeovil Town,3,0,RSSSF,normal,sim
+2023/2024,2023-12-04,Wimbledon,Ramsgate,5,0,RSSSF,normal,sim
+2023/2024,2023-12-05,Alfreton Town,Walsall,0,0,RSSSF,normal,sim
+2023/2024,2023-12-12,Crewe Alexandra,Bristol Rovers,2,4,RSSSF,normal,sim
+2023/2024,2023-12-19,Blackpool,Forest Green Rovers,3,0,RSSSF,normal,sim
+2023/2024,2023-12-12,Barnet,Newport County,1,4,RSSSF,normal,sim
+2023/2024,2023-12-12,Port Vale,Stevenage Borough,3,3,RSSSF,normal,sim
+2023/2024,2023-12-12,Walsall,Alfreton Town,1,0,RSSSF,normal,sim
+2023/2024,2023-12-13,Stockport County,Aldershot Town,0,1,RSSSF,normal,sim
+2023/2024,2024-01-04,Crystal Palace,Everton,0,0,RSSSF,normal,sim
+2023/2024,2024-01-05,Brentford,Wolves,1,1,RSSSF,normal,sim
+2023/2024,2024-01-05,Fulham,Rotherham United,1,0,RSSSF,normal,sim
+2023/2024,2024-01-05,Tottenham,Burnley,1,0,RSSSF,normal,sim
+2023/2024,2024-01-06,Wimbledon,Ipswich,1,3,RSSSF,normal,sim
+2023/2024,2024-01-06,Coventry City,Oxford United,6,2,RSSSF,normal,sim
+2023/2024,2024-01-06,Maidstone United,Stevenage Borough,1,0,RSSSF,normal,sim
+2023/2024,2024-01-06,Millwall,Leicester,2,3,RSSSF,normal,sim
+2023/2024,2024-01-06,Sunderland,Newcastle,0,3,RSSSF,normal,sim
+2023/2024,2024-01-06,Blackburn Rovers,Cambridge United,5,2,RSSSF,normal,sim
+2023/2024,2024-01-06,Gillingham,Sheffield United,0,4,RSSSF,normal,sim
+2023/2024,2024-01-06,Hull,Birmingham City,1,1,RSSSF,normal,sim
+2023/2024,2024-01-06,Newport County,Eastleigh,1,1,RSSSF,normal,sim
+2023/2024,2024-01-06,Norwich,Bristol Rovers,1,1,RSSSF,normal,sim
+2023/2024,2024-01-06,Plymouth Argyle,Sutton United,3,1,RSSSF,normal,sim
+2023/2024,2024-01-06,Queens Park Rangers,Bournemouth,2,3,RSSSF,normal,sim
+2023/2024,2024-01-06,Southampton,Walsall,4,0,RSSSF,normal,sim
+2023/2024,2024-01-06,Stoke,Brighton,2,4,RSSSF,normal,sim
+2023/2024,2024-01-06,Watford,Chesterfield,2,1,RSSSF,normal,sim
+2023/2024,2024-01-06,Chelsea,Preston North End,4,0,RSSSF,normal,sim
+2023/2024,2024-01-06,Middlesbrough,Aston Villa,0,1,RSSSF,normal,sim
+2023/2024,2024-01-06,Sheffield Wednesday,Cardiff,4,0,RSSSF,normal,sim
+2023/2024,2024-01-06,Swansea,Morecambe,2,0,RSSSF,normal,sim
+2023/2024,2024-01-07,Luton,Bolton Wanderers,0,0,RSSSF,normal,sim
+2023/2024,2024-01-07,Man City,Huddersfield,5,0,RSSSF,normal,sim
+2023/2024,2024-01-07,Nott'm Forest,Blackpool,2,2,RSSSF,normal,sim
+2023/2024,2024-01-07,Peterborough United,Leeds,0,3,RSSSF,normal,sim
+2023/2024,2024-01-07,Shrewsbury Town,Wrexham,0,1,RSSSF,normal,sim
+2023/2024,2024-01-07,West Brom,Aldershot Town,4,1,RSSSF,normal,sim
+2023/2024,2024-01-07,West Ham,Bristol City,1,1,RSSSF,normal,sim
+2023/2024,2024-01-07,Arsenal,Liverpool,0,2,RSSSF,normal,sim
+2023/2024,2024-01-08,Wigan Athletic,Man United,0,2,RSSSF,normal,sim
+2023/2024,2024-01-16,Wolves,Brentford,3,2,RSSSF,normal,sim
+2023/2024,2024-01-16,Birmingham City,Hull,2,1,RSSSF,normal,sim
+2023/2024,2024-01-16,Bolton Wanderers,Luton,1,2,RSSSF,normal,sim
+2023/2024,2024-01-16,Bristol City,West Ham,1,0,RSSSF,normal,sim
+2023/2024,2024-01-16,Eastleigh,Newport County,1,3,RSSSF,normal,sim
+2023/2024,2024-01-17,Blackpool,Nott'm Forest,2,3,RSSSF,normal,sim
+2023/2024,2024-01-17,Bristol Rovers,Norwich,1,3,RSSSF,normal,sim
+2023/2024,2024-01-17,Everton,Crystal Palace,1,0,RSSSF,normal,sim
+2023/2024,2024-01-25,Bournemouth,Swansea,5,0,RSSSF,normal,sim
+2023/2024,2024-01-26,Bristol City,Nott'm Forest,0,0,RSSSF,normal,sim
+2023/2024,2024-01-26,Chelsea,Aston Villa,0,0,RSSSF,normal,sim
+2023/2024,2024-01-26,Sheffield Wednesday,Coventry City,1,1,RSSSF,normal,sim
+2023/2024,2024-01-26,Tottenham,Man City,0,1,RSSSF,normal,sim
+2023/2024,2024-01-27,Ipswich,Maidstone United,1,2,RSSSF,normal,sim
+2023/2024,2024-01-27,Everton,Luton,1,2,RSSSF,normal,sim
+2023/2024,2024-01-27,Leeds,Plymouth Argyle,1,1,RSSSF,normal,sim
+2023/2024,2024-01-27,Leicester,Birmingham City,3,0,RSSSF,normal,sim
+2023/2024,2024-01-27,Sheffield United,Brighton,2,5,RSSSF,normal,sim
+2023/2024,2024-01-27,Fulham,Newcastle,0,2,RSSSF,normal,sim
+2023/2024,2024-01-28,West Brom,Wolves,0,2,RSSSF,normal,sim
+2023/2024,2024-01-28,Watford,Southampton,1,1,RSSSF,normal,sim
+2023/2024,2024-01-28,Liverpool,Norwich,5,2,RSSSF,normal,sim
+2023/2024,2024-01-28,Newport County,Man United,2,4,RSSSF,normal,sim
+2023/2024,2024-01-29,Blackburn Rovers,Wrexham,4,1,RSSSF,normal,sim
+2023/2024,2024-02-06,Coventry City,Sheffield Wednesday,4,1,RSSSF,normal,sim
+2023/2024,2024-02-06,Plymouth Argyle,Leeds,1,4,RSSSF,normal,sim
+2023/2024,2024-02-06,Southampton,Watford,3,0,RSSSF,normal,sim
+2023/2024,2024-02-07,Nott'm Forest,Bristol City,1,1,RSSSF,normal,sim
+2023/2024,2024-02-07,Aston Villa,Chelsea,1,3,RSSSF,normal,sim
+2023/2024,2024-02-26,Coventry City,Maidstone United,5,0,RSSSF,normal,sim
+2023/2024,2024-02-27,Bournemouth,Leicester,0,1,RSSSF,normal,sim
+2023/2024,2024-02-27,Blackburn Rovers,Newcastle,1,1,RSSSF,normal,sim
+2023/2024,2024-02-27,Luton,Man City,2,6,RSSSF,normal,sim
+2023/2024,2024-02-28,Chelsea,Leeds,3,2,RSSSF,normal,sim
+2023/2024,2024-02-28,Nott'm Forest,Man United,0,1,RSSSF,normal,sim
+2023/2024,2024-02-28,Wolves,Brighton,1,0,RSSSF,normal,sim
+2023/2024,2024-02-28,Liverpool,Southampton,3,0,RSSSF,normal,sim
+2023/2024,2024-03-16,Wolves,Coventry City,2,3,RSSSF,normal,sim
+2023/2024,2024-03-16,Man City,Newcastle,2,0,RSSSF,normal,sim
+2023/2024,2024-03-17,Chelsea,Leicester,4,2,RSSSF,normal,sim
+2023/2024,2024-03-17,Man United,Liverpool,4,3,RSSSF,normal,sim
+2023/2024,2024-04-20,Man City,Chelsea,1,0,RSSSF,normal,sim
+2023/2024,2024-04-21,Coventry City,Man United,3,3,RSSSF,normal,sim
+2023/2024,2024-05-25,Man City,Man United,1,2,RSSSF,normal,sim
+2024/2025,2024-11-01,Notts County,Alfreton Town,5,1,RSSSF,normal,sim
+2024/2025,2024-11-01,Tamworth,Huddersfield,1,0,RSSSF,normal,sim
+2024/2025,2024-11-02,Barrow,Doncaster Rovers,0,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Brackley Town,Braintree Town,0,0,RSSSF,normal,sim
+2024/2025,2024-11-02,Bradford City,Aldershot Town,3,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Bristol Rovers,Weston-Super-Mare,3,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Burton Albion,Scarborough Athletic,1,0,RSSSF,normal,sim
+2024/2025,2024-11-02,Carlisle United,Wigan Athletic,0,2,RSSSF,normal,sim
+2024/2025,2024-11-02,Chesterfield,Horsham,3,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Crewe Alexandra,Dagenham And Redbridge,0,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Exeter City,Barnet,5,3,RSSSF,normal,sim
+2024/2025,2024-11-02,Gillingham,Blackpool,0,2,RSSSF,normal,sim
+2024/2025,2024-11-02,Grimsby Town,Wealdstone,0,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Hednesford Town,Gainsborough Trinity,4,4,RSSSF,normal,sim
+2024/2025,2024-11-02,Maidenhead United,Crawley Town,1,2,RSSSF,normal,sim
+2024/2025,2024-11-02,Newport County,Peterborough United,2,4,RSSSF,normal,sim
+2024/2025,2024-11-02,Port Vale,Barnsley,1,3,RSSSF,normal,sim
+2024/2025,2024-11-02,Reading,Fleetwood Town,2,0,RSSSF,normal,sim
+2024/2025,2024-11-02,Rochdale,Bromley,3,4,RSSSF,normal,sim
+2024/2025,2024-11-02,Rotherham United,Cheltenham,1,3,RSSSF,normal,sim
+2024/2025,2024-11-02,Rushall Olympic,Accrington Stanley,0,2,RSSSF,normal,sim
+2024/2025,2024-11-02,Salford City,Shrewsbury Town,2,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Solihull,Maidstone United,3,0,RSSSF,normal,sim
+2024/2025,2024-11-02,Southend United,Charlton Athletic,3,4,RSSSF,normal,sim
+2024/2025,2024-11-02,Stevenage Borough,Guiseley,1,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Stockport County,Forest Green Rovers,2,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Swindon Town,Colchester United,2,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Tonbridge Angels,Harborough Town,1,4,RSSSF,normal,sim
+2024/2025,2024-11-02,Tranmere Rovers,Oldham Athletic,1,2,RSSSF,normal,sim
+2024/2025,2024-11-02,Walsall,Bolton Wanderers,2,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Woking,Cambridge United,0,1,RSSSF,normal,sim
+2024/2025,2024-11-02,Worthing,Morecambe,0,2,RSSSF,normal,sim
+2024/2025,2024-11-02,Wycombe Wanderers,York City,3,2,RSSSF,normal,sim
+2024/2025,2024-11-02,Northampton Town,Kettering Town,1,2,RSSSF,normal,sim
+2024/2025,2024-11-03,Milton Keynes Dons,Wimbledon,0,2,RSSSF,normal,sim
+2024/2025,2024-11-03,Sutton United,Birmingham City,0,1,RSSSF,normal,sim
+2024/2025,2024-11-03,Boreham Wood,Leyton Orient,2,2,RSSSF,normal,sim
+2024/2025,2024-11-03,Curzon Ashton,Mansfield Town,0,4,RSSSF,normal,sim
+2024/2025,2024-11-03,Harrogate Town,Wrexham,1,0,RSSSF,normal,sim
+2024/2025,2024-11-04,Chesham United,Lincoln City,0,4,RSSSF,normal,sim
+2024/2025,2024-11-29,Harrogate Town,Gainsborough Trinity,1,0,RSSSF,normal,sim
+2024/2025,2024-11-30,Wealdstone,Wycombe Wanderers,0,2,RSSSF,normal,sim
+2024/2025,2024-11-30,Accrington Stanley,Swindon Town,2,2,RSSSF,normal,sim
+2024/2025,2024-11-30,Barnsley,Bristol Rovers,0,0,RSSSF,normal,sim
+2024/2025,2024-11-30,Cambridge United,Wigan Athletic,1,2,RSSSF,normal,sim
+2024/2025,2024-11-30,Crawley Town,Lincoln City,3,4,RSSSF,normal,sim
+2024/2025,2024-11-30,Exeter City,Chesterfield,2,0,RSSSF,normal,sim
+2024/2025,2024-11-30,Leyton Orient,Oldham Athletic,2,1,RSSSF,normal,sim
+2024/2025,2024-11-30,Morecambe,Bradford City,1,0,RSSSF,normal,sim
+2024/2025,2024-11-30,Peterborough United,Notts County,4,3,RSSSF,normal,sim
+2024/2025,2024-11-30,Salford City,Cheltenham,2,0,RSSSF,normal,sim
+2024/2025,2024-11-30,Stevenage Borough,Mansfield Town,0,1,RSSSF,normal,sim
+2024/2025,2024-11-30,Stockport County,Brackley Town,3,1,RSSSF,normal,sim
+2024/2025,2024-11-30,Walsall,Charlton Athletic,0,4,RSSSF,normal,sim
+2024/2025,2024-11-30,Wimbledon,Dagenham And Redbridge,1,2,RSSSF,normal,sim
+2024/2025,2024-12-01,Kettering Town,Doncaster Rovers,1,2,RSSSF,normal,sim
+2024/2025,2024-12-01,Blackpool,Birmingham City,1,2,RSSSF,normal,sim
+2024/2025,2024-12-01,Burton Albion,Tamworth,1,1,RSSSF,normal,sim
+2024/2025,2024-12-01,Reading,Harborough Town,5,3,RSSSF,normal,sim
+2024/2025,2024-12-01,Solihull,Bromley,1,2,RSSSF,normal,sim
+2024/2025,2025-01-09,Sheffield United,Cardiff,0,1,RSSSF,normal,sim
+2024/2025,2025-01-09,Everton,Peterborough United,2,0,RSSSF,normal,sim
+2024/2025,2025-01-09,Fulham,Watford,4,1,RSSSF,normal,sim
+2024/2025,2025-01-10,Wycombe Wanderers,Portsmouth,2,0,RSSSF,normal,sim
+2024/2025,2025-01-10,Aston Villa,West Ham,2,1,RSSSF,normal,sim
+2024/2025,2025-01-11,Birmingham City,Lincoln City,2,1,RSSSF,normal,sim
+2024/2025,2025-01-11,Bristol City,Wolves,1,2,RSSSF,normal,sim
+2024/2025,2025-01-11,Middlesbrough,Blackburn Rovers,0,1,RSSSF,normal,sim
+2024/2025,2025-01-11,Liverpool,Accrington Stanley,4,0,RSSSF,normal,sim
+2024/2025,2025-01-11,Leicester,Queens Park Rangers,6,2,RSSSF,normal,sim
+2024/2025,2025-01-11,Bournemouth,West Brom,5,1,RSSSF,normal,sim
+2024/2025,2025-01-11,Brentford,Plymouth Argyle,0,1,RSSSF,normal,sim
+2024/2025,2025-01-11,Chelsea,Morecambe,5,0,RSSSF,normal,sim
+2024/2025,2025-01-11,Exeter City,Oxford United,3,1,RSSSF,normal,sim
+2024/2025,2025-01-11,Norwich,Brighton,0,4,RSSSF,normal,sim
+2024/2025,2025-01-11,Nott'm Forest,Luton,2,0,RSSSF,normal,sim
+2024/2025,2025-01-11,Reading,Burnley,1,3,RSSSF,normal,sim
+2024/2025,2025-01-11,Sunderland,Stoke,1,2,RSSSF,normal,sim
+2024/2025,2025-01-11,Leeds,Harrogate Town,1,0,RSSSF,normal,sim
+2024/2025,2025-01-11,Man City,Salford City,8,0,RSSSF,normal,sim
+2024/2025,2025-01-11,Coventry City,Sheffield Wednesday,1,1,RSSSF,normal,sim
+2024/2025,2025-01-12,Hull,Doncaster Rovers,1,1,RSSSF,normal,sim
+2024/2025,2025-01-12,Tamworth,Tottenham,0,3,RSSSF,normal,sim
+2024/2025,2025-01-12,Arsenal,Man United,1,1,RSSSF,normal,sim
+2024/2025,2025-01-12,Crystal Palace,Stockport County,1,0,RSSSF,normal,sim
+2024/2025,2025-01-12,Ipswich,Bristol Rovers,3,0,RSSSF,normal,sim
+2024/2025,2025-01-12,Newcastle,Bromley,3,1,RSSSF,normal,sim
+2024/2025,2025-01-12,Southampton,Swansea,3,0,RSSSF,normal,sim
+2024/2025,2025-01-13,Millwall,Dagenham And Redbridge,3,0,RSSSF,normal,sim
+2024/2025,2025-01-14,Leyton Orient,Derby County,1,1,RSSSF,normal,sim
+2024/2025,2025-01-14,Mansfield Town,Wigan Athletic,0,2,RSSSF,normal,sim
+2024/2025,2025-01-14,Preston North End,Charlton Athletic,2,1,RSSSF,normal,sim
+2024/2025,2025-02-07,Man United,Leicester,2,1,RSSSF,normal,sim
+2024/2025,2025-02-08,Leeds,Millwall,0,2,RSSSF,normal,sim
+2024/2025,2025-02-08,Leyton Orient,Man City,1,2,RSSSF,normal,sim
+2024/2025,2025-02-08,Everton,Bournemouth,0,2,RSSSF,normal,sim
+2024/2025,2025-02-08,Preston North End,Wycombe Wanderers,0,0,RSSSF,normal,sim
+2024/2025,2025-02-08,Southampton,Burnley,0,1,RSSSF,normal,sim
+2024/2025,2025-02-08,Stoke,Cardiff,3,3,RSSSF,normal,sim
+2024/2025,2025-02-08,Wigan Athletic,Fulham,1,2,RSSSF,normal,sim
+2024/2025,2025-02-08,Coventry City,Ipswich,1,4,RSSSF,normal,sim
+2024/2025,2025-02-08,Birmingham City,Newcastle,2,3,RSSSF,normal,sim
+2024/2025,2025-02-08,Brighton,Chelsea,2,1,RSSSF,normal,sim
+2024/2025,2025-02-09,Blackburn Rovers,Wolves,0,2,RSSSF,normal,sim
+2024/2025,2025-02-09,Plymouth Argyle,Liverpool,1,0,RSSSF,normal,sim
+2024/2025,2025-02-09,Aston Villa,Tottenham,2,1,RSSSF,normal,sim
+2024/2025,2025-02-10,Doncaster Rovers,Crystal Palace,0,2,RSSSF,normal,sim
+2024/2025,2025-02-11,Exeter City,Nott'm Forest,2,2,RSSSF,normal,sim
+2024/2025,2025-02-28,Aston Villa,Cardiff,2,0,RSSSF,normal,sim
+2024/2025,2025-03-01,Crystal Palace,Millwall,3,1,RSSSF,normal,sim
+2024/2025,2025-03-01,Preston North End,Burnley,3,0,RSSSF,normal,sim
+2024/2025,2025-03-01,Bournemouth,Wolves,1,1,RSSSF,normal,sim
+2024/2025,2025-03-01,Man City,Plymouth Argyle,3,1,RSSSF,normal,sim
+2024/2025,2025-03-02,Newcastle,Brighton,1,2,RSSSF,normal,sim
+2024/2025,2025-03-02,Man United,Fulham,1,1,RSSSF,normal,sim
+2024/2025,2025-03-03,Nott'm Forest,Ipswich,1,1,RSSSF,normal,sim
+2024/2025,2025-03-29,Fulham,Crystal Palace,0,3,RSSSF,normal,sim
+2024/2025,2025-03-29,Brighton,Nott'm Forest,0,0,RSSSF,normal,sim
+2024/2025,2025-03-30,Preston North End,Aston Villa,0,3,RSSSF,normal,sim
+2024/2025,2025-03-30,Bournemouth,Man City,1,2,RSSSF,normal,sim
+2024/2025,2025-04-26,Crystal Palace,Aston Villa,3,0,RSSSF,normal,sim
+2024/2025,2025-04-27,Nott'm Forest,Man City,0,2,RSSSF,normal,sim
+2024/2025,2025-05-17,Crystal Palace,Man City,1,0,RSSSF,normal,sim

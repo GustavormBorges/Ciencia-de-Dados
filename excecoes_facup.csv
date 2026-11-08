@@ -1,0 +1,5 @@
+﻿temporada;data;mandante;visitante;fonte_a;placar_a;fonte_b;placar_b;fonte_escolhida;placar_final;status_competicao;contar_como_partida;observacao
+2018/2019;2019-03-16;Wolverhampton Wanderers;Manchester United;RDA;2-0;OpenFootball;2-1;OpenFootball;2-1;normal;sim;RDA apresenta placar divergente
+2020/2021;2021-03-20;Bournemouth;Southampton;RSSSF;2-3;OpenFootball;0-3;OpenFootball;0-3;normal;sim;RSSSF apresenta placar divergente
+2021/2022;2021-11-06;Yate Town;Yeovil Town;RSSSF;0-1;OpenFootball;0-5;OpenFootball;0-5;normal;sim;RSSSF apresenta placar divergente
+2023/2024;2023-11-14;Forest Green Rovers;Scarborough Athletic;RSSSF;5-2;OpenFootball;;RSSSF;5-2;anulada;sim;Partida disputada mas anulada pela FA por escalação irregular
