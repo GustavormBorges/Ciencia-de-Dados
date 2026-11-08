@@ -1,0 +1,1237 @@
+﻿temporada,competicao,fase,etapa,mandante,visitante,gols_mandante,gols_visitante,fonte,status_competicao,contar_como_partida,mandante_na_liga,visitante_na_liga
+2015/2016,Champions League,Qualifying Phase 2,qualificatoria,BSC Young Boys (Bern),Monaco,1,3,RSSSF,normal,sim,,Ligue 1
+2015/2016,Champions League,Qualifying Phase 2,qualificatoria,Monaco,BSC Young Boys (Bern),4,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Champions League,Qualifying Phase 3,qualificatoria,Man United,Club Brugge KV,3,1,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Qualifying Phase 3,qualificatoria,Club Brugge KV,Man United,0,4,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Qualifying Phase 3,qualificatoria,Valencia CF,Monaco,3,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Champions League,Qualifying Phase 3,qualificatoria,Monaco,Valencia CF,2,1,RSSSF,normal,sim,Ligue 1,
+2015/2016,Champions League,Group Phase,fase principal,Paris SG,Malmö FF,2,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Champions League,Group Phase,fase principal,Shakhtar Donetsk,Paris SG,0,3,RSSSF,normal,sim,,Ligue 1
+2015/2016,Champions League,Group Phase,fase principal,Paris SG,Real Madrid,0,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Champions League,Group Phase,fase principal,Real Madrid,Paris SG,1,0,RSSSF,normal,sim,,Ligue 1
+2015/2016,Champions League,Group Phase,fase principal,Malmö FF,Paris SG,0,5,RSSSF,normal,sim,,Ligue 1
+2015/2016,Champions League,Group Phase,fase principal,Paris SG,Shakhtar Donetsk,2,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Champions League,Group Phase,fase principal,PSV (Eindhoven),Man United,2,1,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Man United,VfL Wolfsburg,2,1,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,CSKA Moskva,Man United,1,1,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Man United,CSKA Moskva,1,0,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,Man United,PSV (Eindhoven),0,0,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,VfL Wolfsburg,Man United,3,2,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Man City,Juventus,1,2,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,Borussia Mönchengladbach,Man City,1,2,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Man City,Sevilla FC,2,1,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,Sevilla FC,Man City,1,3,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Juventus,Man City,1,0,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Man City,Borussia Mönchengladbach,4,2,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,Dinamo Zagreb,Arsenal,2,1,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Arsenal,Olympiakos (Piraeus),2,3,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,Arsenal,Bayern München,2,0,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,Bayern München,Arsenal,5,1,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Arsenal,Dinamo Zagreb,3,0,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,Olympiakos (Piraeus),Arsenal,0,3,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Chelsea,Maccabi Tel-Aviv,4,0,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,FC Porto,Chelsea,2,1,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Dynamo Kyiv,Chelsea,0,0,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Chelsea,Dynamo Kyiv,2,1,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,Maccabi Tel-Aviv,Chelsea,0,4,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,Group Phase,fase principal,Chelsea,FC Porto,2,0,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Group Phase,fase principal,AA Gent,Lyon,1,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Champions League,Group Phase,fase principal,Lyon,Valencia CF,0,1,RSSSF,normal,sim,Ligue 1,
+2015/2016,Champions League,Group Phase,fase principal,Zenit Sankt Peterburg,Lyon,3,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Champions League,Group Phase,fase principal,Lyon,Zenit Sankt Peterburg,0,2,RSSSF,normal,sim,Ligue 1,
+2015/2016,Champions League,Group Phase,fase principal,Lyon,AA Gent,1,2,RSSSF,normal,sim,Ligue 1,
+2015/2016,Champions League,Group Phase,fase principal,Valencia CF,Lyon,0,2,RSSSF,normal,sim,,Ligue 1
+2015/2016,Champions League,1/8 Finals,fase principal,Paris SG,Chelsea,2,1,RSSSF,normal,sim,Ligue 1,Premier League
+2015/2016,Champions League,1/8 Finals,fase principal,Chelsea,Paris SG,1,2,RSSSF,normal,sim,Premier League,Ligue 1
+2015/2016,Champions League,1/8 Finals,fase principal,Arsenal,FC Barcelona,0,2,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,1/8 Finals,fase principal,FC Barcelona,Arsenal,3,1,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,1/8 Finals,fase principal,Dynamo Kyiv,Man City,1,3,RSSSF,normal,sim,,Premier League
+2015/2016,Champions League,1/8 Finals,fase principal,Man City,Dynamo Kyiv,0,0,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Quarter-Finals,fase principal,Paris SG,Man City,2,2,RSSSF,normal,sim,Ligue 1,Premier League
+2015/2016,Champions League,Quarter-Finals,fase principal,Man City,Paris SG,1,0,RSSSF,normal,sim,Premier League,Ligue 1
+2015/2016,Champions League,Semi-Finals,fase principal,Man City,Real Madrid,0,0,RSSSF,normal,sim,Premier League,
+2015/2016,Champions League,Semi-Finals,fase principal,Real Madrid,Man City,1,0,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,First Qualifying Phase,qualificatoria,West Ham,FC Lusitans,3,0,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,First Qualifying Phase,qualificatoria,FC Lusitans,West Ham,0,1,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Second Qualifying Phase,qualificatoria,West Ham,Birkirkara,1,0,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Second Qualifying Phase,qualificatoria,Birkirkara,West Ham,1,0,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Third Qualifying Phase,qualificatoria,ASA Targu Mures,St Etienne,0,3,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Third Qualifying Phase,qualificatoria,St Etienne,ASA Targu Mures,1,2,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Third Qualifying Phase,qualificatoria,Bordeaux,AEK (Larnaka),3,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Third Qualifying Phase,qualificatoria,AEK (Larnaka),Bordeaux,0,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Third Qualifying Phase,qualificatoria,West Ham,Astra Giurgiu,2,2,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Third Qualifying Phase,qualificatoria,Astra Giurgiu,West Ham,2,1,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Third Qualifying Phase,qualificatoria,Southampton,Vitesse (Arnhem),3,0,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Third Qualifying Phase,qualificatoria,Vitesse (Arnhem),Southampton,0,2,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,First Round,qualificatoria,Milsami Orhei,St Etienne,1,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,First Round,qualificatoria,St Etienne,Milsami Orhei,1,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,First Round,qualificatoria,Bordeaux,Qayrat Almati,1,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,First Round,qualificatoria,Qayrat Almati,Bordeaux,2,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,First Round,qualificatoria,Southampton,FC Midtjylland,1,1,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,First Round,qualificatoria,FC Midtjylland,Southampton,1,0,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Group Phase,fase principal,Bordeaux,Liverpool,1,1,RSSSF,normal,sim,Ligue 1,Premier League
+2015/2016,Europa League,Group Phase,fase principal,Liverpool,FC Sion,1,1,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Group Phase,fase principal,Rubin Kazan,Bordeaux,0,0,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,Bordeaux,FC Sion,0,1,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,Liverpool,Rubin Kazan,1,1,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Group Phase,fase principal,FC Sion,Bordeaux,1,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,Rubin Kazan,Liverpool,0,1,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Group Phase,fase principal,Liverpool,Bordeaux,2,1,RSSSF,normal,sim,Premier League,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,FC Sion,Liverpool,0,0,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Group Phase,fase principal,Bordeaux,Rubin Kazan,2,2,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,FC Groningen,Marseille,0,3,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,Marseille,Slovan Liberec,0,1,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,SC Braga,Marseille,3,2,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,Marseille,SC Braga,1,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,Marseille,FC Groningen,2,1,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,Slovan Liberec,Marseille,2,4,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,St Etienne,Rosenborg BK (Trondheim),2,2,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,Lazio (Roma),St Etienne,3,2,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,Dnipro Dnipropetrovsk,St Etienne,0,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,St Etienne,Dnipro Dnipropetrovsk,3,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,Rosenborg BK (Trondheim),St Etienne,1,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,St Etienne,Lazio (Roma),1,1,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,RSC Anderlecht,Monaco,1,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,Tottenham,Qarabag Agdam,3,1,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Group Phase,fase principal,Monaco,Tottenham,1,1,RSSSF,normal,sim,Ligue 1,Premier League
+2015/2016,Europa League,Group Phase,fase principal,RSC Anderlecht,Tottenham,2,1,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Group Phase,fase principal,Monaco,Qarabag Agdam,1,0,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,Qarabag Agdam,Monaco,1,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Group Phase,fase principal,Tottenham,RSC Anderlecht,2,1,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Group Phase,fase principal,Monaco,RSC Anderlecht,0,2,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Group Phase,fase principal,Qarabag Agdam,Tottenham,0,1,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Group Phase,fase principal,Tottenham,Monaco,4,1,RSSSF,normal,sim,Premier League,Ligue 1
+2015/2016,Europa League,Intermediate Round,fase principal,FC Midtjylland,Man United,2,1,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Intermediate Round,fase principal,Man United,FC Midtjylland,5,1,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Intermediate Round,fase principal,AC Fiorentina,Tottenham,1,1,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Intermediate Round,fase principal,Tottenham,AC Fiorentina,3,0,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Intermediate Round,fase principal,St Etienne,FC Basel,3,2,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Intermediate Round,fase principal,FC Basel,St Etienne,2,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,Intermediate Round,fase principal,FC Augsburg,Liverpool,0,0,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Intermediate Round,fase principal,Liverpool,FC Augsburg,1,0,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Intermediate Round,fase principal,Marseille,Athletic Bilbao,0,1,RSSSF,normal,sim,Ligue 1,
+2015/2016,Europa League,Intermediate Round,fase principal,Athletic Bilbao,Marseille,1,1,RSSSF,normal,sim,,Ligue 1
+2015/2016,Europa League,1/8 Finals,fase principal,Liverpool,Man United,2,0,RSSSF,normal,sim,Premier League,Premier League
+2015/2016,Europa League,1/8 Finals,fase principal,Man United,Liverpool,1,1,RSSSF,normal,sim,Premier League,Premier League
+2015/2016,Europa League,1/8 Finals,fase principal,Borussia Dortmund,Tottenham,3,0,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,1/8 Finals,fase principal,Tottenham,Borussia Dortmund,1,2,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Quarter-Finals,fase principal,Borussia Dortmund,Liverpool,1,1,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Quarter-Finals,fase principal,Liverpool,Borussia Dortmund,4,3,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Semi-Finals,fase principal,Villarreal CF,Liverpool,1,0,RSSSF,normal,sim,,Premier League
+2015/2016,Europa League,Semi-Finals,fase principal,Liverpool,Villarreal CF,3,0,RSSSF,normal,sim,Premier League,
+2015/2016,Europa League,Final,fase principal,Liverpool,Sevilla FC,1,3,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Qualifying Phase 2,qualificatoria,Fenerbahçe SK (Istanbul),Monaco,2,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Qualifying Phase 2,qualificatoria,Monaco,Fenerbahçe SK (Istanbul),3,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Qualifying Phase 3,qualificatoria,Steaua Bucuresti,Man City,0,5,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Qualifying Phase 3,qualificatoria,Man City,Steaua Bucuresti,1,0,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Qualifying Phase 3,qualificatoria,Villarreal CF,Monaco,1,2,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Qualifying Phase 3,qualificatoria,Monaco,Villarreal CF,1,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Group Phase,fase principal,Paris SG,Arsenal,1,1,RSSSF,normal,sim,Ligue 1,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Arsenal,FC Basel,2,0,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,Ludogorets Razgrad,Paris SG,1,3,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Group Phase,fase principal,Arsenal,Ludogorets Razgrad,6,0,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,Paris SG,FC Basel,3,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Group Phase,fase principal,FC Basel,Paris SG,1,2,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Group Phase,fase principal,Ludogorets Razgrad,Arsenal,2,3,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Arsenal,Paris SG,2,2,RSSSF,normal,sim,Premier League,Ligue 1
+2016/2017,Champions League,Group Phase,fase principal,FC Basel,Arsenal,1,4,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Paris SG,Ludogorets Razgrad,2,2,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Group Phase,fase principal,Man City,Borussia Mönchengladbach,4,0,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,Celtic,Man City,3,3,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,FC Barcelona,Man City,4,0,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Man City,FC Barcelona,3,1,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,Borussia Mönchengladbach,Man City,1,1,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Man City,Celtic,1,1,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,Tottenham,Monaco,1,2,RSSSF,normal,sim,Premier League,Ligue 1
+2016/2017,Champions League,Group Phase,fase principal,Monaco,Bayer Leverkusen,1,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Group Phase,fase principal,CSKA Moskva,Tottenham,0,1,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Bayer Leverkusen,Tottenham,0,0,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,CSKA Moskva,Monaco,1,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Group Phase,fase principal,Monaco,CSKA Moskva,3,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Group Phase,fase principal,Tottenham,Bayer Leverkusen,0,1,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,Monaco,Tottenham,2,1,RSSSF,normal,sim,Ligue 1,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Bayer Leverkusen,Monaco,3,0,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Group Phase,fase principal,Tottenham,CSKA Moskva,3,1,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,Club Brugge KV,Leicester,0,3,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Leicester,FC Porto,1,0,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,Leicester,FC København,1,0,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,FC København,Leicester,0,0,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Leicester,Club Brugge KV,2,1,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Group Phase,fase principal,FC Porto,Leicester,5,0,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Group Phase,fase principal,Lyon,Dinamo Zagreb,3,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Group Phase,fase principal,Sevilla FC,Lyon,1,0,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Group Phase,fase principal,Lyon,Juventus,0,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Group Phase,fase principal,Juventus,Lyon,1,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Group Phase,fase principal,Dinamo Zagreb,Lyon,0,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Group Phase,fase principal,Lyon,Sevilla FC,0,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,1/8 Finals,fase principal,Paris SG,FC Barcelona,4,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,1/8 Finals,fase principal,FC Barcelona,Paris SG,6,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,1/8 Finals,fase principal,Bayern München,Arsenal,5,1,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,1/8 Finals,fase principal,Arsenal,Bayern München,1,5,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,1/8 Finals,fase principal,Man City,Monaco,5,3,RSSSF,normal,sim,Premier League,Ligue 1
+2016/2017,Champions League,1/8 Finals,fase principal,Monaco,Man City,3,1,RSSSF,normal,sim,Ligue 1,Premier League
+2016/2017,Champions League,1/8 Finals,fase principal,Sevilla FC,Leicester,2,1,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,1/8 Finals,fase principal,Leicester,Sevilla FC,2,0,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Quarter-Finals,fase principal,Atlético Madrid,Leicester,1,0,RSSSF,normal,sim,,Premier League
+2016/2017,Champions League,Quarter-Finals,fase principal,Leicester,Atlético Madrid,1,1,RSSSF,normal,sim,Premier League,
+2016/2017,Champions League,Quarter-Finals,fase principal,Borussia Dortmund,Monaco,2,3,RSSSF,normal,sim,,Ligue 1
+2016/2017,Champions League,Quarter-Finals,fase principal,Monaco,Borussia Dortmund,3,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Semi-Finals,fase principal,Monaco,Juventus,0,2,RSSSF,normal,sim,Ligue 1,
+2016/2017,Champions League,Semi-Finals,fase principal,Juventus,Monaco,2,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Third Qualifying Phase,qualificatoria,Lille,Fra  FK Qabala,1,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Third Qualifying Phase,qualificatoria,Fra  FK Qabala,Lille,1,0,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Third Qualifying Phase,qualificatoria,Domzale,West Ham,2,1,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Third Qualifying Phase,qualificatoria,West Ham,Domzale,3,0,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Third Qualifying Phase,qualificatoria,St Etienne,AEK (Athinai),0,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Third Qualifying Phase,qualificatoria,AEK (Athinai),St Etienne,0,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,First Round,qualificatoria,Beitar Jerusalem,St Etienne,1,2,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,First Round,qualificatoria,St Etienne,Beitar Jerusalem,0,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,First Round,qualificatoria,Astra Giurgiu,West Ham,1,1,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,First Round,qualificatoria,West Ham,Astra Giurgiu,0,1,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Group Phase,fase principal,Feyenoord,Man United,1,0,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Group Phase,fase principal,Man United,Zorja Luhans'k,1,0,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Group Phase,fase principal,Man United,Fenerbahçe SK (Istanbul),4,1,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Group Phase,fase principal,Fenerbahçe SK (Istanbul),Man United,2,1,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Group Phase,fase principal,Man United,Feyenoord,4,0,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Group Phase,fase principal,Zorja Luhans'k,Man United,0,2,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Group Phase,fase principal,FSV Mainz 05,St Etienne,1,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Group Phase,fase principal,St Etienne,RSC Anderlecht,1,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Group Phase,fase principal,St Etienne,FK Qabala,1,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Group Phase,fase principal,FK Qabala,St Etienne,1,2,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Group Phase,fase principal,St Etienne,FSV Mainz 05,0,0,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Group Phase,fase principal,RSC Anderlecht,St Etienne,2,3,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Group Phase,fase principal,Nice,Schalke 04,0,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Group Phase,fase principal,FK Krasnodar,Nice,5,2,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Group Phase,fase principal,Red Bull Salzburg,Nice,0,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Group Phase,fase principal,Nice,Red Bull Salzburg,0,2,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Group Phase,fase principal,Schalke 04,Nice,2,0,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Group Phase,fase principal,Nice,FK Krasnodar,2,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Group Phase,fase principal,Southampton,Sparta Praha,3,0,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Group Phase,fase principal,Hapoel Beer-Sheva,Southampton,0,0,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Group Phase,fase principal,Internazionale,Southampton,1,0,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Group Phase,fase principal,Southampton,Internazionale,2,1,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Group Phase,fase principal,Sparta Praha,Southampton,1,0,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Group Phase,fase principal,Southampton,Hapoel Beer-Sheva,1,1,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Intermediate Round,fase principal,AA Gent,Tottenham,1,0,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Intermediate Round,fase principal,Tottenham,AA Gent,2,2,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Intermediate Round,fase principal,AZ (Alkmaar),Lyon,1,4,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Intermediate Round,fase principal,Lyon,AZ (Alkmaar),7,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Intermediate Round,fase principal,Man United,St Etienne,3,0,RSSSF,normal,sim,Premier League,Ligue 1
+2016/2017,Europa League,Intermediate Round,fase principal,St Etienne,Man United,0,1,RSSSF,normal,sim,Ligue 1,Premier League
+2016/2017,Europa League,1/8 Finals,fase principal,FK Rostov,Man United,1,1,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,1/8 Finals,fase principal,Man United,FK Rostov,1,0,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,1/8 Finals,fase principal,Lyon,AS Roma,4,2,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,1/8 Finals,fase principal,AS Roma,Lyon,2,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Quarter-Finals,fase principal,RSC Anderlecht,Man United,1,1,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Quarter-Finals,fase principal,Man United,RSC Anderlecht,2,1,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Quarter-Finals,fase principal,Lyon,Besiktas JK (Istanbul),2,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Quarter-Finals,fase principal,Besiktas JK (Istanbul),Lyon,2,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Semi-Finals,fase principal,Ajax,Lyon,4,1,RSSSF,normal,sim,,Ligue 1
+2016/2017,Europa League,Semi-Finals,fase principal,Lyon,Ajax,3,1,RSSSF,normal,sim,Ligue 1,
+2016/2017,Europa League,Semi-Finals,fase principal,RC Celta (Vigo),Man United,0,1,RSSSF,normal,sim,,Premier League
+2016/2017,Europa League,Semi-Finals,fase principal,Man United,RC Celta (Vigo),1,1,RSSSF,normal,sim,Premier League,
+2016/2017,Europa League,Final,fase principal,Ajax,Man United,0,2,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Qualifying Phase 2,qualificatoria,Nice,Ajax,1,1,RSSSF,normal,sim,Ligue 1,
+2017/2018,Champions League,Qualifying Phase 2,qualificatoria,Ajax,Nice,2,2,RSSSF,normal,sim,,Ligue 1
+2017/2018,Champions League,Qualifying Phase 3,qualificatoria,TSG 1899 Hoffenheim,Liverpool,1,2,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Qualifying Phase 3,qualificatoria,Liverpool,TSG 1899 Hoffenheim,4,2,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Qualifying Phase 3,qualificatoria,SSC Napoli,Nice,2,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Champions League,Qualifying Phase 3,qualificatoria,Nice,SSC Napoli,0,2,RSSSF,normal,sim,Ligue 1,
+2017/2018,Champions League,Group Phase,fase principal,Man United,FC Basel,3,0,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,CSKA Moskva,Man United,1,4,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,SL Benfica (Lisboa),Man United,0,1,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Man United,SL Benfica (Lisboa),2,0,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,FC Basel,Man United,1,0,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Man United,CSKA Moskva,2,1,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,Celtic,Paris SG,0,5,RSSSF,normal,sim,,Ligue 1
+2017/2018,Champions League,Group Phase,fase principal,Paris SG,Bayern München,3,0,RSSSF,normal,sim,Ligue 1,
+2017/2018,Champions League,Group Phase,fase principal,RSC Anderlecht,Paris SG,0,4,RSSSF,normal,sim,,Ligue 1
+2017/2018,Champions League,Group Phase,fase principal,Paris SG,RSC Anderlecht,5,0,RSSSF,normal,sim,Ligue 1,
+2017/2018,Champions League,Group Phase,fase principal,Paris SG,Celtic,7,1,RSSSF,normal,sim,Ligue 1,
+2017/2018,Champions League,Group Phase,fase principal,Bayern München,Paris SG,3,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Champions League,Group Phase,fase principal,Chelsea,Qarabag Agdam,6,0,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,Atlético Madrid,Chelsea,1,2,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Chelsea,AS Roma,3,3,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,AS Roma,Chelsea,3,0,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Qarabag Agdam,Chelsea,0,4,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Chelsea,Atlético Madrid,1,1,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,Liverpool,Sevilla FC,2,2,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,Spartak Moskva,Liverpool,1,1,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Maribor,Liverpool,0,7,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Liverpool,Maribor,3,0,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,Sevilla FC,Liverpool,3,3,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Liverpool,Spartak Moskva,7,0,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,Feyenoord,Man City,0,4,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Man City,Shakhtar Donetsk,2,0,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,Man City,SSC Napoli,2,1,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,SSC Napoli,Man City,2,4,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Man City,Feyenoord,1,0,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,Shakhtar Donetsk,Man City,2,1,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,RB Leipzig,Monaco,1,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Champions League,Group Phase,fase principal,Monaco,FC Porto,0,3,RSSSF,normal,sim,Ligue 1,
+2017/2018,Champions League,Group Phase,fase principal,Monaco,Besiktas JK (Istanbul),1,2,RSSSF,normal,sim,Ligue 1,
+2017/2018,Champions League,Group Phase,fase principal,Besiktas JK (Istanbul),Monaco,1,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Champions League,Group Phase,fase principal,Monaco,RB Leipzig,1,4,RSSSF,normal,sim,Ligue 1,
+2017/2018,Champions League,Group Phase,fase principal,FC Porto,Monaco,5,2,RSSSF,normal,sim,,Ligue 1
+2017/2018,Champions League,Group Phase,fase principal,Tottenham,Borussia Dortmund,3,1,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,APOEL Lefkosia,Tottenham,0,3,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Real Madrid,Tottenham,1,1,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Tottenham,Real Madrid,3,1,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Group Phase,fase principal,Borussia Dortmund,Tottenham,1,2,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Group Phase,fase principal,Tottenham,APOEL Lefkosia,3,0,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,1/8 Finals,fase principal,FC Basel,Man City,0,4,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,1/8 Finals,fase principal,Man City,FC Basel,1,2,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,1/8 Finals,fase principal,Juventus,Tottenham,2,2,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,1/8 Finals,fase principal,Tottenham,Juventus,1,2,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,1/8 Finals,fase principal,FC Porto,Liverpool,0,5,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,1/8 Finals,fase principal,Liverpool,FC Porto,0,0,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,1/8 Finals,fase principal,Real Madrid,Paris SG,3,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Champions League,1/8 Finals,fase principal,Paris SG,Real Madrid,1,2,RSSSF,normal,sim,Ligue 1,
+2017/2018,Champions League,1/8 Finals,fase principal,Chelsea,FC Barcelona,1,1,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,1/8 Finals,fase principal,FC Barcelona,Chelsea,3,0,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,1/8 Finals,fase principal,Sevilla FC,Man United,0,0,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,1/8 Finals,fase principal,Man United,Sevilla FC,1,2,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Quarter-Finals,fase principal,Liverpool,Man City,3,0,RSSSF,normal,sim,Premier League,Premier League
+2017/2018,Champions League,Quarter-Finals,fase principal,Man City,Liverpool,1,2,RSSSF,normal,sim,Premier League,Premier League
+2017/2018,Champions League,Semi-Finals,fase principal,Liverpool,AS Roma,5,2,RSSSF,normal,sim,Premier League,
+2017/2018,Champions League,Semi-Finals,fase principal,AS Roma,Liverpool,4,2,RSSSF,normal,sim,,Premier League
+2017/2018,Champions League,Final,fase principal,Real Madrid,Liverpool,3,1,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Third Qualifying Phase,qualificatoria,Bordeaux,Videoton (Székesfehérvár),2,1,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Third Qualifying Phase,qualificatoria,Videoton (Székesfehérvár),Bordeaux,1,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Third Qualifying Phase,qualificatoria,Everton,MFK Ruzomberok,1,0,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,Third Qualifying Phase,qualificatoria,MFK Ruzomberok,Everton,0,1,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Third Qualifying Phase,qualificatoria,Marseille,KV Oostende,4,2,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Third Qualifying Phase,qualificatoria,KV Oostende,Marseille,0,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,First Round,qualificatoria,Everton,Hajduk Split,2,0,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,First Round,qualificatoria,Hajduk Split,Everton,1,1,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,First Round,qualificatoria,Domzale,Marseille,1,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,First Round,qualificatoria,Marseille,Domzale,3,0,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Group Phase,fase principal,Apollon Lemesos,Lyon,1,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Group Phase,fase principal,Atalanta (Bergamo),Everton,3,0,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Group Phase,fase principal,Everton,Apollon Lemesos,2,2,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,Group Phase,fase principal,Lyon,Atalanta (Bergamo),1,1,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Group Phase,fase principal,Everton,Lyon,1,2,RSSSF,normal,sim,Premier League,Ligue 1
+2017/2018,Europa League,Group Phase,fase principal,Lyon,Everton,3,0,RSSSF,normal,sim,Ligue 1,Premier League
+2017/2018,Europa League,Group Phase,fase principal,Everton,Atalanta (Bergamo),1,5,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,Group Phase,fase principal,Lyon,Apollon Lemesos,4,0,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Group Phase,fase principal,Apollon Lemesos,Everton,0,3,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Group Phase,fase principal,Atalanta (Bergamo),Lyon,1,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Group Phase,fase principal,Arsenal,1.FC Köln,3,1,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,Group Phase,fase principal,BATE Barysau,Arsenal,2,4,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Group Phase,fase principal,Crvena zvezda (Beograd),Arsenal,0,1,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Group Phase,fase principal,Arsenal,Crvena zvezda (Beograd),0,0,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,Group Phase,fase principal,1.FC Köln,Arsenal,1,0,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Group Phase,fase principal,Arsenal,BATE Barysau,6,0,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,Group Phase,fase principal,Marseille,Konyaspor,1,0,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Group Phase,fase principal,Red Bull Salzburg,Marseille,1,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Group Phase,fase principal,Marseille,Vitória Guimarães,2,1,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Group Phase,fase principal,Vitória Guimarães,Marseille,1,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Group Phase,fase principal,Konyaspor,Marseille,1,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Group Phase,fase principal,Marseille,Red Bull Salzburg,0,0,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Group Phase,fase principal,SV Zulte-Waregem,Nice,1,5,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Group Phase,fase principal,Nice,Vitesse (Arnhem),3,0,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Group Phase,fase principal,Nice,Lazio (Roma),1,3,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Group Phase,fase principal,Lazio (Roma),Nice,1,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Group Phase,fase principal,Nice,SV Zulte-Waregem,3,1,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Group Phase,fase principal,Vitesse (Arnhem),Nice,1,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Intermediate Round,fase principal,Nice,Lokomotiv Moskva,2,3,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Intermediate Round,fase principal,Lokomotiv Moskva,Nice,1,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Intermediate Round,fase principal,Marseille,SC Braga,3,0,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Intermediate Round,fase principal,SC Braga,Marseille,1,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Intermediate Round,fase principal,Östersunds FK,Arsenal,0,3,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Intermediate Round,fase principal,Arsenal,Östersunds FK,1,2,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,Intermediate Round,fase principal,Lyon,Villarreal CF,3,1,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Intermediate Round,fase principal,Villarreal CF,Lyon,0,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,1/8 Finals,fase principal,Milan AC,Arsenal,0,2,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,1/8 Finals,fase principal,Arsenal,Milan AC,3,1,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,1/8 Finals,fase principal,CSKA Moskva,Lyon,0,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,1/8 Finals,fase principal,Lyon,CSKA Moskva,2,3,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,1/8 Finals,fase principal,Marseille,Athletic Bilbao,3,1,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,1/8 Finals,fase principal,Athletic Bilbao,Marseille,1,2,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Quarter-Finals,fase principal,RB Leipzig,Marseille,1,0,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Quarter-Finals,fase principal,Marseille,RB Leipzig,5,2,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Quarter-Finals,fase principal,Arsenal,CSKA Moskva,4,1,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,Quarter-Finals,fase principal,CSKA Moskva,Arsenal,2,2,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Semi-Finals,fase principal,Marseille,Red Bull Salzburg,2,0,RSSSF,normal,sim,Ligue 1,
+2017/2018,Europa League,Semi-Finals,fase principal,Red Bull Salzburg,Marseille,2,1,RSSSF,normal,sim,,Ligue 1
+2017/2018,Europa League,Semi-Finals,fase principal,Arsenal,Atlético Madrid,1,1,RSSSF,normal,sim,Premier League,
+2017/2018,Europa League,Semi-Finals,fase principal,Atlético Madrid,Arsenal,1,0,RSSSF,normal,sim,,Premier League
+2017/2018,Europa League,Final,fase principal,Marseille,Atlético Madrid,0,3,RSSSF,normal,sim,Ligue 1,
+2018/2019,Champions League,Group Phase,fase principal,Monaco,Atlético Madrid,1,2,RSSSF,normal,sim,Ligue 1,
+2018/2019,Champions League,Group Phase,fase principal,Borussia Dortmund,Monaco,3,0,RSSSF,normal,sim,,Ligue 1
+2018/2019,Champions League,Group Phase,fase principal,Club Brugge KV,Monaco,1,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Champions League,Group Phase,fase principal,Monaco,Club Brugge KV,0,4,RSSSF,normal,sim,Ligue 1,
+2018/2019,Champions League,Group Phase,fase principal,Atlético Madrid,Monaco,2,0,RSSSF,normal,sim,,Ligue 1
+2018/2019,Champions League,Group Phase,fase principal,Monaco,Borussia Dortmund,0,2,RSSSF,normal,sim,Ligue 1,
+2018/2019,Champions League,Group Phase,fase principal,Internazionale,Tottenham,2,1,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Group Phase,fase principal,Tottenham,FC Barcelona,2,4,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,PSV (Eindhoven),Tottenham,2,2,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Group Phase,fase principal,Tottenham,PSV (Eindhoven),2,1,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,Tottenham,Internazionale,1,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,FC Barcelona,Tottenham,1,1,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Group Phase,fase principal,Liverpool,Paris SG,3,2,RSSSF,normal,sim,Premier League,Ligue 1
+2018/2019,Champions League,Group Phase,fase principal,Paris SG,Crvena zvezda (Beograd),6,1,RSSSF,normal,sim,Ligue 1,
+2018/2019,Champions League,Group Phase,fase principal,SSC Napoli,Liverpool,1,0,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Group Phase,fase principal,Liverpool,Crvena zvezda (Beograd),4,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,Paris SG,SSC Napoli,2,2,RSSSF,normal,sim,Ligue 1,
+2018/2019,Champions League,Group Phase,fase principal,Crvena zvezda (Beograd),Liverpool,2,0,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Group Phase,fase principal,SSC Napoli,Paris SG,1,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Champions League,Group Phase,fase principal,Paris SG,Liverpool,2,1,RSSSF,normal,sim,Ligue 1,Premier League
+2018/2019,Champions League,Group Phase,fase principal,Crvena zvezda (Beograd),Paris SG,1,4,RSSSF,normal,sim,,Ligue 1
+2018/2019,Champions League,Group Phase,fase principal,Liverpool,SSC Napoli,1,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,Man City,Lyon,1,2,RSSSF,normal,sim,Premier League,Ligue 1
+2018/2019,Champions League,Group Phase,fase principal,TSG 1899 Hoffenheim,Man City,1,2,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Group Phase,fase principal,Lyon,Shakhtar Donetsk,2,2,RSSSF,normal,sim,Ligue 1,
+2018/2019,Champions League,Group Phase,fase principal,Shakhtar Donetsk,Man City,0,3,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Group Phase,fase principal,TSG 1899 Hoffenheim,Lyon,3,3,RSSSF,normal,sim,,Ligue 1
+2018/2019,Champions League,Group Phase,fase principal,Man City,Shakhtar Donetsk,6,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,Lyon,TSG 1899 Hoffenheim,2,2,RSSSF,normal,sim,Ligue 1,
+2018/2019,Champions League,Group Phase,fase principal,Lyon,Man City,2,2,RSSSF,normal,sim,Ligue 1,Premier League
+2018/2019,Champions League,Group Phase,fase principal,Man City,TSG 1899 Hoffenheim,2,1,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,Shakhtar Donetsk,Lyon,1,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Champions League,Group Phase,fase principal,BSC Young Boys (Bern),Man United,0,3,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Group Phase,fase principal,Man United,Valencia CF,0,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,Man United,Juventus,0,1,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,Juventus,Man United,1,2,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Group Phase,fase principal,Man United,BSC Young Boys (Bern),1,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Group Phase,fase principal,Valencia CF,Man United,2,1,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,1/8 Finals,fase principal,Man United,Paris SG,0,2,RSSSF,normal,sim,Premier League,Ligue 1
+2018/2019,Champions League,1/8 Finals,fase principal,Paris SG,Man United,1,3,RSSSF,normal,sim,Ligue 1,Premier League
+2018/2019,Champions League,1/8 Finals,fase principal,Tottenham,Borussia Dortmund,3,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,1/8 Finals,fase principal,Borussia Dortmund,Tottenham,0,1,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,1/8 Finals,fase principal,Liverpool,Bayern München,0,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,1/8 Finals,fase principal,Bayern München,Liverpool,1,3,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,1/8 Finals,fase principal,Lyon,FC Barcelona,0,0,RSSSF,normal,sim,Ligue 1,
+2018/2019,Champions League,1/8 Finals,fase principal,FC Barcelona,Lyon,5,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Champions League,1/8 Finals,fase principal,Schalke 04,Man City,2,3,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,1/8 Finals,fase principal,Man City,Schalke 04,7,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Quarter-Finals,fase principal,Liverpool,FC Porto,2,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Quarter-Finals,fase principal,FC Porto,Liverpool,1,4,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Quarter-Finals,fase principal,Tottenham,Man City,1,0,RSSSF,normal,sim,Premier League,Premier League
+2018/2019,Champions League,Quarter-Finals,fase principal,Man City,Tottenham,4,3,RSSSF,normal,sim,Premier League,Premier League
+2018/2019,Champions League,Quarter-Finals,fase principal,Man United,FC Barcelona,0,1,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Quarter-Finals,fase principal,FC Barcelona,Man United,3,0,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Semi-Finals,fase principal,Tottenham,Ajax,0,1,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Semi-Finals,fase principal,Ajax,Tottenham,2,3,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Semi-Finals,fase principal,FC Barcelona,Liverpool,3,0,RSSSF,normal,sim,,Premier League
+2018/2019,Champions League,Semi-Finals,fase principal,Liverpool,FC Barcelona,4,0,RSSSF,normal,sim,Premier League,
+2018/2019,Champions League,Final,fase principal,Tottenham,Liverpool,0,2,RSSSF,normal,sim,Premier League,Premier League
+2018/2019,Europa League,Second Qualifying Phase,qualificatoria,FK Ventspils,Bordeaux,0,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Second Qualifying Phase,qualificatoria,Bordeaux,FK Ventspils,2,1,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Second Qualifying Phase,qualificatoria,Aberdeen,Burnley,1,1,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Second Qualifying Phase,qualificatoria,Burnley,Aberdeen,3,1,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Third Qualifying Phase,qualificatoria,FC Mariupol,Bordeaux,1,3,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Third Qualifying Phase,qualificatoria,Bordeaux,FC Mariupol,2,1,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Third Qualifying Phase,qualificatoria,Istanbul Basaksehir FK,Burnley,0,0,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Third Qualifying Phase,qualificatoria,Burnley,Istanbul Basaksehir FK,1,0,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,First Round,qualificatoria,Olympiakos (Piraeus),Burnley,3,1,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,First Round,qualificatoria,Burnley,Olympiakos (Piraeus),1,1,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,First Round,qualificatoria,KAA Gent,Bordeaux,0,0,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,First Round,qualificatoria,Bordeaux,KAA Gent,2,0,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,SK Slavia Praha,Bordeaux,1,0,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Group Phase,fase principal,Bordeaux,FC København,1,2,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,Zenit Sankt Peterburg,Bordeaux,2,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Group Phase,fase principal,Bordeaux,Zenit Sankt Peterburg,1,1,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,Bordeaux,SK Slavia Praha,2,0,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,FC København,Bordeaux,0,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Group Phase,fase principal,Arsenal,Vorskla Poltava,4,2,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Group Phase,fase principal,Qarabag Agdam,Arsenal,0,3,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Group Phase,fase principal,Sporting CP (Lisboa),Arsenal,0,1,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Group Phase,fase principal,Arsenal,Sporting CP (Lisboa),0,0,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Group Phase,fase principal,Vorskla Poltava,Arsenal,0,3,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Group Phase,fase principal,Arsenal,Qarabag Agdam,1,0,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Group Phase,fase principal,Marseille,Eintracht Frankfurt,1,2,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,Apollon Lemesos,Marseille,2,2,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Group Phase,fase principal,Marseille,SS Lazio (Roma),1,3,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,SS Lazio (Roma),Marseille,2,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Group Phase,fase principal,Eintracht Frankfurt,Marseille,4,0,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Group Phase,fase principal,Marseille,Apollon Lemesos,1,3,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,Rennes,FK Jablonec,2,1,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,FK Astana,Rennes,2,0,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Group Phase,fase principal,Rennes,Dynamo Kyiv,1,2,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,Dynamo Kyiv,Rennes,3,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Group Phase,fase principal,FK Jablonec,Rennes,0,1,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Group Phase,fase principal,Rennes,FK Astana,2,0,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Group Phase,fase principal,PAOK (Thessaloniki),Chelsea,0,1,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Group Phase,fase principal,Chelsea,Vidi FC (Székesfehérvár),1,0,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Group Phase,fase principal,Chelsea,BATE Barysau,3,1,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Group Phase,fase principal,BATE Barysau,Chelsea,0,1,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Group Phase,fase principal,Chelsea,PAOK (Thessaloniki),4,0,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Group Phase,fase principal,Vidi FC (Székesfehérvár),Chelsea,2,2,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Intermediate Round,fase principal,BATE Barysau,Arsenal,1,0,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Intermediate Round,fase principal,Arsenal,BATE Barysau,3,0,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Intermediate Round,fase principal,Rennes,Real Betis (Sevilla),3,3,RSSSF,normal,sim,Ligue 1,
+2018/2019,Europa League,Intermediate Round,fase principal,Real Betis (Sevilla),Rennes,1,3,RSSSF,normal,sim,,Ligue 1
+2018/2019,Europa League,Intermediate Round,fase principal,Malmö FF,Chelsea,1,2,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Intermediate Round,fase principal,Chelsea,Malmö FF,3,0,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,1/8 Finals,fase principal,Rennes,Arsenal,3,1,RSSSF,normal,sim,Ligue 1,Premier League
+2018/2019,Europa League,1/8 Finals,fase principal,Arsenal,Rennes,3,0,RSSSF,normal,sim,Premier League,Ligue 1
+2018/2019,Europa League,1/8 Finals,fase principal,Chelsea,Dynamo Kyiv,3,0,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,1/8 Finals,fase principal,Dynamo Kyiv,Chelsea,0,5,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Quarter-Finals,fase principal,Arsenal,SSC Napoli,2,0,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Quarter-Finals,fase principal,SSC Napoli,Arsenal,0,1,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Quarter-Finals,fase principal,SK Slavia Praha,Chelsea,0,1,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Quarter-Finals,fase principal,Chelsea,SK Slavia Praha,4,3,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Semi-Finals,fase principal,Arsenal,Valencia CF,3,1,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Semi-Finals,fase principal,Valencia CF,Arsenal,2,4,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Semi-Finals,fase principal,Eintracht Frankfurt,Chelsea,1,1,RSSSF,normal,sim,,Premier League
+2018/2019,Europa League,Semi-Finals,fase principal,Chelsea,Eintracht Frankfurt,1,1,RSSSF,normal,sim,Premier League,
+2018/2019,Europa League,Final,fase principal,Chelsea,Arsenal,4,1,RSSSF,normal,sim,Premier League,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Paris SG,Real Madrid,3,0,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,Group Phase,fase principal,Galatasaray SK,Paris SG,0,1,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Group Phase,fase principal,Club Brugge KV,Paris SG,0,5,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Group Phase,fase principal,Paris SG,Club Brugge KV,1,0,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,Group Phase,fase principal,Real Madrid,Paris SG,2,2,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Group Phase,fase principal,Paris SG,Galatasaray SK,5,0,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,Group Phase,fase principal,Olympiakos (Piraeus),Tottenham,2,2,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Tottenham,Bayern München,2,7,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Tottenham,Crvena zvezda (Beograd),5,0,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Crvena zvezda (Beograd),Tottenham,0,4,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Tottenham,Olympiakos (Piraeus),4,2,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Bayern München,Tottenham,3,1,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Shakhtar Donetsk,Man City,0,3,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Man City,Dinamo Zagreb,2,0,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Man City,Atalanta (Bergamo),5,1,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Atalanta (Bergamo),Man City,1,1,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Man City,Shakhtar Donetsk,1,1,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Dinamo Zagreb,Man City,1,4,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,SSC Napoli,Liverpool,2,0,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Liverpool,Red Bull Salzburg,4,3,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,KRC Genk,Liverpool,1,4,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Liverpool,KRC Genk,2,1,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Liverpool,SSC Napoli,1,1,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Red Bull Salzburg,Liverpool,0,2,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Lyon,Zenit Sankt Peterburg,1,1,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,Group Phase,fase principal,RB Leipzig,Lyon,0,2,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Group Phase,fase principal,SL Benfica (Lisboa),Lyon,2,1,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Group Phase,fase principal,Lyon,SL Benfica (Lisboa),3,1,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,Group Phase,fase principal,Zenit Sankt Peterburg,Lyon,2,0,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Group Phase,fase principal,Lyon,RB Leipzig,2,2,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,Group Phase,fase principal,Ajax,Lille,3,0,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Group Phase,fase principal,Chelsea,Valencia CF,0,1,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Lille,Chelsea,1,2,RSSSF,normal,sim,Ligue 1,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Ajax,Chelsea,0,1,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Lille,Valencia CF,1,1,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,Group Phase,fase principal,Chelsea,Ajax,4,4,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Group Phase,fase principal,Valencia CF,Lille,4,1,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Group Phase,fase principal,Valencia CF,Chelsea,2,2,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,Group Phase,fase principal,Lille,Ajax,0,2,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,Group Phase,fase principal,Chelsea,Lille,2,1,RSSSF,normal,sim,Premier League,Ligue 1
+2019/2020,Champions League,1/8 Finals,fase principal,Atlético Madrid,Liverpool,1,0,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,1/8 Finals,fase principal,Liverpool,Atlético Madrid,2,3,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,1/8 Finals,fase principal,Borussia Dortmund,Paris SG,2,1,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,1/8 Finals,fase principal,Paris SG,Borussia Dortmund,2,0,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,1/8 Finals,fase principal,Tottenham,RB Leipzig,0,1,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,1/8 Finals,fase principal,RB Leipzig,Tottenham,3,0,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,1/8 Finals,fase principal,Chelsea,Bayern München,0,3,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,1/8 Finals,fase principal,Bayern München,Chelsea,4,1,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,1/8 Finals,fase principal,Lyon,Juventus,1,0,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,1/8 Finals,fase principal,Juventus,Lyon,2,1,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,1/8 Finals,fase principal,Real Madrid,Man City,1,2,RSSSF,normal,sim,,Premier League
+2019/2020,Champions League,1/8 Finals,fase principal,Man City,Real Madrid,2,1,RSSSF,normal,sim,Premier League,
+2019/2020,Champions League,Quarter-Finals,fase principal,Atalanta (Bergamo),Paris SG,1,2,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Quarter-Finals,fase principal,Man City,Lyon,1,3,RSSSF,normal,sim,Premier League,Ligue 1
+2019/2020,Champions League,Semi-Finals,fase principal,RB Leipzig,Paris SG,0,3,RSSSF,normal,sim,,Ligue 1
+2019/2020,Champions League,Semi-Finals,fase principal,Lyon,Bayern München,0,3,RSSSF,normal,sim,Ligue 1,
+2019/2020,Champions League,Final,fase principal,Paris SG,Bayern München,0,1,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,Second Qualifying Phase,qualificatoria,Strasbourg,Maccabi Haifa,3,1,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,Second Qualifying Phase,qualificatoria,Maccabi Haifa,Strasbourg,2,1,RSSSF,normal,sim,,Ligue 1
+2019/2020,Europa League,Second Qualifying Phase,qualificatoria,Wolves,Crusaders (Belfast),2,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Second Qualifying Phase,qualificatoria,Crusaders (Belfast),Wolves,1,4,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Third Qualifying Phase,qualificatoria,Pyunik (Yerevan),Wolves,0,4,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Third Qualifying Phase,qualificatoria,Wolves,Pyunik (Yerevan),4,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Third Qualifying Phase,qualificatoria,Lokomotiv Plovdiv,Strasbourg,0,1,RSSSF,normal,sim,,Ligue 1
+2019/2020,Europa League,Third Qualifying Phase,qualificatoria,Strasbourg,Lokomotiv Plovdiv,1,0,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,First Round,qualificatoria,Strasbourg,Eintracht Frankfurt,1,0,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,First Round,qualificatoria,Eintracht Frankfurt,Strasbourg,3,0,RSSSF,normal,sim,,Ligue 1
+2019/2020,Europa League,First Round,qualificatoria,Torino,Wolves,2,3,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,First Round,qualificatoria,Wolves,Torino,2,1,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Group Phase,fase principal,Rennes,Celtic (Glasgow),1,1,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,Group Phase,fase principal,SS Lazio (Roma),Rennes,2,1,RSSSF,normal,sim,,Ligue 1
+2019/2020,Europa League,Group Phase,fase principal,Rennes,CFR 1907 Cluj,0,1,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,Group Phase,fase principal,CFR 1907 Cluj,Rennes,1,0,RSSSF,normal,sim,,Ligue 1
+2019/2020,Europa League,Group Phase,fase principal,Celtic (Glasgow),Rennes,3,1,RSSSF,normal,sim,,Ligue 1
+2019/2020,Europa League,Group Phase,fase principal,Rennes,SS Lazio (Roma),2,0,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,Group Phase,fase principal,Eintracht Frankfurt,Arsenal,0,3,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Group Phase,fase principal,Arsenal,Standard CL (Liège),4,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Group Phase,fase principal,Arsenal,Vitória SC (Guimarães),3,2,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Group Phase,fase principal,Vitória SC (Guimarães),Arsenal,1,1,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Group Phase,fase principal,Arsenal,Eintracht Frankfurt,1,2,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Group Phase,fase principal,Standard CL (Liège),Arsenal,2,2,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Group Phase,fase principal,AA Gent,St Etienne,3,2,RSSSF,normal,sim,,Ligue 1
+2019/2020,Europa League,Group Phase,fase principal,St Etienne,VfL Wolfsburg,1,1,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,Group Phase,fase principal,St Etienne,FC Oleksandrija,1,1,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,Group Phase,fase principal,FC Oleksandrija,St Etienne,2,2,RSSSF,normal,sim,,Ligue 1
+2019/2020,Europa League,Group Phase,fase principal,St Etienne,AA Gent,0,0,RSSSF,normal,sim,Ligue 1,
+2019/2020,Europa League,Group Phase,fase principal,VfL Wolfsburg,St Etienne,1,0,RSSSF,normal,sim,,Ligue 1
+2019/2020,Europa League,Group Phase,fase principal,Wolves,SC Braga,0,1,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Group Phase,fase principal,Besiktas JK (Istanbul),Wolves,0,1,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Group Phase,fase principal,Slovan Bratislava,Wolves,1,2,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Group Phase,fase principal,Wolves,Slovan Bratislava,1,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Group Phase,fase principal,SC Braga,Wolves,3,3,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Group Phase,fase principal,Wolves,Besiktas JK (Istanbul),4,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Group Phase,fase principal,Man United,FK Astana,1,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Group Phase,fase principal,AZ (Alkmaar),Man United,0,0,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Group Phase,fase principal,Partizan (Beograd),Man United,0,1,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Group Phase,fase principal,Man United,Partizan (Beograd),3,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Group Phase,fase principal,FK Astana,Man United,2,1,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Group Phase,fase principal,Man United,AZ (Alkmaar),4,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Intermediate Round,fase principal,Club Brugge KV,Man United,1,1,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Intermediate Round,fase principal,Man United,Club Brugge KV,5,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Intermediate Round,fase principal,Olympiakos (Piraeus),Arsenal,0,1,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,Intermediate Round,fase principal,Arsenal,Olympiakos (Piraeus),1,2,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Intermediate Round,fase principal,Wolves,RCD Espanyol (Barcelona),4,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Intermediate Round,fase principal,RCD Espanyol (Barcelona),Wolves,3,2,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,1/8 Finals,fase principal,LASK Linz,Man United,0,5,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,1/8 Finals,fase principal,Man United,LASK Linz,2,1,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,1/8 Finals,fase principal,Olympiakos (Piraeus),Wolves,1,1,RSSSF,normal,sim,,Premier League
+2019/2020,Europa League,1/8 Finals,fase principal,Wolves,Olympiakos (Piraeus),1,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Quarter-Finals,fase principal,Man United,FC København,1,0,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Quarter-Finals,fase principal,Wolves,Sevilla FC,0,1,RSSSF,normal,sim,Premier League,
+2019/2020,Europa League,Semi-Finals,fase principal,Sevilla FC,Man United,2,1,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Man City,FC Porto,3,1,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Group Phase,fase principal,Olympiakos (Piraeus),Marseille,1,0,RSSSF,normal,sim,,Ligue 1
+2020/2021,Champions League,Group Phase,fase principal,Marseille,Man City,0,3,RSSSF,normal,sim,Ligue 1,Premier League
+2020/2021,Champions League,Group Phase,fase principal,FC Porto,Marseille,3,0,RSSSF,normal,sim,,Ligue 1
+2020/2021,Champions League,Group Phase,fase principal,Man City,Olympiakos (Piraeus),3,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Group Phase,fase principal,Olympiakos (Piraeus),Man City,0,1,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Marseille,FC Porto,0,2,RSSSF,normal,sim,Ligue 1,
+2020/2021,Champions League,Group Phase,fase principal,FC Porto,Man City,0,0,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Marseille,Olympiakos (Piraeus),2,1,RSSSF,normal,sim,Ligue 1,
+2020/2021,Champions League,Group Phase,fase principal,Man City,Marseille,3,0,RSSSF,normal,sim,Premier League,Ligue 1
+2020/2021,Champions League,Group Phase,fase principal,Ajax,Liverpool,0,1,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Liverpool,FC Midtjylland (Herning),2,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Group Phase,fase principal,Atalanta (Bergamo),Liverpool,0,5,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Liverpool,Atalanta (Bergamo),0,2,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Group Phase,fase principal,Liverpool,Ajax,1,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Group Phase,fase principal,FC Midtjylland (Herning),Liverpool,1,1,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Chelsea,Sevilla FC,0,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Group Phase,fase principal,Rennes,FK Krasnodar,1,1,RSSSF,normal,sim,Ligue 1,
+2020/2021,Champions League,Group Phase,fase principal,FK Krasnodar,Chelsea,0,4,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Sevilla FC,Rennes,1,0,RSSSF,normal,sim,,Ligue 1
+2020/2021,Champions League,Group Phase,fase principal,Chelsea,Rennes,3,0,RSSSF,normal,sim,Premier League,Ligue 1
+2020/2021,Champions League,Group Phase,fase principal,Rennes,Chelsea,1,2,RSSSF,normal,sim,Ligue 1,Premier League
+2020/2021,Champions League,Group Phase,fase principal,FK Krasnodar,Rennes,1,0,RSSSF,normal,sim,,Ligue 1
+2020/2021,Champions League,Group Phase,fase principal,Sevilla FC,Chelsea,0,4,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Chelsea,FK Krasnodar,1,1,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Group Phase,fase principal,Rennes,Sevilla FC,1,3,RSSSF,normal,sim,Ligue 1,
+2020/2021,Champions League,Group Phase,fase principal,Paris SG,Man United,1,2,RSSSF,normal,sim,Ligue 1,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Istanbul Basaksehir FK,Paris SG,0,2,RSSSF,normal,sim,,Ligue 1
+2020/2021,Champions League,Group Phase,fase principal,Man United,RB Leipzig,5,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Group Phase,fase principal,Istanbul Basaksehir FK,Man United,2,1,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,RB Leipzig,Paris SG,2,1,RSSSF,normal,sim,,Ligue 1
+2020/2021,Champions League,Group Phase,fase principal,Man United,Istanbul Basaksehir FK,4,1,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Group Phase,fase principal,Paris SG,RB Leipzig,1,0,RSSSF,normal,sim,Ligue 1,
+2020/2021,Champions League,Group Phase,fase principal,Man United,Paris SG,1,3,RSSSF,normal,sim,Premier League,Ligue 1
+2020/2021,Champions League,Group Phase,fase principal,RB Leipzig,Man United,3,2,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Group Phase,fase principal,Paris SG,Istanbul Basaksehir FK,5,1,RSSSF,normal,sim,Ligue 1,
+2020/2021,Champions League,1/8 Finals,fase principal,FC Barcelona,Paris SG,1,4,RSSSF,normal,sim,,Ligue 1
+2020/2021,Champions League,1/8 Finals,fase principal,Paris SG,FC Barcelona,1,1,RSSSF,normal,sim,Ligue 1,
+2020/2021,Champions League,1/8 Finals,fase principal,RB Leipzig,Liverpool,0,2,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,1/8 Finals,fase principal,Liverpool,RB Leipzig,2,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,1/8 Finals,fase principal,Atlético Madrid,Chelsea,0,1,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,1/8 Finals,fase principal,Chelsea,Atlético Madrid,2,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,1/8 Finals,fase principal,Borussia Mönchengladbach,Man City,0,2,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,1/8 Finals,fase principal,Man City,Borussia Mönchengladbach,2,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Quarter-Finals,fase principal,Man City,Borussia Dortmund,2,1,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Quarter-Finals,fase principal,Borussia Dortmund,Man City,1,2,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Quarter-Finals,fase principal,Real Madrid,Liverpool,3,1,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Quarter-Finals,fase principal,Liverpool,Real Madrid,0,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Quarter-Finals,fase principal,Bayern München,Paris SG,2,3,RSSSF,normal,sim,,Ligue 1
+2020/2021,Champions League,Quarter-Finals,fase principal,Paris SG,Bayern München,0,1,RSSSF,normal,sim,Ligue 1,
+2020/2021,Champions League,Quarter-Finals,fase principal,FC Porto,Chelsea,0,2,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Quarter-Finals,fase principal,Chelsea,FC Porto,0,1,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Semi-Finals,fase principal,Real Madrid,Chelsea,1,1,RSSSF,normal,sim,,Premier League
+2020/2021,Champions League,Semi-Finals,fase principal,Chelsea,Real Madrid,2,0,RSSSF,normal,sim,Premier League,
+2020/2021,Champions League,Semi-Finals,fase principal,Paris SG,Man City,1,2,RSSSF,normal,sim,Ligue 1,Premier League
+2020/2021,Champions League,Semi-Finals,fase principal,Man City,Paris SG,2,0,RSSSF,normal,sim,Premier League,Ligue 1
+2020/2021,Champions League,Final,fase principal,Man City,Chelsea,0,1,RSSSF,normal,sim,Premier League,Premier League
+2020/2021,Europa League,Second Qualifying Phase,qualificatoria,Lokomotiv Plovdiv,Tottenham,1,2,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Second Qualifying Phase,qualificatoria,Servette FC (Genève),Reims,0,1,RSSSF,normal,sim,,Ligue 1
+2020/2021,Europa League,Third Qualifying Phase,qualificatoria,Fehérvár FC,Reims,0,0,RSSSF,normal,sim,,Ligue 1
+2020/2021,Europa League,Third Qualifying Phase,qualificatoria,Shkëndija Tetovo,Tottenham,1,3,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,First Round,qualificatoria,Tottenham,Maccabi Haifa,7,2,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Group Phase,fase principal,Rapid Wien,Arsenal,1,2,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Group Phase,fase principal,Arsenal,Dundalk,3,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Group Phase,fase principal,Arsenal,Molde FK,4,1,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Group Phase,fase principal,Molde FK,Arsenal,0,3,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Group Phase,fase principal,Arsenal,Rapid Wien,4,1,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Group Phase,fase principal,Dundalk,Arsenal,2,4,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Group Phase,fase principal,Bayer Leverkusen,Nice,6,2,RSSSF,normal,sim,,Ligue 1
+2020/2021,Europa League,Group Phase,fase principal,Nice,Hapoel Beer-Sheva,1,0,RSSSF,normal,sim,Ligue 1,
+2020/2021,Europa League,Group Phase,fase principal,SK Slavia Praha,Nice,3,2,RSSSF,normal,sim,,Ligue 1
+2020/2021,Europa League,Group Phase,fase principal,Nice,SK Slavia Praha,1,3,RSSSF,normal,sim,Ligue 1,
+2020/2021,Europa League,Group Phase,fase principal,Nice,Bayer Leverkusen,2,3,RSSSF,normal,sim,Ligue 1,
+2020/2021,Europa League,Group Phase,fase principal,Hapoel Beer-Sheva,Nice,1,0,RSSSF,normal,sim,,Ligue 1
+2020/2021,Europa League,Group Phase,fase principal,Leicester,Zorja Luhansk,3,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Group Phase,fase principal,AEK (Athinai),Leicester,1,2,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Group Phase,fase principal,Leicester,SC Braga,4,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Group Phase,fase principal,SC Braga,Leicester,3,3,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Group Phase,fase principal,Zorja Luhansk,Leicester,1,0,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Group Phase,fase principal,Leicester,AEK (Athinai),2,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Group Phase,fase principal,AC Sparta Praha,Lille,1,4,RSSSF,normal,sim,,Ligue 1
+2020/2021,Europa League,Group Phase,fase principal,Lille,Celtic (Glasgow),2,2,RSSSF,normal,sim,Ligue 1,
+2020/2021,Europa League,Group Phase,fase principal,Milan AC,Lille,0,3,RSSSF,normal,sim,,Ligue 1
+2020/2021,Europa League,Group Phase,fase principal,Lille,Milan AC,1,1,RSSSF,normal,sim,Ligue 1,
+2020/2021,Europa League,Group Phase,fase principal,Lille,AC Sparta Praha,2,1,RSSSF,normal,sim,Ligue 1,
+2020/2021,Europa League,Group Phase,fase principal,Celtic (Glasgow),Lille,3,2,RSSSF,normal,sim,,Ligue 1
+2020/2021,Europa League,Group Phase,fase principal,Tottenham,LASK Linz,3,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Group Phase,fase principal,Antwerp FC,Tottenham,1,0,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Group Phase,fase principal,Ludogorets Razgrad,Tottenham,1,3,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Group Phase,fase principal,Tottenham,Ludogorets Razgrad,4,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Group Phase,fase principal,LASK Linz,Tottenham,3,3,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Group Phase,fase principal,Tottenham,Antwerp FC,2,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Intermediate Round,fase principal,Wolfsberger AC,Tottenham,1,4,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Intermediate Round,fase principal,Tottenham,Wolfsberger AC,4,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Intermediate Round,fase principal,Real Sociedad,Man United,0,4,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Intermediate Round,fase principal,Man United,Real Sociedad,0,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Intermediate Round,fase principal,SK Slavia Praha,Leicester,0,0,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Intermediate Round,fase principal,Leicester,SK Slavia Praha,0,2,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Intermediate Round,fase principal,SL Benfica (Lisboa),Arsenal,1,1,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Intermediate Round,fase principal,Arsenal,SL Benfica (Lisboa),3,2,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Intermediate Round,fase principal,Lille,Fra  Ajax,1,2,RSSSF,normal,sim,Ligue 1,
+2020/2021,Europa League,Intermediate Round,fase principal,Fra  Ajax,Lille,2,1,RSSSF,normal,sim,,Ligue 1
+2020/2021,Europa League,1/8 Finals,fase principal,Man United,Milan AC,1,1,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,1/8 Finals,fase principal,Milan AC,Man United,0,1,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,1/8 Finals,fase principal,Olympiakos (Piraeus),Arsenal,1,3,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,1/8 Finals,fase principal,Arsenal,Olympiakos (Piraeus),0,1,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,1/8 Finals,fase principal,Tottenham,Dinamo Zagreb,2,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,1/8 Finals,fase principal,Dinamo Zagreb,Tottenham,3,0,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Quarter-Finals,fase principal,Arsenal,SK Slavia Praha,1,1,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Quarter-Finals,fase principal,SK Slavia Praha,Arsenal,0,4,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Quarter-Finals,fase principal,Granada CF,Man United,0,2,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Quarter-Finals,fase principal,Man United,Granada CF,2,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Semi-Finals,fase principal,Man United,AS Roma,6,2,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Semi-Finals,fase principal,AS Roma,Man United,3,2,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Semi-Finals,fase principal,Villarreal CF,Arsenal,2,1,RSSSF,normal,sim,,Premier League
+2020/2021,Europa League,Semi-Finals,fase principal,Arsenal,Villarreal CF,0,0,RSSSF,normal,sim,Premier League,
+2020/2021,Europa League,Final,fase principal,Villarreal CF,Man United,1,1,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Qualifying Phase 3,qualificatoria,Sparta Praha,Monaco,0,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Champions League,Qualifying Phase 3,qualificatoria,Monaco,Sparta Praha,3,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Champions League,Qualifying Phase 4,qualificatoria,Monaco,Shakhtar Donetsk,0,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Champions League,Qualifying Phase 4,qualificatoria,Shakhtar Donetsk,Monaco,2,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Champions League,Group Phase,fase principal,Club Brugge KV,Paris SG,1,1,RSSSF,normal,sim,,Ligue 1
+2021/2022,Champions League,Group Phase,fase principal,Man City,RB Leipzig,6,3,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,Paris SG,Man City,2,0,RSSSF,normal,sim,Ligue 1,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Club Brugge KV,Man City,1,5,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Paris SG,RB Leipzig,3,2,RSSSF,normal,sim,Ligue 1,
+2021/2022,Champions League,Group Phase,fase principal,Man City,Club Brugge KV,4,1,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,RB Leipzig,Paris SG,2,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Champions League,Group Phase,fase principal,Man City,Paris SG,2,1,RSSSF,normal,sim,Premier League,Ligue 1
+2021/2022,Champions League,Group Phase,fase principal,Paris SG,Club Brugge KV,4,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Champions League,Group Phase,fase principal,RB Leipzig,Man City,2,1,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Liverpool,Milan AC,3,2,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,FC Porto,Liverpool,1,5,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Atlético Madrid,Liverpool,2,3,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Liverpool,Atlético Madrid,2,0,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,Liverpool,FC Porto,2,0,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,Milan AC,Liverpool,1,2,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,BSC Young Boys,Man United,2,1,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Man United,Villarreal CF,2,1,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,Man United,Atalanta (Bergamo),3,2,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,Atalanta (Bergamo),Man United,2,2,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Villarreal CF,Man United,0,2,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Man United,BSC Young Boys,1,1,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,Lille,VfL Wolfsburg,0,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Champions League,Group Phase,fase principal,Red Bull Salzburg,Lille,2,1,RSSSF,normal,sim,,Ligue 1
+2021/2022,Champions League,Group Phase,fase principal,Lille,Sevilla FC,0,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Champions League,Group Phase,fase principal,Sevilla FC,Lille,1,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Champions League,Group Phase,fase principal,Lille,Red Bull Salzburg,1,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Champions League,Group Phase,fase principal,VfL Wolfsburg,Lille,1,3,RSSSF,normal,sim,,Ligue 1
+2021/2022,Champions League,Group Phase,fase principal,Chelsea,Zenit Sankt Peterburg,1,0,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,Juventus,Chelsea,1,0,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Chelsea,Malmö FF,4,0,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,Malmö FF,Chelsea,0,1,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Group Phase,fase principal,Chelsea,Juventus,4,0,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Group Phase,fase principal,Zenit Sankt Peterburg,Chelsea,3,3,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,1/8 Finals,fase principal,Paris SG,Real Madrid,1,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Champions League,1/8 Finals,fase principal,Real Madrid,Paris SG,3,1,RSSSF,normal,sim,,Ligue 1
+2021/2022,Champions League,1/8 Finals,fase principal,Sporting CP (Lisboa),Man City,0,5,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,1/8 Finals,fase principal,Man City,Sporting CP (Lisboa),0,0,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,1/8 Finals,fase principal,Internazionale,Liverpool,0,2,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,1/8 Finals,fase principal,Liverpool,Internazionale,0,1,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,1/8 Finals,fase principal,Chelsea,Lille,2,0,RSSSF,normal,sim,Premier League,Ligue 1
+2021/2022,Champions League,1/8 Finals,fase principal,Lille,Chelsea,1,2,RSSSF,normal,sim,Ligue 1,Premier League
+2021/2022,Champions League,1/8 Finals,fase principal,Atlético Madrid,Man United,1,1,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,1/8 Finals,fase principal,Man United,Atlético Madrid,0,1,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Quarter-Finals,fase principal,SL Benfica (Lisboa),Liverpool,1,3,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Quarter-Finals,fase principal,Liverpool,SL Benfica (Lisboa),3,3,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Quarter-Finals,fase principal,Man City,Atlético Madrid,1,0,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Quarter-Finals,fase principal,Atlético Madrid,Man City,0,0,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Quarter-Finals,fase principal,Chelsea,Real Madrid,1,3,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Quarter-Finals,fase principal,Real Madrid,Chelsea,2,3,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Semi-Finals,fase principal,Man City,Real Madrid,4,3,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Semi-Finals,fase principal,Real Madrid,Man City,3,1,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Semi-Finals,fase principal,Liverpool,Villarreal CF,2,0,RSSSF,normal,sim,Premier League,
+2021/2022,Champions League,Semi-Finals,fase principal,Villarreal CF,Liverpool,2,3,RSSSF,normal,sim,,Premier League
+2021/2022,Champions League,Final,fase principal,Liverpool,Real Madrid,0,1,RSSSF,normal,sim,Premier League,
+2021/2022,Europa League,Group Phase,fase principal,Rangers (Glasgow),Lyon,0,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,Group Phase,fase principal,Lyon,Brøndby IF,3,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Group Phase,fase principal,Sparta Praha,Lyon,3,4,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,Group Phase,fase principal,Lyon,Sparta Praha,3,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Group Phase,fase principal,Brøndby IF,Lyon,1,3,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,Group Phase,fase principal,Lyon,Rangers (Glasgow),1,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Group Phase,fase principal,Monaco,SK Sturm Graz,1,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Group Phase,fase principal,Real Sociedad,Monaco,1,1,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,Group Phase,fase principal,PSV (Eindhoven),Monaco,1,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,Group Phase,fase principal,Monaco,PSV (Eindhoven),0,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Group Phase,fase principal,Monaco,Real Sociedad,2,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Group Phase,fase principal,SK Sturm Graz,Monaco,1,1,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,Group Phase,fase principal,Leicester,SSC Napoli,2,2,RSSSF,normal,sim,Premier League,
+2021/2022,Europa League,Group Phase,fase principal,Legia Warszawa,Leicester,1,0,RSSSF,normal,sim,,Premier League
+2021/2022,Europa League,Group Phase,fase principal,Spartak Moskva,Leicester,3,4,RSSSF,normal,sim,,Premier League
+2021/2022,Europa League,Group Phase,fase principal,Leicester,Spartak Moskva,1,1,RSSSF,normal,sim,Premier League,
+2021/2022,Europa League,Group Phase,fase principal,Leicester,Legia Warszawa,3,1,RSSSF,normal,sim,Premier League,
+2021/2022,Europa League,Group Phase,fase principal,SSC Napoli,Leicester,3,2,RSSSF,normal,sim,,Premier League
+2021/2022,Europa League,Group Phase,fase principal,Lokomotiv Moskva,Marseille,1,1,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,Group Phase,fase principal,Marseille,Galatasaray,0,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Group Phase,fase principal,SS Lazio (Roma),Marseille,0,0,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,Group Phase,fase principal,Marseille,SS Lazio (Roma),2,2,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Group Phase,fase principal,Galatasaray,Marseille,4,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,Group Phase,fase principal,Marseille,Lokomotiv Moskva,1,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Group Phase,fase principal,Dinamo Zagreb,West Ham,0,2,RSSSF,normal,sim,,Premier League
+2021/2022,Europa League,Group Phase,fase principal,West Ham,Rapid Wien,2,0,RSSSF,normal,sim,Premier League,
+2021/2022,Europa League,Group Phase,fase principal,West Ham,Racing Genk,3,0,RSSSF,normal,sim,Premier League,
+2021/2022,Europa League,Group Phase,fase principal,Racing Genk,West Ham,2,2,RSSSF,normal,sim,,Premier League
+2021/2022,Europa League,Group Phase,fase principal,Rapid Wien,West Ham,0,2,RSSSF,normal,sim,,Premier League
+2021/2022,Europa League,Group Phase,fase principal,West Ham,Dinamo Zagreb,0,1,RSSSF,normal,sim,Premier League,
+2021/2022,Europa League,1/8 Finals,fase principal,FC Porto,Lyon,0,1,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,1/8 Finals,fase principal,Lyon,FC Porto,1,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,1/8 Finals,fase principal,Sevilla FC,West Ham,1,0,RSSSF,normal,sim,,Premier League
+2021/2022,Europa League,1/8 Finals,fase principal,West Ham,Sevilla FC,2,0,RSSSF,normal,sim,Premier League,
+2021/2022,Europa League,1/8 Finals,fase principal,SC Braga,Monaco,2,0,RSSSF,normal,sim,,Ligue 1
+2021/2022,Europa League,1/8 Finals,fase principal,Monaco,SC Braga,1,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Europa League,Quarter-Finals,fase principal,West Ham,Lyon,1,1,RSSSF,normal,sim,Premier League,Ligue 1
+2021/2022,Europa League,Quarter-Finals,fase principal,Lyon,West Ham,0,3,RSSSF,normal,sim,Ligue 1,Premier League
+2021/2022,Europa League,Semi-Finals,fase principal,West Ham,Eintracht Frankfurt,1,2,RSSSF,normal,sim,Premier League,
+2021/2022,Europa League,Semi-Finals,fase principal,Eintracht Frankfurt,West Ham,1,0,RSSSF,normal,sim,,Premier League
+2021/2022,Conference League,Qualifying Phase 4,qualificatoria,Rennes,Rosenborg BK (Trondheim),2,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Conference League,Qualifying Phase 4,qualificatoria,Rosenborg BK (Trondheim),Rennes,1,3,RSSSF,normal,sim,,Ligue 1
+2021/2022,Conference League,Qualifying Phase 4,qualificatoria,FC Paços de Ferreira,Tottenham,1,0,RSSSF,normal,sim,,Premier League
+2021/2022,Conference League,Qualifying Phase 4,qualificatoria,Tottenham,FC Paços de Ferreira,3,0,RSSSF,normal,sim,Premier League,
+2021/2022,Conference League,Group Phase,fase principal,Rennes,Tottenham,2,2,RSSSF,normal,sim,Ligue 1,Premier League
+2021/2022,Conference League,Group Phase,fase principal,Tottenham,Mura (Murska Sobota),5,1,RSSSF,normal,sim,Premier League,
+2021/2022,Conference League,Group Phase,fase principal,Vitesse (Arnhem),Rennes,1,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Conference League,Group Phase,fase principal,Mura (Murska Sobota),Rennes,1,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Conference League,Group Phase,fase principal,Vitesse (Arnhem),Tottenham,1,0,RSSSF,normal,sim,,Premier League
+2021/2022,Conference League,Group Phase,fase principal,Rennes,Mura (Murska Sobota),1,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Conference League,Group Phase,fase principal,Tottenham,Vitesse (Arnhem),3,2,RSSSF,normal,sim,Premier League,
+2021/2022,Conference League,Group Phase,fase principal,Mura (Murska Sobota),Tottenham,2,1,RSSSF,normal,sim,,Premier League
+2021/2022,Conference League,Group Phase,fase principal,Rennes,Vitesse (Arnhem),3,3,RSSSF,normal,sim,Ligue 1,
+2021/2022,Conference League,Group Phase,fase principal,Tottenham,Rennes,0,3,RSSSF,normal,sim,Premier League,Ligue 1
+2021/2022,Conference League,Intermediate Round,fase principal,Leicester,Randers FC,4,1,RSSSF,normal,sim,Premier League,
+2021/2022,Conference League,Intermediate Round,fase principal,Randers FC,Leicester,1,3,RSSSF,normal,sim,,Premier League
+2021/2022,Conference League,Intermediate Round,fase principal,Marseille,Qarabag Agdam,3,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Conference League,Intermediate Round,fase principal,Qarabag Agdam,Marseille,0,3,RSSSF,normal,sim,,Ligue 1
+2021/2022,Conference League,1/8 Finals,fase principal,Leicester,Rennes,2,0,RSSSF,normal,sim,Premier League,Ligue 1
+2021/2022,Conference League,1/8 Finals,fase principal,Rennes,Leicester,2,1,RSSSF,normal,sim,Ligue 1,Premier League
+2021/2022,Conference League,1/8 Finals,fase principal,Marseille,FC Basel,2,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Conference League,1/8 Finals,fase principal,FC Basel,Marseille,1,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Conference League,Quarter-Finals,fase principal,Leicester,PSV (Eindhoven),0,0,RSSSF,normal,sim,Premier League,
+2021/2022,Conference League,Quarter-Finals,fase principal,PSV (Eindhoven),Leicester,1,2,RSSSF,normal,sim,,Premier League
+2021/2022,Conference League,Quarter-Finals,fase principal,Marseille,PAOK (Thessaloniki),2,1,RSSSF,normal,sim,Ligue 1,
+2021/2022,Conference League,Quarter-Finals,fase principal,PAOK (Thessaloniki),Marseille,0,1,RSSSF,normal,sim,,Ligue 1
+2021/2022,Conference League,Semi-Finals,fase principal,Feyenoord,Marseille,3,2,RSSSF,normal,sim,,Ligue 1
+2021/2022,Conference League,Semi-Finals,fase principal,Marseille,Feyenoord,0,0,RSSSF,normal,sim,Ligue 1,
+2021/2022,Conference League,Semi-Finals,fase principal,Leicester,AS Roma,1,1,RSSSF,normal,sim,Premier League,
+2021/2022,Conference League,Semi-Finals,fase principal,AS Roma,Leicester,1,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Qualifying Phase 3,qualificatoria,Monaco,PSV (Eindhoven),1,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Champions League,Qualifying Phase 3,qualificatoria,PSV (Eindhoven),Monaco,3,2,RSSSF,normal,sim,,Ligue 1
+2022/2023,Champions League,Group Phase,fase principal,SSC Napoli,Liverpool,4,1,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Liverpool,Ajax,2,1,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Liverpool,Rangers (Glasgow),2,0,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Rangers (Glasgow),Liverpool,1,7,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Ajax,Liverpool,0,3,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Liverpool,SSC Napoli,2,0,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Tottenham,Marseille,2,0,RSSSF,normal,sim,Premier League,Ligue 1
+2022/2023,Champions League,Group Phase,fase principal,Sporting CP (Lisboa),Tottenham,2,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Marseille,Eintracht Frankfurt,0,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Champions League,Group Phase,fase principal,Marseille,Sporting CP (Lisboa),4,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Champions League,Group Phase,fase principal,Eintracht Frankfurt,Tottenham,0,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Sporting CP (Lisboa),Marseille,0,2,RSSSF,normal,sim,,Ligue 1
+2022/2023,Champions League,Group Phase,fase principal,Tottenham,Eintracht Frankfurt,3,2,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Eintracht Frankfurt,Marseille,2,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Champions League,Group Phase,fase principal,Tottenham,Sporting CP (Lisboa),1,1,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Marseille,Tottenham,1,2,RSSSF,normal,sim,Ligue 1,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Dinamo Zagreb,Chelsea,1,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Chelsea,Red Bull Salzburg,1,1,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Chelsea,Milan AC,3,0,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Milan AC,Chelsea,0,2,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Red Bull Salzburg,Chelsea,1,2,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Chelsea,Dinamo Zagreb,2,1,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Sevilla FC,Man City,0,4,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Man City,Borussia Dortmund,2,1,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Man City,FC København,5,0,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,FC København,Man City,0,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Borussia Dortmund,Man City,0,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Group Phase,fase principal,Man City,Sevilla FC,3,1,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Group Phase,fase principal,Paris SG,Juventus,2,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Champions League,Group Phase,fase principal,Maccabi Haifa,Paris SG,1,3,RSSSF,normal,sim,,Ligue 1
+2022/2023,Champions League,Group Phase,fase principal,SL Benfica (Lisboa),Paris SG,1,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Champions League,Group Phase,fase principal,Paris SG,SL Benfica (Lisboa),1,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Champions League,Group Phase,fase principal,Paris SG,Maccabi Haifa,7,2,RSSSF,normal,sim,Ligue 1,
+2022/2023,Champions League,Group Phase,fase principal,Juventus,Paris SG,1,2,RSSSF,normal,sim,,Ligue 1
+2022/2023,Champions League,1/8 Finals,fase principal,Milan AC,Tottenham,1,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,1/8 Finals,fase principal,Tottenham,Milan AC,0,0,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,1/8 Finals,fase principal,Paris SG,Bayern München,0,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Champions League,1/8 Finals,fase principal,Bayern München,Paris SG,2,0,RSSSF,normal,sim,,Ligue 1
+2022/2023,Champions League,1/8 Finals,fase principal,Borussia Dortmund,Chelsea,1,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,1/8 Finals,fase principal,Chelsea,Borussia Dortmund,2,0,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,1/8 Finals,fase principal,Liverpool,Real Madrid,2,5,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,1/8 Finals,fase principal,Real Madrid,Liverpool,1,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,1/8 Finals,fase principal,RB Leipzig,Man City,1,1,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,1/8 Finals,fase principal,Man City,RB Leipzig,7,0,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Quarter-Finals,fase principal,Man City,Bayern München,3,0,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Quarter-Finals,fase principal,Bayern München,Man City,1,1,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Quarter-Finals,fase principal,Real Madrid,Chelsea,2,0,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Quarter-Finals,fase principal,Chelsea,Real Madrid,0,2,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Semi-Finals,fase principal,Real Madrid,Man City,1,1,RSSSF,normal,sim,,Premier League
+2022/2023,Champions League,Semi-Finals,fase principal,Man City,Real Madrid,4,0,RSSSF,normal,sim,Premier League,
+2022/2023,Champions League,Final,fase principal,Man City,Internazionale,1,0,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,Group Phase,fase principal,FC Zürich,Arsenal,1,2,RSSSF,normal,sim,,Premier League
+2022/2023,Europa League,Group Phase,fase principal,Arsenal,FK Bodø/Glimt,3,0,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,Group Phase,fase principal,FK Bodø/Glimt,Arsenal,0,1,RSSSF,normal,sim,,Premier League
+2022/2023,Europa League,Group Phase,fase principal,Arsenal,PSV (Eindhoven),1,0,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,Group Phase,fase principal,PSV (Eindhoven),Arsenal,2,0,RSSSF,normal,sim,,Premier League
+2022/2023,Europa League,Group Phase,fase principal,Arsenal,FC Zürich,1,0,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,Group Phase,fase principal,AEK Larnaka,Rennes,1,2,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Group Phase,fase principal,Rennes,Fenerbahçe,2,2,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Group Phase,fase principal,Rennes,Dynamo Kyiv,2,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Group Phase,fase principal,Dynamo Kyiv,Rennes,0,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Group Phase,fase principal,Fenerbahçe,Rennes,3,3,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Group Phase,fase principal,Rennes,AEK Larnaka,1,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Group Phase,fase principal,Man United,Real Sociedad,0,1,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,Group Phase,fase principal,Sheriff Tiraspol,Man United,0,2,RSSSF,normal,sim,,Premier League
+2022/2023,Europa League,Group Phase,fase principal,Omonia Lefkosia,Man United,2,3,RSSSF,normal,sim,,Premier League
+2022/2023,Europa League,Group Phase,fase principal,Man United,Omonia Lefkosia,1,0,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,Group Phase,fase principal,Man United,Sheriff Tiraspol,3,0,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,Group Phase,fase principal,Real Sociedad,Man United,0,1,RSSSF,normal,sim,,Premier League
+2022/2023,Europa League,Group Phase,fase principal,Nantes,Olympiakos (Piraeus),2,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Group Phase,fase principal,Qarabag Agdam,Nantes,3,0,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Group Phase,fase principal,SC Freiburg,Nantes,2,0,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Group Phase,fase principal,Nantes,SC Freiburg,0,4,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Group Phase,fase principal,Nantes,Qarabag Agdam,2,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Group Phase,fase principal,Olympiakos (Piraeus),Nantes,0,2,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Group Phase,fase principal,Crvena zvezda (Beograd),Monaco,0,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Group Phase,fase principal,Monaco,Ferencváros,0,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Group Phase,fase principal,Monaco,Trabzonspor,3,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Group Phase,fase principal,Trabzonspor,Monaco,4,0,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Group Phase,fase principal,Ferencváros,Monaco,1,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Group Phase,fase principal,Monaco,Crvena zvezda (Beograd),4,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Intermediate Round,fase principal,FC Barcelona,Man United,2,2,RSSSF,normal,sim,,Premier League
+2022/2023,Europa League,Intermediate Round,fase principal,Man United,FC Barcelona,2,1,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,Intermediate Round,fase principal,Shakhtar Donetsk,Rennes,2,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Intermediate Round,fase principal,Rennes,Shakhtar Donetsk,2,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Intermediate Round,fase principal,Bayer 04 Leverkusen,Monaco,2,3,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Intermediate Round,fase principal,Monaco,Bayer 04 Leverkusen,2,3,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,Intermediate Round,fase principal,Juventus,Nantes,1,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Europa League,Intermediate Round,fase principal,Nantes,Juventus,0,3,RSSSF,normal,sim,Ligue 1,
+2022/2023,Europa League,1/8 Finals,fase principal,Sporting CP (Lisboa),Arsenal,2,2,RSSSF,normal,sim,,Premier League
+2022/2023,Europa League,1/8 Finals,fase principal,Arsenal,Sporting CP (Lisboa),1,1,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,1/8 Finals,fase principal,Man United,Real Betis (Sevilla),4,1,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,1/8 Finals,fase principal,Real Betis (Sevilla),Man United,0,1,RSSSF,normal,sim,,Premier League
+2022/2023,Europa League,Quarter-Finals,fase principal,Man United,Sevilla FC,2,2,RSSSF,normal,sim,Premier League,
+2022/2023,Europa League,Quarter-Finals,fase principal,Sevilla FC,Man United,3,0,RSSSF,normal,sim,,Premier League
+2022/2023,Conference League,Qualifying Phase 4,qualificatoria,Maccabi Tel-Aviv,Nice,1,0,RSSSF,normal,sim,,Ligue 1
+2022/2023,Conference League,Qualifying Phase 4,qualificatoria,Nice,Maccabi Tel-Aviv,2,0,RSSSF,normal,sim,Ligue 1,
+2022/2023,Conference League,Qualifying Phase 4,qualificatoria,West Ham,Viborg FF,3,1,RSSSF,normal,sim,Premier League,
+2022/2023,Conference League,Qualifying Phase 4,qualificatoria,Viborg FF,West Ham,0,3,RSSSF,normal,sim,,Premier League
+2022/2023,Conference League,Group Phase,fase principal,West Ham,FCSB (Bucuresti),3,1,RSSSF,normal,sim,Premier League,
+2022/2023,Conference League,Group Phase,fase principal,Silkeborg IF,West Ham,2,3,RSSSF,normal,sim,,Premier League
+2022/2023,Conference League,Group Phase,fase principal,RSC Anderlecht,West Ham,0,1,RSSSF,normal,sim,,Premier League
+2022/2023,Conference League,Group Phase,fase principal,West Ham,RSC Anderlecht,2,1,RSSSF,normal,sim,Premier League,
+2022/2023,Conference League,Group Phase,fase principal,West Ham,Silkeborg IF,1,0,RSSSF,normal,sim,Premier League,
+2022/2023,Conference League,Group Phase,fase principal,FCSB (Bucuresti),West Ham,0,3,RSSSF,normal,sim,,Premier League
+2022/2023,Conference League,Group Phase,fase principal,Nice,1.FC Köln,1,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Conference League,Group Phase,fase principal,Partizan (Beograd),Nice,1,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Conference League,Group Phase,fase principal,1.FC Slovácko,Nice,0,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Conference League,Group Phase,fase principal,Nice,1.FC Slovácko,1,2,RSSSF,normal,sim,Ligue 1,
+2022/2023,Conference League,Group Phase,fase principal,Nice,Partizan (Beograd),2,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Conference League,Group Phase,fase principal,1.FC Köln,Nice,2,2,RSSSF,normal,sim,,Ligue 1
+2022/2023,Conference League,1/8 Finals,fase principal,AEK Larnaka,West Ham,0,2,RSSSF,normal,sim,,Premier League
+2022/2023,Conference League,1/8 Finals,fase principal,West Ham,AEK Larnaka,4,0,RSSSF,normal,sim,Premier League,
+2022/2023,Conference League,1/8 Finals,fase principal,Sheriff Tiraspol,Nice,0,1,RSSSF,normal,sim,,Ligue 1
+2022/2023,Conference League,1/8 Finals,fase principal,Nice,Sheriff Tiraspol,3,1,RSSSF,normal,sim,Ligue 1,
+2022/2023,Conference League,Quarter-Finals,fase principal,AA Gent,West Ham,1,1,RSSSF,normal,sim,,Premier League
+2022/2023,Conference League,Quarter-Finals,fase principal,West Ham,AA Gent,4,1,RSSSF,normal,sim,Premier League,
+2022/2023,Conference League,Quarter-Finals,fase principal,FC Basel,Nice,2,2,RSSSF,normal,sim,,Ligue 1
+2022/2023,Conference League,Quarter-Finals,fase principal,Nice,FC Basel,1,2,RSSSF,normal,sim,Ligue 1,
+2022/2023,Conference League,Semi-Finals,fase principal,West Ham,AZ (Alkmaar),2,1,RSSSF,normal,sim,Premier League,
+2022/2023,Conference League,Semi-Finals,fase principal,AZ (Alkmaar),West Ham,0,1,RSSSF,normal,sim,,Premier League
+2022/2023,Conference League,Final,fase principal,AC Fiorentina,West Ham,1,2,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Qualifying Phase 3,qualificatoria,Panathinaikos (Athinai),Marseille,1,0,RSSSF,normal,sim,,Ligue 1
+2023/2024,Champions League,Qualifying Phase 3,qualificatoria,Marseille,Panathinaikos (Athinai),2,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Champions League,Group Phase,fase principal,Bayern München,Man United,4,3,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Man United,Galatasaray (Istanbul),2,3,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,Man United,FC København,1,0,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,FC København,Man United,4,3,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Galatasaray (Istanbul),Man United,3,3,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Man United,Bayern München,0,1,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,Sevilla FC,Lens,1,1,RSSSF,normal,sim,,Ligue 1
+2023/2024,Champions League,Group Phase,fase principal,Arsenal,PSV (Eindhoven),4,0,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,Lens,Arsenal,2,1,RSSSF,normal,sim,Ligue 1,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Sevilla FC,Arsenal,1,2,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Lens,PSV (Eindhoven),1,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Champions League,Group Phase,fase principal,Arsenal,Sevilla FC,2,0,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,PSV (Eindhoven),Lens,1,0,RSSSF,normal,sim,,Ligue 1
+2023/2024,Champions League,Group Phase,fase principal,Arsenal,Lens,6,0,RSSSF,normal,sim,Premier League,Ligue 1
+2023/2024,Champions League,Group Phase,fase principal,PSV (Eindhoven),Arsenal,1,1,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Lens,Sevilla FC,2,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Champions League,Group Phase,fase principal,Milan AC,Newcastle,0,0,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Paris SG,Borussia Dortmund,2,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Champions League,Group Phase,fase principal,Newcastle,Paris SG,4,1,RSSSF,normal,sim,Premier League,Ligue 1
+2023/2024,Champions League,Group Phase,fase principal,Paris SG,Milan AC,3,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Champions League,Group Phase,fase principal,Newcastle,Borussia Dortmund,1,1,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,Borussia Dortmund,Newcastle,2,0,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Milan AC,Paris SG,2,1,RSSSF,normal,sim,,Ligue 1
+2023/2024,Champions League,Group Phase,fase principal,Paris SG,Newcastle,1,1,RSSSF,normal,sim,Ligue 1,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Borussia Dortmund,Paris SG,1,1,RSSSF,normal,sim,,Ligue 1
+2023/2024,Champions League,Group Phase,fase principal,Newcastle,Milan AC,1,2,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,Man City,Crvena zvezda (Beograd),3,1,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,RB Leipzig,Man City,1,3,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Group Phase,fase principal,BSC Young Boys (Bern),Man City,1,3,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Group Phase,fase principal,Man City,BSC Young Boys (Bern),3,0,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,Man City,RB Leipzig,3,2,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Group Phase,fase principal,Crvena zvezda (Beograd),Man City,2,3,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,1/8 Finals,fase principal,FC København,Man City,1,3,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,1/8 Finals,fase principal,Man City,FC København,3,1,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,1/8 Finals,fase principal,Paris SG,Real Sociedad,2,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Champions League,1/8 Finals,fase principal,Real Sociedad,Paris SG,1,2,RSSSF,normal,sim,,Ligue 1
+2023/2024,Champions League,1/8 Finals,fase principal,FC Porto,Arsenal,1,0,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,1/8 Finals,fase principal,Arsenal,FC Porto,1,0,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Quarter-Finals,fase principal,Arsenal,Bayern München,2,2,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Quarter-Finals,fase principal,Bayern München,Arsenal,1,0,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Quarter-Finals,fase principal,Real Madrid,Man City,3,3,RSSSF,normal,sim,,Premier League
+2023/2024,Champions League,Quarter-Finals,fase principal,Man City,Real Madrid,1,1,RSSSF,normal,sim,Premier League,
+2023/2024,Champions League,Quarter-Finals,fase principal,Paris SG,FC Barcelona,2,3,RSSSF,normal,sim,Ligue 1,
+2023/2024,Champions League,Quarter-Finals,fase principal,FC Barcelona,Paris SG,1,4,RSSSF,normal,sim,,Ligue 1
+2023/2024,Champions League,Semi-Finals,fase principal,Borussia Dortmund,Paris SG,1,0,RSSSF,normal,sim,,Ligue 1
+2023/2024,Champions League,Semi-Finals,fase principal,Paris SG,Borussia Dortmund,0,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Group Phase,fase principal,West Ham,TSC (Backa Topola),3,1,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Group Phase,fase principal,SC Freiburg,West Ham,1,2,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,Group Phase,fase principal,Olympiakos (Piraeus),West Ham,2,1,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,Group Phase,fase principal,West Ham,Olympiakos (Piraeus),1,0,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Group Phase,fase principal,TSC (Backa Topola),West Ham,0,1,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,Group Phase,fase principal,West Ham,SC Freiburg,2,0,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Group Phase,fase principal,Ajax,Marseille,3,3,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Group Phase,fase principal,Brighton,AEK (Athinai),2,3,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Group Phase,fase principal,Marseille,Brighton,2,2,RSSSF,normal,sim,Ligue 1,Premier League
+2023/2024,Europa League,Group Phase,fase principal,Marseille,AEK (Athinai),3,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Group Phase,fase principal,Brighton,Ajax,2,0,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Group Phase,fase principal,Ajax,Brighton,0,2,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,Group Phase,fase principal,AEK (Athinai),Marseille,0,2,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Group Phase,fase principal,AEK (Athinai),Brighton,0,1,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,Group Phase,fase principal,Marseille,Ajax,4,3,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Group Phase,fase principal,Brighton,Marseille,1,0,RSSSF,normal,sim,Premier League,Ligue 1
+2023/2024,Europa League,Group Phase,fase principal,LASK Linz,Liverpool,1,3,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,Group Phase,fase principal,Union Saint-Gilloise,Toulouse,1,1,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Group Phase,fase principal,Liverpool,Union Saint-Gilloise,2,0,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Group Phase,fase principal,Toulouse,LASK Linz,1,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Group Phase,fase principal,Liverpool,Toulouse,5,1,RSSSF,normal,sim,Premier League,Ligue 1
+2023/2024,Europa League,Group Phase,fase principal,Toulouse,Liverpool,3,2,RSSSF,normal,sim,Ligue 1,Premier League
+2023/2024,Europa League,Group Phase,fase principal,Liverpool,LASK Linz,4,0,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Group Phase,fase principal,Toulouse,Union Saint-Gilloise,0,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Group Phase,fase principal,LASK Linz,Toulouse,1,2,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Group Phase,fase principal,Union Saint-Gilloise,Liverpool,2,1,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,Group Phase,fase principal,Rennes,Maccabi Haifa,3,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Group Phase,fase principal,Villarreal CF,Rennes,1,0,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Group Phase,fase principal,Panathinaikos (Athinai),Rennes,1,2,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Group Phase,fase principal,Rennes,Panathinaikos (Athinai),3,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Group Phase,fase principal,Maccabi Haifa,Rennes,0,3,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Group Phase,fase principal,Rennes,Villarreal CF,2,3,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Intermediate Round,fase principal,Shakhtar Donetsk,Marseille,2,2,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Intermediate Round,fase principal,Marseille,Shakhtar Donetsk,3,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Intermediate Round,fase principal,Milan AC,Rennes,3,0,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Intermediate Round,fase principal,Rennes,Milan AC,3,2,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Intermediate Round,fase principal,Lens,SC Freiburg,0,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Intermediate Round,fase principal,SC Freiburg,Lens,3,2,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Intermediate Round,fase principal,SL Benfica (Lisboa),Toulouse,2,1,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Intermediate Round,fase principal,Toulouse,SL Benfica (Lisboa),0,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,1/8 Finals,fase principal,Sparta Praha,Liverpool,1,5,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,1/8 Finals,fase principal,Liverpool,Sparta Praha,6,1,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,1/8 Finals,fase principal,AS Roma,Brighton,4,0,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,1/8 Finals,fase principal,Brighton,AS Roma,1,0,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,1/8 Finals,fase principal,Marseille,Villarreal CF,4,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,1/8 Finals,fase principal,Villarreal CF,Marseille,3,1,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,1/8 Finals,fase principal,SC Freiburg,West Ham,1,0,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,1/8 Finals,fase principal,West Ham,SC Freiburg,5,0,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Quarter-Finals,fase principal,Liverpool,Atalanta (Bergamo),0,3,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Quarter-Finals,fase principal,Atalanta (Bergamo),Liverpool,0,1,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,Quarter-Finals,fase principal,Bayer 04 Leverkusen,West Ham,2,0,RSSSF,normal,sim,,Premier League
+2023/2024,Europa League,Quarter-Finals,fase principal,West Ham,Bayer 04 Leverkusen,1,1,RSSSF,normal,sim,Premier League,
+2023/2024,Europa League,Quarter-Finals,fase principal,SL Benfica (Lisboa),Marseille,2,1,RSSSF,normal,sim,,Ligue 1
+2023/2024,Europa League,Quarter-Finals,fase principal,Marseille,SL Benfica (Lisboa),1,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Semi-Finals,fase principal,Marseille,Atalanta (Bergamo),1,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Europa League,Semi-Finals,fase principal,Atalanta (Bergamo),Marseille,3,0,RSSSF,normal,sim,,Ligue 1
+2023/2024,Conference League,Qualifying Phase 4,qualificatoria,Hibernian (Edinburgh),Aston Villa,0,5,RSSSF,normal,sim,,Premier League
+2023/2024,Conference League,Qualifying Phase 4,qualificatoria,Aston Villa,Hibernian (Edinburgh),3,0,RSSSF,normal,sim,Premier League,
+2023/2024,Conference League,Qualifying Phase 4,qualificatoria,Lille,Fra  Rijeka,2,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Conference League,Qualifying Phase 4,qualificatoria,Fra  Rijeka,Lille,1,1,RSSSF,normal,sim,,Ligue 1
+2023/2024,Conference League,Group Phase,fase principal,Lille,Olimpija Ljubljana,2,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Conference League,Group Phase,fase principal,KÍ (Klaksvík),Lille,0,0,RSSSF,normal,sim,,Ligue 1
+2023/2024,Conference League,Group Phase,fase principal,Lille,Slovan Bratislava,2,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Conference League,Group Phase,fase principal,Slovan Bratislava,Lille,1,1,RSSSF,normal,sim,,Ligue 1
+2023/2024,Conference League,Group Phase,fase principal,Olimpija Ljubljana,Lille,0,2,RSSSF,normal,sim,,Ligue 1
+2023/2024,Conference League,Group Phase,fase principal,Lille,KÍ (Klaksvík),3,0,RSSSF,normal,sim,Ligue 1,
+2023/2024,Conference League,Group Phase,fase principal,Legia Warszawa,Aston Villa,3,2,RSSSF,normal,sim,,Premier League
+2023/2024,Conference League,Group Phase,fase principal,Aston Villa,HSK Zrinjski Mostar,1,0,RSSSF,normal,sim,Premier League,
+2023/2024,Conference League,Group Phase,fase principal,AZ (Alkmaar),Aston Villa,1,4,RSSSF,normal,sim,,Premier League
+2023/2024,Conference League,Group Phase,fase principal,Aston Villa,AZ (Alkmaar),2,1,RSSSF,normal,sim,Premier League,
+2023/2024,Conference League,Group Phase,fase principal,Aston Villa,Legia Warszawa,2,1,RSSSF,normal,sim,Premier League,
+2023/2024,Conference League,Group Phase,fase principal,HSK Zrinjski Mostar,Aston Villa,1,1,RSSSF,normal,sim,,Premier League
+2023/2024,Conference League,1/8 Finals,fase principal,Ajax,Aston Villa,0,0,RSSSF,normal,sim,,Premier League
+2023/2024,Conference League,1/8 Finals,fase principal,Aston Villa,Ajax,4,0,RSSSF,normal,sim,Premier League,
+2023/2024,Conference League,1/8 Finals,fase principal,SK Sturm Graz,Lille,0,3,RSSSF,normal,sim,,Ligue 1
+2023/2024,Conference League,1/8 Finals,fase principal,Lille,SK Sturm Graz,1,1,RSSSF,normal,sim,Ligue 1,
+2023/2024,Conference League,Quarter-Finals,fase principal,Aston Villa,Lille,2,1,RSSSF,normal,sim,Premier League,Ligue 1
+2023/2024,Conference League,Quarter-Finals,fase principal,Lille,Aston Villa,2,1,RSSSF,normal,sim,Ligue 1,Premier League
+2023/2024,Conference League,Semi-Finals,fase principal,Aston Villa,Olympiakos (Piraeus),2,4,RSSSF,normal,sim,Premier League,
+2023/2024,Conference League,Semi-Finals,fase principal,Olympiakos (Piraeus),Aston Villa,2,0,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,Qualifying Phase 3,qualificatoria,Lille,Fra  Fenerbahçe (Istanbul),2,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,Qualifying Phase 3,qualificatoria,Fra  Fenerbahçe (Istanbul),Lille,1,1,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,Qualifying Phase 4,qualificatoria,Lille,Fra  Slavia Praha,2,0,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,Qualifying Phase 4,qualificatoria,Fra  Slavia Praha,Lille,2,1,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,BSC Young Boys (Bern),Aston Villa,0,3,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Milan AC,Liverpool,1,3,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Sporting CP (Lisboa),Lille,2,0,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Man City,Internazionale,0,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Paris SG,FC Girona,1,0,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Atalanta (Bergamo),Arsenal,0,0,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Monaco,FC Barcelona,2,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Brest,SK Sturm Graz,2,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Red Bull Salzburg,Brest,0,4,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Arsenal,Paris SG,2,0,RSSSF,normal,sim,Premier League,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Slovan Bratislava,Man City,0,4,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Liverpool,Bologna,2,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Dinamo Zagreb,Monaco,2,2,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Lille,Real Madrid,1,0,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Aston Villa,Bayern München,1,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Monaco,Crvena zvezda (Beograd),5,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Paris SG,PSV (Eindhoven),1,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Arsenal,Shakhtar Donetsk,1,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Aston Villa,Bologna,2,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Brest,Bayer 04 Leverkusen,1,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Man City,Sparta Praha,5,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,RB Leipzig,Liverpool,0,1,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Atlético Madrid,Lille,1,3,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Liverpool,Bayer 04 Leverkusen,4,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Lille,Juventus,1,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Sporting CP (Lisboa),Man City,4,1,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Bologna,Monaco,0,1,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Club Brugge KV,Aston Villa,1,0,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Internazionale,Arsenal,1,0,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Paris SG,Atlético Madrid,1,2,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Sparta Praha,Brest,1,2,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Bayern München,Paris SG,1,0,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,FC Barcelona,Brest,3,0,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Man City,Feyenoord,3,3,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Sporting CP (Lisboa),Arsenal,1,5,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Liverpool,Real Madrid,2,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Monaco,SL Benfica (Lisboa),2,3,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Aston Villa,Juventus,0,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Bologna,Lille,1,2,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,FC Girona,Liverpool,0,1,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,RB Leipzig,Aston Villa,2,3,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Red Bull Salzburg,Paris SG,0,3,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Brest,PSV (Eindhoven),1,0,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Lille,SK Sturm Graz,3,2,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,Arsenal,Monaco,3,0,RSSSF,normal,sim,Premier League,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Juventus,Man City,2,0,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Monaco,Aston Villa,1,0,RSSSF,normal,sim,Ligue 1,Premier League
+2024/2025,Champions League,League Stage,fase principal,Liverpool,Lille,2,1,RSSSF,normal,sim,Premier League,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Shakhtar Donetsk,Brest,2,0,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Paris SG,Man City,4,2,RSSSF,normal,sim,Ligue 1,Premier League
+2024/2025,Champions League,League Stage,fase principal,Arsenal,Dinamo Zagreb,3,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Internazionale,Monaco,3,0,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,League Stage,fase principal,Man City,Club Brugge KV,0,1,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,Lille,Feyenoord,6,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,PSV (Eindhoven),Liverpool,3,2,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Aston Villa,Celtic (Glasgow),4,2,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,League Stage,fase principal,FC Girona,Arsenal,1,2,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,League Stage,fase principal,Brest,Real Madrid,1,3,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,League Stage,fase principal,VfB Stuttgart,Paris SG,1,4,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,Intermediate Round,fase principal,Brest,Paris SG,0,3,RSSSF,normal,sim,Ligue 1,Ligue 1
+2024/2025,Champions League,Intermediate Round,fase principal,Paris SG,Brest,7,0,RSSSF,normal,sim,Ligue 1,Ligue 1
+2024/2025,Champions League,Intermediate Round,fase principal,Man City,Real Madrid,2,3,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,Intermediate Round,fase principal,Real Madrid,Man City,3,1,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,Intermediate Round,fase principal,Monaco,SL Benfica (Lisboa),0,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,Intermediate Round,fase principal,SL Benfica (Lisboa),Monaco,3,3,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,1/8 Finals,fase principal,Club Brugge KV,Aston Villa,1,3,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,1/8 Finals,fase principal,Aston Villa,Club Brugge KV,3,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,1/8 Finals,fase principal,Borussia Dortmund,Lille,1,1,RSSSF,normal,sim,,Ligue 1
+2024/2025,Champions League,1/8 Finals,fase principal,Lille,Borussia Dortmund,1,2,RSSSF,normal,sim,Ligue 1,
+2024/2025,Champions League,1/8 Finals,fase principal,PSV (Eindhoven),Arsenal,1,7,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,1/8 Finals,fase principal,Arsenal,PSV (Eindhoven),2,2,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,1/8 Finals,fase principal,Paris SG,Liverpool,0,1,RSSSF,normal,sim,Ligue 1,Premier League
+2024/2025,Champions League,1/8 Finals,fase principal,Liverpool,Paris SG,0,1,RSSSF,normal,sim,Premier League,Ligue 1
+2024/2025,Champions League,Quarter-Finals,fase principal,Arsenal,Real Madrid,3,0,RSSSF,normal,sim,Premier League,
+2024/2025,Champions League,Quarter-Finals,fase principal,Real Madrid,Arsenal,1,2,RSSSF,normal,sim,,Premier League
+2024/2025,Champions League,Quarter-Finals,fase principal,Paris SG,Aston Villa,3,1,RSSSF,normal,sim,Ligue 1,Premier League
+2024/2025,Champions League,Quarter-Finals,fase principal,Aston Villa,Paris SG,3,2,RSSSF,normal,sim,Premier League,Ligue 1
+2024/2025,Champions League,Semi-Finals,fase principal,Arsenal,Paris SG,0,1,RSSSF,normal,sim,Premier League,Ligue 1
+2024/2025,Champions League,Semi-Finals,fase principal,Paris SG,Arsenal,2,1,RSSSF,normal,sim,Ligue 1,Premier League
+2024/2025,Champions League,Final,fase principal,Paris SG,Internazionale,5,0,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,League Stage,fase principal,Man United,FC Twente (Enschede),1,1,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,League Stage,fase principal,Nice,Real Sociedad,1,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,League Stage,fase principal,Lyon,Olympiakos (Piraeus),2,0,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,League Stage,fase principal,Tottenham,Qarabag Agdam,3,0,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,League Stage,fase principal,SS Lazio (Roma),Nice,4,1,RSSSF,normal,sim,,Ligue 1
+2024/2025,Europa League,League Stage,fase principal,Ferencváros,Tottenham,1,2,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,League Stage,fase principal,FC Porto,Man United,3,3,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,League Stage,fase principal,Rangers (Glasgow),Lyon,1,4,RSSSF,normal,sim,,Ligue 1
+2024/2025,Europa League,League Stage,fase principal,Ferencváros,Nice,1,0,RSSSF,normal,sim,,Ligue 1
+2024/2025,Europa League,League Stage,fase principal,Tottenham,AZ (Alkmaar),1,0,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,League Stage,fase principal,Fenerbahçe (Istanbul),Man United,1,1,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,League Stage,fase principal,Lyon,Besiktas JK (Istanbul),0,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,League Stage,fase principal,Galatasaray (Istanbul),Tottenham,3,2,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,League Stage,fase principal,Nice,FC Twente (Enschede),2,2,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,League Stage,fase principal,Man United,PAOK (Thessaloniki),2,0,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,League Stage,fase principal,TSG 1899 Hoffenheim,Lyon,2,2,RSSSF,normal,sim,,Ligue 1
+2024/2025,Europa League,League Stage,fase principal,Qarabag Agdam,Lyon,1,4,RSSSF,normal,sim,,Ligue 1
+2024/2025,Europa League,League Stage,fase principal,Man United,FK Bodø/Glimt,3,2,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,League Stage,fase principal,Tottenham,AS Roma,2,2,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,League Stage,fase principal,Nice,Rangers (Glasgow),1,4,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,League Stage,fase principal,Union Saint-Gilloise,Nice,2,1,RSSSF,normal,sim,,Ligue 1
+2024/2025,Europa League,League Stage,fase principal,Viktoria Plzen,Man United,1,2,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,League Stage,fase principal,Rangers (Glasgow),Tottenham,1,1,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,League Stage,fase principal,Lyon,Eintracht Frankfurt,3,2,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,League Stage,fase principal,Fenerbahçe (Istanbul),Lyon,0,0,RSSSF,normal,sim,,Ligue 1
+2024/2025,Europa League,League Stage,fase principal,TSG 1899 Hoffenheim,Tottenham,2,3,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,League Stage,fase principal,Man United,Rangers (Glasgow),2,1,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,League Stage,fase principal,IF Elfsborg (Borås),Nice,1,0,RSSSF,normal,sim,,Ligue 1
+2024/2025,Europa League,League Stage,fase principal,Tottenham,IF Elfsborg (Borås),3,0,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,League Stage,fase principal,Lyon,Ludogorets Razgrad,1,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,League Stage,fase principal,FCSB (Bucuresti),Man United,0,2,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,League Stage,fase principal,Nice,FK Bodø/Glimt,1,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,1/8 Finals,fase principal,FCSB (Bucuresti),Lyon,1,3,RSSSF,normal,sim,,Ligue 1
+2024/2025,Europa League,1/8 Finals,fase principal,Lyon,FCSB (Bucuresti),4,0,RSSSF,normal,sim,Ligue 1,
+2024/2025,Europa League,1/8 Finals,fase principal,AZ (Alkmaar),Tottenham,1,0,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,1/8 Finals,fase principal,Tottenham,AZ (Alkmaar),3,1,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,1/8 Finals,fase principal,Real Sociedad,Man United,1,1,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,1/8 Finals,fase principal,Man United,Real Sociedad,4,1,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,Quarter-Finals,fase principal,Tottenham,Eintracht Frankfurt,1,1,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,Quarter-Finals,fase principal,Eintracht Frankfurt,Tottenham,0,1,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,Quarter-Finals,fase principal,Lyon,Man United,2,2,RSSSF,normal,sim,Ligue 1,Premier League
+2024/2025,Europa League,Quarter-Finals,fase principal,Man United,Lyon,5,4,RSSSF,normal,sim,Premier League,Ligue 1
+2024/2025,Europa League,Semi-Finals,fase principal,Tottenham,FK Bodø/Glimt,3,1,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,Semi-Finals,fase principal,FK Bodø/Glimt,Tottenham,0,2,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,Semi-Finals,fase principal,Athletic Bilbao,Man United,0,3,RSSSF,normal,sim,,Premier League
+2024/2025,Europa League,Semi-Finals,fase principal,Man United,Athletic Bilbao,4,1,RSSSF,normal,sim,Premier League,
+2024/2025,Europa League,Final,fase principal,Tottenham,Man United,1,0,RSSSF,normal,sim,Premier League,Premier League
+2024/2025,Conference League,Qualifying Phase 4,qualificatoria,Lens,Panathinaikos (Athinai),2,1,RSSSF,normal,sim,Ligue 1,
+2024/2025,Conference League,Qualifying Phase 4,qualificatoria,Panathinaikos (Athinai),Lens,2,0,RSSSF,normal,sim,,Ligue 1
+2024/2025,Conference League,Qualifying Phase 4,qualificatoria,Chelsea,Servette FC (Genève),2,0,RSSSF,normal,sim,Premier League,
+2024/2025,Conference League,Qualifying Phase 4,qualificatoria,Servette FC (Genève),Chelsea,2,1,RSSSF,normal,sim,,Premier League
+2024/2025,Conference League,League Stage,fase principal,Chelsea,AA Gent,4,2,RSSSF,normal,sim,Premier League,
+2024/2025,Conference League,League Stage,fase principal,Panathinaikos (Athinai),Chelsea,1,4,RSSSF,normal,sim,,Premier League
+2024/2025,Conference League,League Stage,fase principal,Chelsea,Noah Yerevan,8,0,RSSSF,normal,sim,Premier League,
+2024/2025,Conference League,League Stage,fase principal,FC Heidenheim,Chelsea,0,2,RSSSF,normal,sim,,Premier League
+2024/2025,Conference League,League Stage,fase principal,FK Astana,Chelsea,1,3,RSSSF,normal,sim,,Premier League
+2024/2025,Conference League,League Stage,fase principal,Chelsea,Shamrock Rovers (Dublin),5,1,RSSSF,normal,sim,Premier League,
+2024/2025,Conference League,1/8 Finals,fase principal,FC København,Chelsea,1,2,RSSSF,normal,sim,,Premier League
+2024/2025,Conference League,1/8 Finals,fase principal,Chelsea,FC København,1,0,RSSSF,normal,sim,Premier League,
+2024/2025,Conference League,Quarter-Finals,fase principal,Legia Warszawa,Chelsea,0,3,RSSSF,normal,sim,,Premier League
+2024/2025,Conference League,Quarter-Finals,fase principal,Chelsea,Legia Warszawa,1,2,RSSSF,normal,sim,Premier League,
+2024/2025,Conference League,Semi-Finals,fase principal,Djurgårdens IF,Chelsea,1,4,RSSSF,normal,sim,,Premier League
+2024/2025,Conference League,Semi-Finals,fase principal,Chelsea,Djurgårdens IF,1,0,RSSSF,normal,sim,Premier League,
+2024/2025,Conference League,Final,fase principal,Real Betis,Chelsea,1,4,RSSSF,normal,sim,,Premier League
