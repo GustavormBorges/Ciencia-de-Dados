@@ -10,3 +10,8 @@ Thumbs.db
 # bases de origem grandes, usadas pelos scripts de lesões
 datalake/
 football-datasets-main/
+
+# bases de origem utilizadas no tratamento de lesoes
+player_injuries_updated_20260929.csv
+player_performances.txt
+transfer_history.txt

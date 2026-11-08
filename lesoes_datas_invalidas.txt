@@ -1,0 +1,4 @@
+﻿player_id,season_name,injury_reason,from_date,end_date,days_missed,games_missed,motivo
+38073,16/17,unknown injury,,2016-08-10,0.0,0,Data de inicio ausente
+54383,23/24,Shin injury,2024-02-17,,955.0,60,Data final ausente
+140191,22/23,Calf injury,2023-03-12,,1297.0,56,Data final ausente
