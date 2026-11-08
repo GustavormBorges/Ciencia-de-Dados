@@ -191,3 +191,77 @@ A validação demonstrou que os dias de ausência foram preservados durante a in
 | `integrar_bases.py` | Integração dos dados de partidas e lesões |
 | `validar_integracao.py` | Verificação da consistência da base integrada |
 | `data/processed/base_integrada.csv` | Base final integrada |
+## Como reproduzir o tratamento e a integração
+
+### Requisitos
+
+É necessário ter o Python instalado e utilizar o terminal na pasta principal do repositório.
+
+Instale as dependências com:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Arquivos de origem
+
+Antes de executar os scripts, baixe os seguintes arquivos na pasta do Google Drive do projeto:
+
+- `player_injuries_updated_20260929.csv`
+- `player_performances.txt`
+- `transfer_history.txt`
+
+Coloque os três arquivos diretamente na pasta principal `Ciencia-de-Dados/`, junto aos scripts Python.
+
+### Ordem de execução
+
+Execute os comandos abaixo, na raiz do repositório:
+
+**1. Gerar a quantidade de partidas por clube:**
+
+```bash
+python contar_partidas.py
+```
+
+**2. Processar os dados de lesões e distribuir os períodos entre os clubes:**
+
+```bash
+python gerar_base_lesoes.py
+```
+
+Esse processamento gera:
+- `lesoes_distribuidas.txt`
+- `lesoes_fora_das_ligas.txt`
+- `lesoes_datas_invalidas.txt`
+
+**3. Validar a base de lesões:**
+
+```bash
+python validar_base_lesoes.py
+```
+
+**4. Comparar os clubes presentes nas bases:**
+
+```bash
+python comparar_clubes.py
+```
+
+**5. Integrar os dados de partidas e lesões:**
+
+```bash
+python integrar_bases.py
+```
+
+O resultado será salvo em:
+
+`data/processed/base_integrada.csv`
+
+**6. Validar a integração:**
+
+```bash
+python validar_integracao.py
+```
+
+### Resultado esperado
+
+Ao final, será gerada uma base integrada com 396 combinações de clube e temporada, contendo a quantidade de partidas, a quantidade de lesões e os dias de ausência.
