@@ -62,4 +62,4 @@ A associação inicial não garante, por si só, que o clube identificado era aq
 
 A próxima etapa consiste em validar essa associação considerando `from_date`, `end_date` e `transfer_date`, utilizando o histórico de desempenho e transferências.
 
-Os 261 registros pendentes permanecem separados para investigação conjunta entre as Pessoas 1 e 3, conforme a orientação do projeto.
+Dos 261 registros pendentes na associação inicial, 258 foram resolvidos na etapa de integração (ver `docs/integracao_lesoes.md`) e 3 permaneceram sem clube atribuído.
