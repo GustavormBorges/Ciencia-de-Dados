@@ -109,7 +109,7 @@ O dicionário de `partidas_por_clube.csv` e das demais bases está em [docs/](do
 - A Ligue 1 2019/20 foi encerrada em março de 2020 pela covid-19: cada clube tem 27 ou 28 jogos de liga.
 - Europa League 2015/16 a 2019/20, qualificatórias e Coupe de la Ligue vêm de uma única fonte (RSSSF).
 - Supercopa da UEFA, Community Shield e Mundial de Clubes não foram incluídos.
-- As lesões dependem do registro do Transfermarkt; 261 registros ficaram pendentes de revisão na associação inicial de clubes.
+- As lesões dependem do registro do Transfermarkt. A associação inicial de clubes deixou 261 registros para revisão; eles foram reavaliados na etapa de integração, com o histórico de desempenho e de transferências: 258 foram resolvidos e 3 não foram atribuídos a nenhum clube.
 
 ## Como reproduzir
 
