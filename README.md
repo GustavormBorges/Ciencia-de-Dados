@@ -1,79 +1,122 @@
-# Carga de jogos e lesões no futebol: existe uma relação?
+Carga de jogos e lesões no futebol: existe uma relação?
 
-Projeto de **Introdução à Ciência de Dados** (UFPB, prof. Yuri Malheiros).
+Projeto de Introdução à Ciência de Dados (UFPB, prof. Yuri Malheiros).
 
-## Integrantes
+Integrantes
+Gustavo Ramos de Melo Borges
+Samuel Chaves Morais de Lima
+Vitória Maria da Silva
+Yasmin Sousa Batista
+Tema do projeto
 
-- Gustavo Ramos de Melo Borges
-- Samuel Chaves Morais de Lima
-- Vitória Maria da Silva
-- Yasmin Sousa Batista
+O projeto investiga se clubes que disputam mais partidas por temporada têm jogadores afastados por lesão por mais tempo. A análise cobre as temporadas de 2015/16 a 2024/25 da Premier League (Inglaterra) e da Ligue 1 (França).
 
-## Tema
+Abordagem de coleta dos dados
+Datasets públicos (Football-Data.co.uk e Transfermarkt).
+Web scraping: download e leitura de páginas da RSSSF e da Wikipedia (competições europeias e copas francesas).
+Dados no Google Drive
 
-O projeto investiga se clubes que disputam mais partidas por temporada têm jogadores afastados por lesão por mais tempo. A análise cobre as temporadas de **2015/16 a 2024/25** da **Premier League** (Inglaterra) e da **Ligue 1** (França).
+Pasta do projeto no Google Drive (acesso somente leitura). Cada integrante guarda os dados da sua parte em uma subpasta.
 
-## Abordagem de coleta dos dados
+Descrição do conjunto de dados
 
-- Datasets públicos (Football-Data.co.uk e Transfermarkt)
-- Web scraping: download e leitura de páginas da RSSSF e da Wikipedia (competições europeias e copas francesas)
+O conjunto de dados reúne, para cada clube da Premier League e da Ligue 1 em cada temporada de 2015/16 a 2024/25, a quantidade de partidas disputadas e as lesões dos jogadores. São 396 combinações de clube e temporada (200 da Premier League e 196 da Ligue 1). A Ligue 1 teve 20 clubes até 2022/23 e 18 a partir de 2023/24.
 
-## Dados no Google Drive
+As partidas somam três grupos de competições: a liga (Premier League ou Ligue 1), as copas nacionais (FA Cup e EFL Cup na Inglaterra; Coupe de France, Coupe de la Ligue e Trophée des Champions na França) e as competições da UEFA (Champions League, Europa League e Conference League, incluindo qualificatórias). No total são 17.961 participações de clubes em partidas. Não entram a Supercopa da UEFA, a Community Shield e o Mundial de Clubes.
 
-[Pasta do projeto no Google Drive](https://drive.google.com/drive/folders/1appc788RuEs2cBCcn6SrUFIHQNCBNhw2?usp=sharing) (acesso somente leitura).
+As lesões vêm do Transfermarkt. Cada lesão tem data de início e fim e, quando o jogador trocou de clube durante o afastamento, o período foi dividido entre os clubes. A base final tem 9.386 registros de lesão e 364.270 dias de ausência somados nas dez temporadas.
 
-## Resultado: base final
+Processo de coleta
+Partidas de liga. Foram baixados manualmente, em Football-Data.co.uk, os arquivos das 10 temporadas e usados apenas E0.csv (Premier League) e F1.csv (Ligue 1). O script contar_partidas.py conta as partidas de cada clube.
+Copas inglesas. FA Cup e EFL Cup foram obtidas do repositório engsoccerdata, do OpenFootball e da RSSSF. As fontes foram comparadas e as divergências documentadas em excecoes_facup.csv.
+Competições europeias e copas francesas. Scripts (baixar_fontes_europa_franca.py e baixar_fontes_wikipedia.py) baixam as páginas da RSSSF e da Wikipedia, e leitores (leitor_rsssf_europa.py e leitor_copas_franca.py) extraem os jogos. A conferência usou o total de jogos de cada fase, a soma dos placares e a comparação com o OpenFootball. Um erro da RSSSF foi corrigido em excecoes_europa.csv.
+Lesões. Os arquivos player_injuries_updated_20260929.csv, player_performances.txt e transfer_history.txt vêm do dataset público salimt/football-datasets, que reúne dados do Transfermarkt. Eles ficam na pasta Dados originais - Transfermarkt do Drive. O script gerar_base_lesoes.py filtra as ligas e temporadas do projeto e associa cada período de lesão ao clube do jogador.
+Base final. consolidar_base_completa.py junta liga, copas e Europa por clube e temporada, e integrar_bases.py acrescenta as lesões.
+Dicionário de dados
+Base final: data/processed/base_integrada_completa.csv
 
-Cada linha é um clube em uma temporada (**396 linhas**: 200 da Premier League e 196 da Ligue 1). Para cada uma há o total de partidas disputadas e as lesões.
+Uma linha por clube e temporada (396 linhas). Exemplo: Manchester City em 2018/19.
 
-| Arquivo (`data/processed/`) | Conteúdo |
-|---|---|
-| `partidas_todas_competicoes.csv` | partidas por clube e temporada: liga + copas nacionais + competições europeias |
-| `base_integrada_completa.csv` | a tabela acima com `quantidade_lesoes` e `dias_ausencia` |
+Coluna	Descrição	Exemplo
+liga	Campeonato do clube na temporada	Premier League
+temporada	Temporada, no formato ano inicial/ano final	2018/2019
+clube	Nome do clube, padronizado como no Football-Data	Man City
+partidas_liga	Partidas na Premier League ou na Ligue 1	38
+partidas_facup	Partidas na FA Cup	6
+partidas_eflcup	Partidas na EFL Cup	6
+partidas_coupe_de_france	Partidas na Coupe de France	0
+partidas_coupe_de_la_ligue	Partidas na Coupe de la Ligue (extinta após 2019/20)	0
+partidas_trophee_des_champions	Partidas no Trophée des Champions	0
+partidas_copas_nacionais	Soma das copas nacionais	12
+partidas_champions	Partidas na Champions League, com qualificatórias	10
+partidas_europa_league	Partidas na Europa League, com qualificatórias	0
+partidas_conference_league	Partidas na Conference League, com qualificatórias	0
+partidas_europa	Soma das três competições da UEFA	10
+partidas_europa_qualificatorias	Parte de partidas_europa disputada em qualificatórias	0
+total_partidas	Liga + copas nacionais + competições europeias	60
+quantidade_lesoes	Quantidade de lesões de jogadores do clube na temporada	59
+dias_ausencia	Soma dos dias de afastamento dessas lesões	1600
 
-| Liga | Partidas de liga | Copas nacionais | Competições europeias |
-|---|---:|---:|---:|
-| Premier League | 7.600 | 1.177 | 763 |
-| Ligue 1 | 7.102 | 762 | 557 |
+O arquivo partidas_todas_competicoes.csv tem as mesmas colunas, menos as duas de lesões.
 
-O total por clube e temporada vai de 30 jogos (Metz, 2019/20, temporada encurtada pela covid) a 63 (por exemplo, Monaco em 2016/17 e Liverpool em 2015/16). O dicionário das colunas está em [docs/europa_e_copas_francesas.md](docs/europa_e_copas_francesas.md).
+Lesões por clube: lesoes_distribuidas.txt
 
-## Documentação
+Uma linha por período de lesão associado a um clube das duas ligas. Exemplo: uma lesão cirúrgica de um jogador do AS Monaco em 2019/20.
 
-| Documento | Assunto |
-|---|---|
-| [docs/partidas_liga.md](docs/partidas_liga.md) | partidas da Premier League e da Ligue 1 (Football-Data.co.uk) |
-| [docs/copas_inglaterra.md](docs/copas_inglaterra.md) | FA Cup e EFL Cup |
-| [docs/europa_e_copas_francesas.md](docs/europa_e_copas_francesas.md) | Champions, Europa League, Conference, Coupe de France, Coupe de la Ligue e Trophée des Champions |
-| [docs/lesoes.md](docs/lesoes.md) | coleta e tratamento da base de lesões (Transfermarkt) |
-| [docs/integracao_lesoes.md](docs/integracao_lesoes.md) | integração de partidas e lesões, validação e como reproduzir |
+Coluna	Descrição	Exemplo
+from_date	Data de início da lesão	2019-10-18
+end_date	Data de fim da lesão	2019-12-12
+id_lesao	Identificador da lesão; se ela foi dividida entre dois clubes, o número se repete	1573
+player_id	Identificador do jogador no Transfermarkt	1667
+season_name	Temporada da lesão, no formato do Transfermarkt	19/20
+injury_reason	Motivo da lesão, como informado pela fonte (em inglês)	surgery
+from_date_clube	Início do período da lesão atribuído ao clube	2019-10-18
+end_date_clube	Fim do período da lesão atribuído ao clube	2019-12-12
+days_missed_original	Dias de afastamento da lesão inteira, como na fonte	56.0
+days_missed_clube	Dias de afastamento dentro do período do clube	56
+games_missed_total_lesao	Jogos perdidos na lesão inteira, como na fonte (não é dividido entre clubes)	8
+clube_id	Identificador do clube no Transfermarkt	162
+clube_identificado	Nome do clube	AS Monaco
+liga_identificada	Liga do clube	Ligue 1
+status_clube	Situação da associação do período a um clube das ligas	Identificado
 
-## Como reproduzir
+O dicionário de partidas_por_clube.csv e das demais bases está em docs/.
 
-Instale as dependências na raiz do repositório (`pip install -r requirements.txt`) e rode os scripts nesta ordem:
+Documentação detalhada
+Documento	Assunto
+docs/partidas_liga.md	partidas da Premier League e da Ligue 1
+docs/copas_inglaterra.md	FA Cup e EFL Cup
+docs/europa_e_copas_francesas.md	competições da UEFA e copas francesas
+docs/lesoes.md	coleta e tratamento das lesões
+docs/integracao_lesoes.md	integração, validação e como reproduzir
+Limitações
+A quantidade de partidas é uma medida do clube, e não a exposição de cada jogador.
+A Ligue 1 2019/20 foi encerrada em março de 2020 pela covid-19: cada clube tem 27 ou 28 jogos de liga.
+Europa League 2015/16 a 2019/20, qualificatórias e Coupe de la Ligue vêm de uma única fonte (RSSSF).
+Supercopa da UEFA, Community Shield e Mundial de Clubes não foram incluídos.
+As lesões dependem do registro do Transfermarkt; 261 registros ficaram pendentes de revisão na associação inicial de clubes.
+Como reproduzir
 
-| Etapa | Scripts |
-|---|---|
-| 1. Partidas de liga | `contar_partidas.py` |
-| 2. Copas inglesas | `gerar_base_facup.py`, `gerar_base_eflcup.py`, `consolidar_bases_inglaterra.py` |
-| 3. Europa e copas francesas | `baixar_fontes_europa_franca.py`, `baixar_fontes_wikipedia.py`, `gerar_base_europa.py`, `gerar_base_franca.py` |
-| 4. Lesões | `gerar_base_lesoes.py`, `validar_base_lesoes.py`, `comparar_clubes.py`, `integrar_bases.py`, `validar_integracao.py` |
-| 5. Base final | `consolidar_base_completa.py` |
+Instale as dependências com pip install -r requirements.txt e rode, na raiz do repositório e nesta ordem:
 
-As fontes brutas das etapas 2 e 3 ficam em pastas `fontes-*` ao lado do repositório (fora dele), e os arquivos de lesões de origem devem ser baixados do Drive. Os detalhes estão em cada documento de `docs/`.
+Etapa	Scripts
+1. Partidas de liga	contar_partidas.py
+2. Copas inglesas	gerar_base_facup.py, gerar_base_eflcup.py, consolidar_bases_inglaterra.py
+3. Europa e copas francesas	baixar_fontes_europa_franca.py, baixar_fontes_wikipedia.py, gerar_base_europa.py, gerar_base_franca.py
+4. Lesões	gerar_base_lesoes.py, validar_base_lesoes.py, comparar_clubes.py, integrar_bases.py, validar_integracao.py
+5. Base final	consolidar_base_completa.py
 
-## Estrutura do repositório
+As fontes brutas das etapas 2 e 3 ficam em pastas fontes-* ao lado do repositório, e os três arquivos de lesões de origem devem ser baixados do Drive para a raiz do repositório.
 
-```
+Estrutura do repositório
 Ciencia-de-Dados/
 ├── data/
 │   ├── raw/                  CSVs originais da Football-Data.co.uk
 │   └── processed/            bases geradas pelos scripts
 ├── docs/                     documentação de cada etapa
 ├── *.py                      scripts de coleta, tratamento e validação
-├── excecoes_*.csv            correções feitas às fontes (FA Cup e Europa)
+├── excecoes_*.csv            correções feitas às fontes
 ├── lesoes_*.txt              bases intermediárias de lesões
 ├── requirements.txt
 ├── README.md
 └── LICENSE
-```
