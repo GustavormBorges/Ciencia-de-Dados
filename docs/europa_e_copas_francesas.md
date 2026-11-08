@@ -1,8 +1,8 @@
-## Competições europeias e copas francesas
+# Competições europeias e copas francesas
 
 Os jogos de liga e das copas inglesas não bastam para medir a carga de jogos: os clubes também disputam as copas da França e as competições da UEFA. Esta parte completa a base com essas competições, de 2015/16 a 2024/25.
 
-### Escopo
+## Escopo
 
 | Entra | Fica de fora |
 |---|---|
@@ -13,7 +13,7 @@ Os jogos de liga e das copas inglesas não bastam para medir a carga de jogos: o
 
 Uma partida é contada para um clube se ele entrou em campo. Prorrogação e pênaltis contam como uma única partida. Partidas abandonadas contam (os jogadores atuaram); partidas decididas por W.O. sem bola rolando não contam. A temporada de cada partida segue o ano da edição da competição (as qualificatórias de julho de 2018 pertencem a 2018/19).
 
-### Fontes e processo
+## Fontes e processo
 
 | Competição | Fonte principal | Conferência |
 |---|---|---|
@@ -24,7 +24,7 @@ Uma partida é contada para um clube se ele entrou em campo. Prorrogação e pê
 
 As páginas foram baixadas por `baixar_fontes_europa_franca.py` e `baixar_fontes_wikipedia.py` para a pasta `fontes-europa-franca/`, fora do repositório (como as fontes das copas inglesas). Cada fonte tem seu leitor: `leitor_rsssf_europa.py` e `leitor_copas_franca.py`. `nomes_clubes.py` padroniza os nomes para os da base de partidas e só reconhece um clube se ele estava na Premier League ou na Ligue 1 naquela temporada. Adversários estrangeiros e clubes amadores ficam de fora da contagem.
 
-### Gerar os arquivos
+## Gerar os arquivos
 
 ```bash
 python gerar_base_europa.py          # competições europeias
@@ -32,7 +32,7 @@ python gerar_base_franca.py          # copas francesas
 python consolidar_base_completa.py   # junta liga + copas + Europa
 ```
 
-### Arquivos gerados (`data/processed/`)
+## Arquivos gerados (`data/processed/`)
 
 | Arquivo | Conteúdo |
 |---|---|
@@ -48,7 +48,7 @@ python consolidar_base_completa.py   # junta liga + copas + Europa
 
 `excecoes_europa.csv` registra as correções feitas à fonte, no mesmo formato de `excecoes_facup.csv`.
 
-### Principais colunas de `partidas_todas_competicoes.csv`
+## Principais colunas de `partidas_todas_competicoes.csv`
 
 | Coluna | Descrição |
 |---|---|
@@ -61,7 +61,7 @@ python consolidar_base_completa.py   # junta liga + copas + Europa
 | `partidas_europa_qualificatorias` | parte de `partidas_europa` disputada em qualificatórias |
 | `total_partidas` | liga + copas nacionais + Europa |
 
-### Problemas encontrados e decisões
+## Problemas encontrados e decisões
 
 - **Coupe de France sem a estreia da Ligue 1.** De 2020/21 a 2024/25 a RSSSF começa nos 16-avos; os 32-avos (onde a Ligue 1 entra) vêm da Wikipedia. Em 2015/16 a 2019/20 as duas fontes cobrem os 32-avos e foram comparadas.
 - **Erro da RSSSF na Champions 2023/24.** A fonte lista "Milan AC x Crvena zvezda" no Grupo G; o jogo real foi Manchester City 3–1 Crvena zvezda (confirmado no OpenFootball). A correção está em `excecoes_europa.csv`; sem ela o total do Manchester City ficaria errado.
@@ -69,7 +69,7 @@ python consolidar_base_completa.py   # junta liga + copas + Europa
 - **Agregado digitado errado na RSSSF.** Ventspils x Bordeaux (Europa League 2018/19) vem com agregado 2–3; os placares das duas partidas (0–1 e 1–2) estão certos e conferem com a Wikipedia. As partidas foram mantidas.
 - **Partida abandonada.** Paris FC x Lyon (Coupe de France 2021/22) foi interrompida por confusão e os dois clubes foram eliminados; a partida conta e fica sem placar.
 
-### Limitações
+## Limitações
 
 - Europa League 2015/16 a 2019/20 e as fases qualificatórias de todas as edições têm uma única fonte (RSSSF). Para elas a conferência é o total de partidas por fase e a soma dos placares dos confrontos de ida e volta.
 - A Coupe de la Ligue tem uma única fonte (RSSSF).

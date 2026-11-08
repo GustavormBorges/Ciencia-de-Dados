@@ -1,4 +1,6 @@
-# Projeto de Introdução à Ciência de Dados
+# Carga de jogos e lesões no futebol: existe uma relação?
+
+Projeto de **Introdução à Ciência de Dados** (UFPB, prof. Yuri Malheiros).
 
 ## Integrantes
 
@@ -7,336 +9,71 @@
 - Vitória Maria da Silva
 - Yasmin Sousa Batista
 
-## Tema do projeto
-
-**Carga de jogos e lesões no futebol: existe uma relação?**
+## Tema
 
 O projeto investiga se clubes que disputam mais partidas por temporada têm jogadores afastados por lesão por mais tempo. A análise cobre as temporadas de **2015/16 a 2024/25** da **Premier League** (Inglaterra) e da **Ligue 1** (França).
 
 ## Abordagem de coleta dos dados
 
-- Datasets públicos
+- Datasets públicos (Football-Data.co.uk e Transfermarkt)
+- Web scraping: download e leitura de páginas da RSSSF e da Wikipedia (competições europeias e copas francesas)
 
 ## Dados no Google Drive
 
-Os dados coletados estão disponíveis na pasta do Google Drive do grupo (acesso somente leitura):
+[Pasta do projeto no Google Drive](https://drive.google.com/drive/folders/1appc788RuEs2cBCcn6SrUFIHQNCBNhw2?usp=sharing) (acesso somente leitura).
 
-[Pasta do projeto no Google Drive](https://drive.google.com/drive/folders/1appc788RuEs2cBCcn6SrUFIHQNCBNhw2?usp=sharing)
+## Resultado: base final
+
+Cada linha é um clube em uma temporada (**396 linhas**: 200 da Premier League e 196 da Ligue 1). Para cada uma há o total de partidas disputadas e as lesões.
+
+| Arquivo (`data/processed/`) | Conteúdo |
+|---|---|
+| `partidas_todas_competicoes.csv` | partidas por clube e temporada: liga + copas nacionais + competições europeias |
+| `base_integrada_completa.csv` | a tabela acima com `quantidade_lesoes` e `dias_ausencia` |
+
+| Liga | Partidas de liga | Copas nacionais | Competições europeias |
+|---|---:|---:|---:|
+| Premier League | 7.600 | 1.177 | 763 |
+| Ligue 1 | 7.102 | 762 | 557 |
+
+O total por clube e temporada vai de 30 jogos (Metz, 2019/20, temporada encurtada pela covid) a 63 (por exemplo, Monaco em 2016/17 e Liverpool em 2015/16). O dicionário das colunas está em [docs/europa_e_copas_francesas.md](docs/europa_e_copas_francesas.md).
+
+## Documentação
+
+| Documento | Assunto |
+|---|---|
+| [docs/partidas_liga.md](docs/partidas_liga.md) | partidas da Premier League e da Ligue 1 (Football-Data.co.uk) |
+| [docs/copas_inglaterra.md](docs/copas_inglaterra.md) | FA Cup e EFL Cup |
+| [docs/europa_e_copas_francesas.md](docs/europa_e_copas_francesas.md) | Champions, Europa League, Conference, Coupe de France, Coupe de la Ligue e Trophée des Champions |
+| [docs/lesoes.md](docs/lesoes.md) | coleta e tratamento da base de lesões (Transfermarkt) |
+| [docs/integracao_lesoes.md](docs/integracao_lesoes.md) | integração de partidas e lesões, validação e como reproduzir |
+
+## Como reproduzir
+
+Instale as dependências na raiz do repositório (`pip install -r requirements.txt`) e rode os scripts nesta ordem:
+
+| Etapa | Scripts |
+|---|---|
+| 1. Partidas de liga | `contar_partidas.py` |
+| 2. Copas inglesas | `gerar_base_facup.py`, `gerar_base_eflcup.py`, `consolidar_bases_inglaterra.py` |
+| 3. Europa e copas francesas | `baixar_fontes_europa_franca.py`, `baixar_fontes_wikipedia.py`, `gerar_base_europa.py`, `gerar_base_franca.py` |
+| 4. Lesões | `gerar_base_lesoes.py`, `validar_base_lesoes.py`, `comparar_clubes.py`, `integrar_bases.py`, `validar_integracao.py` |
+| 5. Base final | `consolidar_base_completa.py` |
+
+As fontes brutas das etapas 2 e 3 ficam em pastas `fontes-*` ao lado do repositório (fora dele), e os arquivos de lesões de origem devem ser baixados do Drive. Os detalhes estão em cada documento de `docs/`.
 
 ## Estrutura do repositório
 
 ```
 Ciencia-de-Dados/
 ├── data/
-│   ├── raw/
-│   │   ├── premier-league/        # CSVs originais, um por temporada (15-16.csv ... 24-25.csv)
-│   │   └── ligue-1/               # CSVs originais, um por temporada
-│   └── processed/
-│       └── partidas_por_clube.csv # partidas por clube e temporada
-├── contar_partidas.py             # gera a tabela de partidas por clube
-├── README_TRATAMENTO_LESOES.md    # documentação dos dados de lesões
-├── *.py, lesoes_*.txt             # scripts e bases de lesões
+│   ├── raw/                  CSVs originais da Football-Data.co.uk
+│   └── processed/            bases geradas pelos scripts
+├── docs/                     documentação de cada etapa
+├── *.py                      scripts de coleta, tratamento e validação
+├── excecoes_*.csv            correções feitas às fontes (FA Cup e Europa)
+├── lesoes_*.txt              bases intermediárias de lesões
+├── requirements.txt
 ├── README.md
 └── LICENSE
 ```
-
----
-
-## Dados de partidas
-
-### Descrição do conjunto de dados
-
-Resultados de partidas da Premier League e da Ligue 1 entre as temporadas 2015/16 e 2024/25, obtidos no site [Football-Data.co.uk](https://football-data.co.uk/downloadm.php). Cada linha dos CSVs originais representa uma partida, com mandante, visitante, placar, estatísticas do jogo e cotações de apostas.
-
-A partir deles foi construída uma tabela com **a quantidade de partidas que cada clube disputou em cada temporada**, que será cruzada com os dados de lesões. No total são 7.351 partidas (3.800 da Premier League e 3.551 da Ligue 1), resumidas em 396 linhas de clube por temporada.
-
-### Processo de coleta
-
-1. O site disponibiliza um arquivo `data.zip` por temporada, com um CSV para cada divisão de cada país. Foram baixados os zips das 10 temporadas.
-2. De cada zip foram usados apenas dois arquivos: `E0.csv` (Premier League) e `F1.csv` (Ligue 1).
-3. Os arquivos foram renomeados com a temporada (`15-16.csv`, `16-17.csv`, ...) e guardados em `data/raw/premier-league/` e `data/raw/ligue-1/`, sem nenhuma alteração no conteúdo.
-
-### Tratamento
-
-O script `contar_partidas.py`, escrito em Python com a biblioteca `pandas`:
-
-1. lê as colunas `HomeTeam` e `AwayTeam` de cada CSV;
-2. descarta linhas sem times;
-3. conta as aparições de cada clube, como mandante ou como visitante;
-4. grava o resultado em `data/processed/partidas_por_clube.csv`.
-
-Para reproduzir, execute na raiz do repositório:
-
-```bash
-python contar_partidas.py
-```
-
-### Dicionário de dados (`data/processed/partidas_por_clube.csv`)
-
-| Coluna | Descrição | Exemplo |
-|---|---|---|
-| `liga` | Campeonato | Premier League |
-| `temporada` | Temporada, no formato ano inicial/ano final | 2015/2016 |
-| `clube` | Nome do clube, como aparece na fonte (em inglês e abreviado) | Man United |
-| `partidas` | Quantidade de partidas disputadas pelo clube na temporada, em casa e fora | 38 |
-
-### Limitações e observações
-
-- **Só jogos de liga.** Os dados não incluem copas nacionais nem competições europeias, que também contribuem para a carga de jogos dos clubes.
-- **Ligue 1 2019/20 incompleta.** A temporada foi encerrada em março de 2020 por causa da pandemia de covid-19. Há apenas 279 partidas e cada clube aparece com 27 ou 28 jogos, em vez de 38.
-- **Ligue 1 com menos clubes.** A liga passou de 20 para 18 clubes em 2023/24, por isso 2023/24 e 2024/25 têm 306 partidas e 34 jogos por clube.
-- **Nomes de clubes.** Estão em inglês e abreviados (por exemplo, "Man United", "Paris SG"). É preciso padronizá-los antes de cruzar com a base de lesões.
-- **Formato de datas.** Os CSVs originais misturam `dd/mm/aaaa` e `dd/mm/aa`. A tabela final não usa datas.
-- **Colunas.** O número de colunas dos CSVs originais varia entre temporadas, mas `HomeTeam` e `AwayTeam` existem em todos.
-
----
-
-## Tratamento e integração dos dados de lesões
-
-### Tratamento dos dados
-
-O tratamento dos dados de lesões foi realizado utilizando o arquivo `player_injuries_updated_20260929.csv`, com o auxílio dos arquivos `player_performances.txt` e `transfer_history.txt`.
-
-O processamento foi realizado pelo script `gerar_base_lesoes.py`, seguindo as etapas:
-
-1. Identificação dos jogadores com registros de desempenho nas competições estudadas.
-2. Filtragem das competições pelos códigos `GB1` (Premier League da Inglaterra) e `FR1` (Ligue 1 da França).
-3. Associação dos jogadores aos clubes de acordo com os registros de desempenho e histórico de transferências.
-4. Divisão dos períodos de lesão quando havia transferência de clube durante o afastamento.
-5. Separação dos períodos associados a clubes das ligas estudadas daqueles relacionados a clubes de outras competições.
-6. Identificação e separação dos registros com datas incompletas.
-
-### Tratamento das transferências
-
-Quando um jogador mudou de clube durante um período de lesão, o período foi dividido de acordo com a data da transferência. Dessa forma, os dias de ausência puderam ser associados ao clube correspondente em cada intervalo.
-
-Os períodos relacionados a clubes fora da Premier League e da Ligue 1 foram mantidos separadamente e não foram utilizados na base integrada.
-
-### Tratamento das datas inválidas
-
-Foram identificados três registros com datas incompletas:
-
-- Um registro sem data de início.
-- Dois registros sem data final.
-
-Esses registros foram separados no arquivo `lesoes_datas_invalidas.txt` e não foram utilizados no cálculo dos dias de ausência, pois não havia informações suficientes para determinar seus períodos corretamente.
-
-### Padronização dos clubes e temporadas
-
-Os nomes dos clubes apresentavam diferenças entre as fontes de lesões e partidas. Para permitir a integração, foram criadas correspondências entre os nomes utilizados nas duas bases.
-
-Também foi necessário padronizar as temporadas. Por exemplo, o formato `15/16`, utilizado nos registros de lesões, foi convertido para `2015/2016`, utilizado na base de partidas.
-
-Após a padronização, as 396 combinações de liga, temporada e clube apresentaram correspondência entre as duas bases.
-
-### Integração das bases
-
-A integração foi realizada pelo script `integrar_bases.py`, utilizando os arquivos `lesoes_distribuidas.txt` e `data/processed/partidas_por_clube.csv`.
-
-Os registros de lesões foram agrupados por liga, temporada e clube. Para cada combinação, foram calculados:
-
-- **Quantidade de lesões:** número de registros distintos de lesões associados ao clube.
-- **Dias de ausência:** soma dos dias de ausência dos jogadores associados ao clube.
-
-Essas informações foram combinadas com a quantidade de partidas disputadas por cada clube na respectiva temporada.
-
-O resultado foi salvo em `data/processed/base_integrada.csv`, contendo 396 linhas e as seguintes colunas:
-
-| Coluna | Descrição |
-|---|---|
-| `liga` | Campeonato disputado |
-| `temporada` | Temporada no formato ano inicial/ano final |
-| `clube` | Nome padronizado do clube |
-| `partidas` | Quantidade de partidas disputadas na temporada |
-| `quantidade_lesoes` | Quantidade de registros distintos de lesões |
-| `dias_ausencia` | Soma dos dias de ausência dos jogadores |
-
-### Validação da integração
-
-Após a integração, foi executado o script `validar_integracao.py` para verificar a consistência dos dados.
-
-Os resultados obtidos foram:
-
-| Verificação | Resultado |
-|---|---:|
-| Combinações de partidas | 396 |
-| Combinações de lesões | 396 |
-| Linhas na base integrada | 396 |
-| Combinações sem correspondência | 0 |
-| Combinações duplicadas | 0 |
-| Dias na base de lesões utilizada na integração | 364.270 |
-| Dias na base integrada | 364.270 |
-| Diferença entre os totais | 0 |
-| Linhas sem partidas válidas | 0 |
-| Valores negativos | 0 |
-
-A validação demonstrou que os dias de ausência foram preservados durante a integração e que não foram encontradas combinações duplicadas ou sem correspondência.
-
-### Limitações do tratamento
-
-- **Temporadas:** os registros de lesões foram associados à temporada informada na fonte original. Períodos que atravessam a mudança de temporada ainda não foram redistribuídos entre as duas temporadas.
-- **Dias simultâneos:** os dias de ausência são somados individualmente por jogador. Portanto, quando dois jogadores ficam afastados simultaneamente por dez dias, são contabilizados vinte dias de ausência.
-- **Datas incompletas:** os três registros com datas inválidas foram separados e não participaram do cálculo dos dias de ausência.
-- **Partidas perdidas:** a quantidade de partidas perdidas informada na base original não foi distribuída entre clubes quando uma lesão atravessava uma transferência, pois não havia informação suficiente para atribuir essas partidas com precisão.
-
-### Arquivos principais do tratamento
-
-| Arquivo | Finalidade |
-|---|---|
-| `gerar_base_lesoes.py` | Processamento e distribuição dos períodos de lesão |
-| `lesoes_distribuidas.txt` | Períodos associados a clubes das ligas estudadas |
-| `lesoes_fora_das_ligas.txt` | Períodos associados a clubes fora das ligas estudadas |
-| `lesoes_datas_invalidas.txt` | Registros com datas incompletas |
-| `comparar_clubes.py` | Comparação das combinações entre as bases |
-| `integrar_bases.py` | Integração dos dados de partidas e lesões |
-| `validar_integracao.py` | Verificação da consistência da base integrada |
-| `data/processed/base_integrada.csv` | Base final integrada |
-## Como reproduzir o tratamento e a integração
-
-### Requisitos
-
-É necessário ter o Python instalado e utilizar o terminal na pasta principal do repositório.
-
-Instale as dependências com:
-
-```bash
-pip install -r requirements.txt
-```
-
-### Arquivos de origem
-
-Antes de executar os scripts, baixe os seguintes arquivos na pasta do Google Drive do projeto:
-
-- `player_injuries_updated_20260929.csv`
-- `player_performances.txt`
-- `transfer_history.txt`
-
-Coloque os três arquivos diretamente na pasta principal `Ciencia-de-Dados/`, junto aos scripts Python.
-
-### Ordem de execução
-
-Execute os comandos abaixo, na raiz do repositório:
-
-**1. Gerar a quantidade de partidas por clube:**
-
-```bash
-python contar_partidas.py
-```
-
-**2. Processar os dados de lesões e distribuir os períodos entre os clubes:**
-
-```bash
-python gerar_base_lesoes.py
-```
-
-Esse processamento gera:
-- `lesoes_distribuidas.txt`
-- `lesoes_fora_das_ligas.txt`
-- `lesoes_datas_invalidas.txt`
-
-**3. Validar a base de lesões:**
-
-```bash
-python validar_base_lesoes.py
-```
-
-**4. Comparar os clubes presentes nas bases:**
-
-```bash
-python comparar_clubes.py
-```
-
-**5. Integrar os dados de partidas e lesões:**
-
-```bash
-python integrar_bases.py
-```
-
-O resultado será salvo em:
-
-`data/processed/base_integrada.csv`
-
-**6. Validar a integração:**
-
-```bash
-python validar_integracao.py
-```
-
-### Resultado esperado
-
-Ao final, será gerada uma base integrada com 396 combinações de clube e temporada, contendo a quantidade de partidas, a quantidade de lesões e os dias de ausência.
-## Partidas das competições nacionais inglesas
-
-### Objetivo
-
-Além dos jogos da Premier League, foram coletados os resultados das duas principais copas nacionais inglesas: **FA Cup** e **EFL Cup**.
-
-Essa ampliação permite considerar uma parcela maior da carga de jogos dos clubes, já que as equipes podem disputar partidas em diferentes competições durante a mesma temporada.
-
-A coleta abrange as temporadas de **2015/16 a 2024/25**.
-
-### Fontes dos dados
-
-Foram utilizadas diferentes fontes públicas para obter e conferir os resultados:
-
-- **FA Cup:** dados do repositório engsoccerdata, do OpenFootball e do RSSSF.
-- **EFL Cup:** dados do repositório engsoccerdata, do OpenFootball e do RSSSF.
-
-As fontes foram comparadas para identificar diferenças nos confrontos e placares. Quando foram encontradas divergências, elas foram investigadas e documentadas no arquivo `excecoes_facup.csv`, no caso da FA Cup.
-
-### Bases geradas
-
-| Arquivo | Descrição |
-|---|---|
-| `partidas_facup.csv` | Partidas individuais da FA Cup |
-| `partidas_eflcup.csv` | Partidas individuais da EFL Cup |
-| `partidas_facup_por_clube.csv` | Participações dos clubes na FA Cup por temporada |
-| `partidas_eflcup_por_clube.csv` | Participações dos clubes na EFL Cup por temporada |
-| `partidas_copas_inglaterra.csv` | Partidas individuais das duas copas |
-| `partidas_inglaterra_por_clube.csv` | Total de partidas por clube e temporada nas três competições |
-| `partidas_premier_league_com_copas.csv` | Base consolidada dos clubes da Premier League, incluindo as copas |
-
-### Consolidação
-
-A consolidação reuniu os jogos de três competições:
-
-- Premier League: 3.800 partidas;
-- FA Cup: 1.436 partidas;
-- EFL Cup: 925 partidas.
-
-Ao todo, foram contabilizadas **6.161 partidas** nas três competições, considerando as dez temporadas analisadas.
-
-A base `partidas_premier_league_com_copas.csv` contém 200 registros, correspondentes aos 20 clubes da Premier League em cada uma das dez temporadas.
-
-Suas colunas são:
-
-| Coluna | Descrição |
-|---|---|
-| `temporada` | Temporada no formato ano inicial/ano final |
-| `clube` | Nome padronizado do clube |
-| `partidas_premier_league` | Partidas disputadas na Premier League |
-| `partidas_facup` | Participações na FA Cup |
-| `partidas_eflcup` | Participações na EFL Cup |
-| `total_partidas` | Soma das partidas nas três competições |
-
-### Auditoria e validação
-
-Foram gerados arquivos de auditoria para registrar a quantidade de partidas por temporada e verificar a consistência dos dados.
-
-As validações realizadas confirmaram:
-
-- Ausência de partidas duplicadas nas bases consolidadas das copas;
-- Correspondência entre os totais por clube e os resumos das fontes;
-- Correspondência de todos os clubes da Premier League nas bases das copas;
-- Tratamento documentado das divergências encontradas entre as fontes.
-
-Uma partida disputada e posteriormente anulada pela entidade organizadora foi mantida na contagem de carga de jogos, pois os clubes efetivamente entraram em campo.
-
-### Limitações
-
-- A consolidação apresentada contempla apenas as competições nacionais inglesas: Premier League, FA Cup e EFL Cup.
-- As competições europeias, como Champions League e Europa League, ainda não estão incluídas.
-- Os dados das copas francesas ainda não foram incorporados.
-- A quantidade de partidas por clube e temporada representa uma medida coletiva da carga de jogos, não a exposição individual de cada jogador.
-
-O processamento foi realizado pelos scripts `gerar_base_facup.py`, `gerar_base_eflcup.py` e `consolidar_bases_inglaterra.py`.
