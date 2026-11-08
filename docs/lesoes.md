@@ -60,6 +60,6 @@ Os registros pendentes foram separados para evitar atribuições sem evidências
 
 A associação inicial não garante, por si só, que o clube identificado era aquele em que o jogador estava na data de início da lesão.
 
-A próxima etapa consiste em validar essa associação considerando `from_date`, `end_date` e `transfer_date`, utilizando o histórico de desempenho e transferências.
+Essa validação, considerando `from_date`, `end_date` e `transfer_date` com o histórico de desempenho e de transferências, foi feita na etapa de integração.
 
 Dos 261 registros pendentes na associação inicial, 258 foram resolvidos na etapa de integração (ver `docs/integracao_lesoes.md`) e 3 permaneceram sem clube atribuído.
