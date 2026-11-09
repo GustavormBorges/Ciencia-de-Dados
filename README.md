@@ -111,6 +111,21 @@ O dicionário de `partidas_por_clube.csv` e das demais bases está em [docs/](do
 - Supercopa da UEFA, Community Shield e Mundial de Clubes não foram incluídos.
 - As lesões dependem do registro do Transfermarkt. A associação inicial de clubes deixou 261 registros para revisão; eles foram reavaliados na etapa de integração, com o histórico de desempenho e de transferências: 258 foram resolvidos e 3 não foram atribuídos a nenhum clube.
 
+## Primeiras observações (preliminares)
+
+Estas observações são iniciais e não permitem uma conclusão: a base tem 396 linhas, cobre apenas duas ligas e mede a carga por clube, não por jogador.
+
+- Clubes com muitos jogos nem sempre ficam mais tempo com jogadores afastados: o Man City em 2022/23 disputou 60 partidas e somou 452 dias de ausência, enquanto o Brentford em 2023/24 disputou 42 e somou 2.856 dias.
+- A média de dias por lesão varia muito (cerca de 119 no Brentford em 2023/24 e 22 no Man City em 2022/23). Isso sugere que poucas lesões longas podem pesar mais nos dias de ausência do que o número de jogos, o que é uma hipótese a testar.
+- A contagem de lesões aumenta de forma acentuada de 2017/18 para 2018/19 em vários clubes, sem aumento de jogos (Arsenal de 35 para 59, Chelsea de 25 para 53, Liverpool de 30 para 60). É preciso verificar se houve mudança no registro do Transfermarkt.
+
+## Próximos passos
+
+- Análise no nível do jogador (a avaliar: depende de minutos jogados e das datas das lesões).
+- Carga recente: partidas nas semanas anteriores a cada lesão.
+- Comparar dentro da mesma liga e temporada, usando taxas (lesões por 10 jogos e dias por lesão).
+- Controlar elenco, posição e gravidade da lesão.
+
 ## Como reproduzir
 
 Instale as dependências com `pip install -r requirements.txt` e rode, na raiz do repositório e nesta ordem:
