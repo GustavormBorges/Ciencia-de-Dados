@@ -35,8 +35,8 @@ As lesões vêm do Transfermarkt. Cada lesão tem data de início e fim e, quand
 ## Processo de coleta
 
 1. **Partidas de liga.** Foram baixados manualmente, em [Football-Data.co.uk](https://football-data.co.uk/downloadm.php), os arquivos das 10 temporadas e usados apenas `E0.csv` (Premier League) e `F1.csv` (Ligue 1). O script `contar_partidas.py` conta as partidas de cada clube.
-2. **Copas inglesas.** FA Cup e EFL Cup foram obtidas do repositório engsoccerdata, do OpenFootball e da RSSSF. As fontes foram comparadas e as divergências documentadas em `excecoes_facup.csv`.
-3. **Competições europeias e copas francesas.** Scripts (`baixar_fontes_europa_franca.py` e `baixar_fontes_wikipedia.py`) baixam as páginas da RSSSF e da Wikipedia, e leitores (`leitor_rsssf_europa.py` e `leitor_copas_franca.py`) extraem os jogos. A conferência usou o total de jogos de cada fase, a soma dos placares e a comparação com o OpenFootball. Um erro da RSSSF foi corrigido em `excecoes_europa.csv`.
+2. **Copas inglesas.** FA Cup e EFL Cup foram obtidas do repositório engsoccerdata, do OpenFootball e da RSSSF. As fontes foram comparadas e as divergências documentadas em `data/excecoes/excecoes_facup.csv`.
+3. **Competições europeias e copas francesas.** Scripts (`baixar_fontes_europa_franca.py` e `baixar_fontes_wikipedia.py`) baixam as páginas da RSSSF e da Wikipedia, e leitores (`leitor_rsssf_europa.py` e `leitor_copas_franca.py`) extraem os jogos. A conferência usou o total de jogos de cada fase, a soma dos placares e a comparação com o OpenFootball. Um erro da RSSSF foi corrigido em `data/excecoes/excecoes_europa.csv`.
 4. **Lesões.** Os arquivos `player_injuries_updated_20260929.csv`, `player_performances.txt` e `transfer_history.txt` vêm do dataset público [salimt/football-datasets](https://github.com/salimt/football-datasets), que reúne dados do Transfermarkt. O repositório foi baixado manualmente, como ZIP pelo GitHub, em 06/11/2026; não foi usada API nem script de coleta. Os arquivos estão nas pastas `datalake/transfermarkt/player_injuries/`, `datalake/transfermarkt/player_performances/` e `datalake/transfermarkt/transfer_history/`. No ZIP, `player_performances.txt` e `transfer_history.txt` vieram como ponteiros do Git LFS (arquivos de poucas linhas, sem os dados), então foram baixados individualmente pela opção Raw do GitHub. Os três arquivos ficam na pasta `Dados originais - Transfermarkt` do Drive. O script `gerar_base_lesoes.py` filtra as ligas e temporadas do projeto e associa cada período de lesão ao clube do jogador.
 5. **Base final.** `consolidar_base_completa.py` junta liga, copas e Europa por clube e temporada, e `integrar_bases.py` acrescenta as lesões.
 
@@ -69,7 +69,7 @@ Uma linha por clube e temporada (396 linhas). Exemplo: Manchester City em 2018/1
 
 O arquivo `partidas_todas_competicoes.csv` tem as mesmas colunas, menos as duas de lesões.
 
-### Lesões por clube: `lesoes_distribuidas.txt`
+### Lesões por clube: `data/interim/lesoes_distribuidas.csv`
 
 Uma linha por período de lesão associado a um clube das duas ligas. Exemplo: uma lesão cirúrgica de um jogador do AS Monaco em 2019/20.
 
@@ -130,27 +130,29 @@ Estas observações são iniciais e não permitem uma conclusão: a base tem 396
 
 Instale as dependências com `pip install -r requirements.txt` e rode, na raiz do repositório e nesta ordem:
 
-| Etapa | Scripts |
-|---|---|
-| 1. Partidas de liga | `contar_partidas.py` |
-| 2. Copas inglesas | `gerar_base_facup.py`, `gerar_base_eflcup.py`, `consolidar_bases_inglaterra.py` |
-| 3. Europa e copas francesas | `baixar_fontes_europa_franca.py`, `baixar_fontes_wikipedia.py`, `gerar_base_europa.py`, `gerar_base_franca.py` |
-| 4. Lesões | `gerar_base_lesoes.py`, `validar_base_lesoes.py`, `comparar_clubes.py`, `integrar_bases.py`, `validar_integracao.py` |
-| 5. Base final | `consolidar_base_completa.py` |
+| Etapa | Pasta | Scripts |
+|---|---|---|
+| 1. Partidas de liga | `scripts/01_partidas_liga/` | `contar_partidas.py` |
+| 2. Copas inglesas | `scripts/02_copas_inglaterra/` | `gerar_base_facup.py`, `gerar_base_eflcup.py`, `consolidar_bases_inglaterra.py` |
+| 3. Europa e copas francesas | `scripts/03_europa_franca/` | `baixar_fontes_europa_franca.py`, `baixar_fontes_wikipedia.py`, `gerar_base_europa.py`, `gerar_base_franca.py` |
+| 4. Lesões | `scripts/04_lesoes/` | `gerar_base_lesoes.py`, `validar_base_lesoes.py` |
+| 5. Integração e base final | `scripts/05_integracao/` | `comparar_clubes.py`, `integrar_bases.py`, `validar_integracao.py`, `consolidar_base_completa.py` |
 
-As fontes brutas das etapas 2 e 3 ficam em pastas `fontes-*` ao lado do repositório, e os três arquivos de lesões de origem devem ser baixados do Drive para a raiz do repositório.
+Exemplo, a partir da raiz do repositório: `python scripts/01_partidas_liga/contar_partidas.py`. A pasta `scripts/exploracao/` guarda os scripts usados só para explorar os dados do Transfermarkt; eles não fazem parte da reprodução.
+
+As fontes brutas das etapas 2 e 3 ficam em pastas `fontes-*` ao lado do repositório, e os três arquivos de lesões de origem devem ser baixados do Drive para `data/raw/transfermarkt/`.
 
 ## Estrutura do repositório
 
 ```
 Ciencia-de-Dados/
 ├── data/
-│   ├── raw/                  CSVs originais da Football-Data.co.uk
+│   ├── raw/                  originais (Football-Data.co.uk; Transfermarkt em raw/transfermarkt/, fora do Git)
+│   ├── interim/              bases intermediárias de lesões (lesoes_*.csv)
+│   ├── excecoes/             correções feitas às fontes (excecoes_*.csv)
 │   └── processed/            bases geradas pelos scripts
+├── scripts/                  scripts por etapa (01 a 05) e exploracao/
 ├── docs/                     documentação de cada etapa
-├── *.py                      scripts de coleta, tratamento e validação
-├── excecoes_*.csv            correções feitas às fontes
-├── lesoes_*.txt              bases intermediárias de lesões
 ├── requirements.txt
 ├── README.md
 └── LICENSE

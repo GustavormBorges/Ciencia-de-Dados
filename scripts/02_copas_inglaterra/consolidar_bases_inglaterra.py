@@ -3,7 +3,7 @@ import csv
 from pathlib import Path
 from collections import Counter, defaultdict
 
-PASTA = Path("data/processed")
+PASTA = Path(__file__).resolve().parents[2] / "data" / "processed"
 
 ARQUIVO_PL = PASTA / "partidas_por_clube.csv"
 ARQUIVO_FA = PASTA / "partidas_facup.csv"

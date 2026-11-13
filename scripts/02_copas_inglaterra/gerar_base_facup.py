@@ -6,7 +6,7 @@ from pathlib import Path
 import comparar_facup_todas as comparador
 
 
-PASTA = Path(__file__).resolve().parent
+PASTA = Path(__file__).resolve().parents[2]
 PASTA_PROCESSADA = PASTA / "data" / "processed"
 
 PASTA_INGLATERRA = (
@@ -15,7 +15,7 @@ PASTA_INGLATERRA = (
 
 PASTA_RSSSF = PASTA_INGLATERRA / "rsssf"
 
-ARQUIVO_EXCECOES = PASTA / "excecoes_facup.csv"
+ARQUIVO_EXCECOES = PASTA / "data" / "excecoes" / "excecoes_facup.csv"
 
 
 NOMES_PREMIER_LEAGUE = {

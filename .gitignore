@@ -15,3 +15,5 @@ football-datasets-main/
 player_injuries_updated_20260929.csv
 player_performances.txt
 transfer_history.txt
+# originais do Transfermarkt (grandes; ficam no Drive)
+data/raw/transfermarkt/

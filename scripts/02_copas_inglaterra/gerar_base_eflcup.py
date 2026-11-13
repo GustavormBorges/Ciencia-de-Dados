@@ -9,7 +9,7 @@ import pyreadr
 import comparar_facup_todas as comparador
 
 
-PASTA = Path(__file__).resolve().parent
+PASTA = Path(__file__).resolve().parents[2]
 PASTA_PROCESSADA = PASTA / "data" / "processed"
 PASTA_INGLATERRA = PASTA.parent / "fontes-copas-inglaterra"
 

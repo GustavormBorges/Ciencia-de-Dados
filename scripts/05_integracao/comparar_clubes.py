@@ -1,9 +1,12 @@
 import csv
+from pathlib import Path
 
-with open("lesoes_distribuidas.txt", encoding="utf-8-sig") as f:
+RAIZ = Path(__file__).resolve().parents[2]
+
+with open(RAIZ / "data" / "interim" / "lesoes_distribuidas.csv", encoding="utf-8-sig") as f:
     lesoes = list(csv.DictReader(f))
 
-with open("data/processed/partidas_por_clube.csv", encoding="utf-8-sig") as f:
+with open(RAIZ / "data" / "processed" / "partidas_por_clube.csv", encoding="utf-8-sig") as f:
     partidas = list(csv.DictReader(f))
 
 

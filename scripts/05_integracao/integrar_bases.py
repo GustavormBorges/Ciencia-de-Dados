@@ -2,7 +2,7 @@
 import csv
 from pathlib import Path
 
-base = Path(__file__).resolve().parent
+base = Path(__file__).resolve().parents[2]
 
 
 def ler(arquivo):
@@ -89,7 +89,7 @@ nomes_ligue = {
 }
 
 
-lesoes = ler("lesoes_distribuidas.txt")
+lesoes = ler("data/interim/lesoes_distribuidas.csv")
 partidas = ler("data/processed/partidas_por_clube.csv")
 
 

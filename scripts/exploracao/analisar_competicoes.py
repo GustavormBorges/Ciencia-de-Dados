@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 from collections import Counter
 
-base = Path(__file__).resolve().parent / "datalake" / "transfermarkt"
+base = Path(__file__).resolve().parents[2] / "datalake" / "transfermarkt"
 
 arquivo = base / "player_performances" / "player_performances.txt"
 

@@ -4,7 +4,7 @@ import urllib.error
 import urllib.parse
 from pathlib import Path
 
-DESTINO = Path(__file__).resolve().parent.parent / "fontes-europa-franca" / "wikipedia"
+DESTINO = Path(__file__).resolve().parents[2].parent / "fontes-europa-franca" / "wikipedia"
 DESTINO.mkdir(parents=True, exist_ok=True)
 
 

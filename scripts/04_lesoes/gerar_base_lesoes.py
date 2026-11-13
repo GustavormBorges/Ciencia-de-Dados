@@ -4,11 +4,11 @@ import csv
 from pathlib import Path
 from datetime import datetime, timedelta
 
-base = Path(__file__).resolve().parent
+base = Path(__file__).resolve().parents[2]
 
-arquivo_lesoes = base / "player_injuries_updated_20260929.csv"
-arquivo_desempenho = base / "player_performances.txt"
-arquivo_transferencias = base / "transfer_history.txt"
+arquivo_lesoes = base / "data" / "raw" / "transfermarkt" / "player_injuries_updated_20260929.csv"
+arquivo_desempenho = base / "data" / "raw" / "transfermarkt" / "player_performances.txt"
+arquivo_transferencias = base / "data" / "raw" / "transfermarkt" / "transfer_history.txt"
 
 temporadas = {
     "15/16", "16/17", "17/18", "18/19", "19/20",
@@ -265,7 +265,7 @@ campos_originais = [
 campos = campos_originais + campos
 
 with open(
-    base / "lesoes_distribuidas.txt",
+    base / "data" / "interim" / "lesoes_distribuidas.csv",
     "w",
     newline="",
     encoding="utf-8-sig"
@@ -277,7 +277,7 @@ with open(
 
 # Salva os períodos que aconteceram fora das ligas analisadas.
 with open(
-    base / "lesoes_fora_das_ligas.txt",
+    base / "data" / "interim" / "lesoes_fora_das_ligas.csv",
     "w",
     newline="",
     encoding="utf-8-sig"
@@ -290,7 +290,7 @@ if resultado_invalidas:
     campos_invalidos = list(resultado_invalidas[0].keys())
 
     with open(
-        base / "lesoes_datas_invalidas.txt",
+        base / "data" / "interim" / "lesoes_datas_invalidas.csv",
         "w",
         newline="",
         encoding="utf-8-sig"
@@ -309,5 +309,5 @@ print("Períodos fora das ligas:", len(resultado_fora))
 print("Lesões com datas inválidas:", lesoes_sem_data)
 
 print("\nArquivos gerados:")
-print("lesoes_distribuidas.txt")
-print("lesoes_fora_das_ligas.txt")
+print("data/interim/lesoes_distribuidas.csv")
+print("data/interim/lesoes_fora_das_ligas.csv")

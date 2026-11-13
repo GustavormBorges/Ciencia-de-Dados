@@ -1,7 +1,7 @@
 import csv
 from pathlib import Path
 
-base = Path(__file__).resolve().parent / "datalake" / "transfermarkt"
+base = Path(__file__).resolve().parents[2] / "datalake" / "transfermarkt"
 
 arquivos = {
     "LESOES": base / "player_injuries" / "player_injuries_updated_20260929.csv",

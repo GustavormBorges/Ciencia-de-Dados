@@ -7,7 +7,7 @@ Conferencia: totais por fase conferidos com o formato oficial de cada edicao e, 
 a fase principal, com o OpenFootball (feita na construcao; ver README).
 A Supercopa da UEFA nao entra (fora do escopo).
 
-Entradas : ../fontes-europa-franca/rsssf/ec*.html  e  excecoes_europa.csv
+Entradas : ../fontes-europa-franca/rsssf/ec*.html  e  data/excecoes/excecoes_europa.csv
 Saidas   : data/processed/partidas_europa.csv
            data/processed/partidas_europa_por_clube.csv
            data/processed/auditoria_europa.csv
@@ -20,10 +20,10 @@ from pathlib import Path
 import leitor_rsssf_europa as leitor
 import nomes_clubes as nomes
 
-RAIZ = Path(__file__).resolve().parent
+RAIZ = Path(__file__).resolve().parents[2]
 PASTA_FONTES = RAIZ.parent / "fontes-europa-franca" / "rsssf"
 PASTA_SAIDA = RAIZ / "data" / "processed"
-ARQ_EXCECOES = RAIZ / "excecoes_europa.csv"
+ARQ_EXCECOES = RAIZ / "data" / "excecoes" / "excecoes_europa.csv"
 
 FASE_PRINCIPAL = re.compile(r"Group|League Stage|Intermediate|1/8|Quarter|Semi|^Final")
 

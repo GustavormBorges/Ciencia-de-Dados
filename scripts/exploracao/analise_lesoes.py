@@ -2,7 +2,7 @@ import csv
 from pathlib import Path
 
 pasta = (
-    Path(__file__).resolve().parent
+    Path(__file__).resolve().parents[2]
     / "datalake"
     / "transfermarkt"
     / "player_injuries"

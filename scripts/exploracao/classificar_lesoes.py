@@ -3,7 +3,7 @@ from pathlib import Path
 from collections import Counter
 
 pasta = (
-    Path(__file__).resolve().parent
+    Path(__file__).resolve().parents[2]
     / "datalake"
     / "transfermarkt"
     / "player_injuries"

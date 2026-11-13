@@ -2,7 +2,7 @@
 import csv
 from pathlib import Path
 
-pasta = Path(__file__).resolve().parent
+pasta = Path(__file__).resolve().parents[2] / "data" / "interim"
 
 
 def ler(arquivo):
@@ -10,9 +10,9 @@ def ler(arquivo):
         return list(csv.DictReader(f))
 
 
-dentro = ler("lesoes_distribuidas.txt")
-fora = ler("lesoes_fora_das_ligas.txt")
-invalidas = ler("lesoes_datas_invalidas.txt")
+dentro = ler("lesoes_distribuidas.csv")
+fora = ler("lesoes_fora_das_ligas.csv")
+invalidas = ler("lesoes_datas_invalidas.csv")
 
 registros = dentro + fora
 

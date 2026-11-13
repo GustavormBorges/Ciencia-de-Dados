@@ -2,7 +2,7 @@
 import csv
 from pathlib import Path
 
-base = Path(__file__).resolve().parent / "football-datasets-main" / "datalake" / "transfermarkt"
+base = Path(__file__).resolve().parents[2] / "football-datasets-main" / "datalake" / "transfermarkt"
 
 arquivo_desempenho = base / "player_performances" / "player_performances.txt"
 arquivo_lesoes = base / "player_injuries" / "player_injuries_updated_20260929.csv"

@@ -41,9 +41,9 @@ Os registros pendentes foram separados para evitar atribuições sem evidências
 ## 4. Arquivos e scripts
 
 **Bases geradas:**
-- `lesoes_filtradas.txt`: registros após os filtros aplicados.
-- `lesoes_com_clube.txt`: base com associação inicial de clubes.
-- `lesoes_pendentes.txt`: registros que necessitam de revisão.
+- `data/interim/lesoes_filtradas.csv`: registros após os filtros aplicados.
+- `data/interim/lesoes_com_clube.csv`: base com associação inicial de clubes.
+- `data/interim/lesoes_pendentes.csv`: registros que necessitam de revisão.
 
 **Scripts desenvolvidos:**
 - `analisar_competicoes.py`

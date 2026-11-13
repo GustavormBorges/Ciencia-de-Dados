@@ -15,7 +15,7 @@ Saidas:
 import pandas as pd
 from pathlib import Path
 
-PASTA = Path(__file__).resolve().parent / "data" / "processed"
+PASTA = Path(__file__).resolve().parents[2] / "data" / "processed"
 
 
 def ler(nome):

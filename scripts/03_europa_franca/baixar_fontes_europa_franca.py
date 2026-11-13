@@ -3,7 +3,7 @@ import urllib.request
 import urllib.error
 from pathlib import Path
 
-DESTINO = Path(__file__).resolve().parent.parent / "fontes-europa-franca" / "rsssf"
+DESTINO = Path(__file__).resolve().parents[2].parent / "fontes-europa-franca" / "rsssf"
 DESTINO.mkdir(parents=True, exist_ok=True)
 
 

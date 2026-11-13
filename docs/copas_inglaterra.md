@@ -15,7 +15,7 @@ Foram utilizadas diferentes fontes públicas para obter e conferir os resultados
 - **FA Cup:** dados do repositório engsoccerdata, do OpenFootball e do RSSSF.
 - **EFL Cup:** dados do repositório engsoccerdata, do OpenFootball e do RSSSF.
 
-As fontes foram comparadas para identificar diferenças nos confrontos e placares. Quando foram encontradas divergências, elas foram investigadas e documentadas no arquivo `excecoes_facup.csv`, no caso da FA Cup.
+As fontes foram comparadas para identificar diferenças nos confrontos e placares. Quando foram encontradas divergências, elas foram investigadas e documentadas no arquivo `data/excecoes/excecoes_facup.csv`, no caso da FA Cup.
 
 ## Bases geradas
 

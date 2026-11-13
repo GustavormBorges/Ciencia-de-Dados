@@ -2,7 +2,7 @@
 import csv
 from pathlib import Path
 
-base = Path(__file__).resolve().parent
+base = Path(__file__).resolve().parents[2]
 
 
 def ler(arquivo):
@@ -11,7 +11,7 @@ def ler(arquivo):
 
 
 integrada = ler("data/processed/base_integrada.csv")
-lesoes = ler("lesoes_distribuidas.txt")
+lesoes = ler("data/interim/lesoes_distribuidas.csv")
 
 # Verifica combinações duplicadas.
 combinacoes = set()

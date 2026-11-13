@@ -24,7 +24,7 @@ O script `contar_partidas.py`, escrito em Python com a biblioteca `pandas`:
 Para reproduzir, execute na raiz do repositório:
 
 ```bash
-python contar_partidas.py
+python scripts/01_partidas_liga/contar_partidas.py
 ```
 
 ## Dicionário de dados (`data/processed/partidas_por_clube.csv`)

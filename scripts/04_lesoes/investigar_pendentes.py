@@ -1,9 +1,9 @@
 import csv
 from pathlib import Path
 
-pasta = Path(__file__).resolve().parent
+pasta = Path(__file__).resolve().parents[2] / "data" / "interim"
 
-with open(pasta / "lesoes_com_clube.txt", encoding="utf-8-sig") as f:
+with open(pasta / "lesoes_com_clube.csv", encoding="utf-8-sig") as f:
     lesoes = list(csv.DictReader(f))
 
 pendentes = [
@@ -11,7 +11,7 @@ pendentes = [
     if linha["status_clube"] == "Revisar"
 ]
 
-saida = pasta / "lesoes_pendentes.txt"
+saida = pasta / "lesoes_pendentes.csv"
 
 with open(saida, "w", newline="", encoding="utf-8-sig") as f:
     campos = list(pendentes[0].keys())

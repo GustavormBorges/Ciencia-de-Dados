@@ -27,9 +27,9 @@ As páginas foram baixadas por `baixar_fontes_europa_franca.py` e `baixar_fontes
 ## Gerar os arquivos
 
 ```bash
-python gerar_base_europa.py          # competições europeias
-python gerar_base_franca.py          # copas francesas
-python consolidar_base_completa.py   # junta liga + copas + Europa
+python scripts/03_europa_franca/gerar_base_europa.py          # competições europeias
+python scripts/03_europa_franca/gerar_base_franca.py          # copas francesas
+python scripts/05_integracao/consolidar_base_completa.py   # junta liga + copas + Europa
 ```
 
 ## Arquivos gerados (`data/processed/`)
@@ -46,7 +46,7 @@ python consolidar_base_completa.py   # junta liga + copas + Europa
 | `partidas_todas_competicoes.csv` | **base final**: liga + copas nacionais + Europa, por clube e temporada (396 linhas) |
 | `base_integrada_completa.csv` | a base final com `quantidade_lesoes` e `dias_ausencia` |
 
-`excecoes_europa.csv` registra as correções feitas à fonte, no mesmo formato de `excecoes_facup.csv`.
+`data/excecoes/excecoes_europa.csv` registra as correções feitas à fonte, no mesmo formato de `data/excecoes/excecoes_facup.csv`.
 
 ## Principais colunas de `partidas_todas_competicoes.csv`
 
@@ -64,7 +64,7 @@ python consolidar_base_completa.py   # junta liga + copas + Europa
 ## Problemas encontrados e decisões
 
 - **Coupe de France sem a estreia da Ligue 1.** De 2020/21 a 2024/25 a RSSSF começa nos 16-avos; os 32-avos (onde a Ligue 1 entra) vêm da Wikipedia. Em 2015/16 a 2019/20 as duas fontes cobrem os 32-avos e foram comparadas.
-- **Erro da RSSSF na Champions 2023/24.** A fonte lista "Milan AC x Crvena zvezda" no Grupo G; o jogo real foi Manchester City 3–1 Crvena zvezda (confirmado no OpenFootball). A correção está em `excecoes_europa.csv`; sem ela o total do Manchester City ficaria errado.
+- **Erro da RSSSF na Champions 2023/24.** A fonte lista "Milan AC x Crvena zvezda" no Grupo G; o jogo real foi Manchester City 3–1 Crvena zvezda (confirmado no OpenFootball). A correção está em `data/excecoes/excecoes_europa.csv`; sem ela o total do Manchester City ficaria errado.
 - **Diferença de placar entre fontes.** Paris SG x Linas-Montlhéry (Coupe de France 2019/20): Wikipedia sem placar, RSSSF 6–0. Foi usado o da RSSSF.
 - **Agregado digitado errado na RSSSF.** Ventspils x Bordeaux (Europa League 2018/19) vem com agregado 2–3; os placares das duas partidas (0–1 e 1–2) estão certos e conferem com a Wikipedia. As partidas foram mantidas.
 - **Partida abandonada.** Paris FC x Lyon (Coupe de France 2021/22) foi interrompida por confusão e os dois clubes foram eliminados; a partida conta e fica sem placar.

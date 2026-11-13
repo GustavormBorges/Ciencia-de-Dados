@@ -2,7 +2,7 @@ import pandas as pd
 from pathlib import Path
  
 # Caminhos relativos a este arquivo: funciona de qualquer pasta
-RAIZ = Path(__file__).resolve().parent
+RAIZ = Path(__file__).resolve().parents[2]
 PASTAS = {
     RAIZ / "data" / "raw" / "premier-league": "Premier League",
     RAIZ / "data" / "raw" / "ligue-1": "Ligue 1",

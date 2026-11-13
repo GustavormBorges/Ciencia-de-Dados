@@ -24,7 +24,7 @@ from pathlib import Path
 import leitor_copas_franca as leitor
 import nomes_clubes as nomes
 
-RAIZ = Path(__file__).resolve().parent
+RAIZ = Path(__file__).resolve().parents[2]
 FONTES = RAIZ.parent / "fontes-europa-franca"
 PASTA_SAIDA = RAIZ / "data" / "processed"
 

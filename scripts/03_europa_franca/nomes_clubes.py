@@ -10,7 +10,7 @@ import csv
 import unicodedata
 from pathlib import Path
 
-RAIZ = Path(__file__).resolve().parent
+RAIZ = Path(__file__).resolve().parents[2]
 ARQ_PARTIDAS = RAIZ / "data" / "processed" / "partidas_por_clube.csv"
 
 
